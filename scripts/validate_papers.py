@@ -23,6 +23,14 @@ VALID_CATEGORIES = {
     "curriculum",
     "neurosymbolic",
     "causal",
+    "rlhf-alignment",
+    "diffusion",
+    "world-model",
+    "multimodal",
+    "reasoning",
+    "retrieval-augmented",
+    "imitation",
+    "reward-modeling",
 }
 VALID_SUBCATEGORIES = {
     "theory",

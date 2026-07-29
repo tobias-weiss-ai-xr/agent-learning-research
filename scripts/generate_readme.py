@@ -26,6 +26,14 @@ CATEGORY_ORDER = [
     "curriculum",
     "neurosymbolic",
     "causal",
+    "rlhf-alignment",
+    "diffusion",
+    "world-model",
+    "multimodal",
+    "reasoning",
+    "retrieval-augmented",
+    "imitation",
+    "reward-modeling",
 ]
 
 SUBCATEGORY_ORDER = [
@@ -54,6 +62,14 @@ CATEGORY_DISPLAY = {
     "curriculum": "Curriculum Learning",
     "neurosymbolic": "Neurosymbolic Learning",
     "causal": "Causal Learning",
+    "rlhf-alignment": "RLHF / Alignment Learning",
+    "diffusion": "Diffusion Learning",
+    "world-model": "World Model Learning",
+    "multimodal": "Multimodal Learning",
+    "reasoning": "Reasoning Models",
+    "retrieval-augmented": "Retrieval-Augmented Learning",
+    "imitation": "Imitation / Demonstration Learning",
+    "reward-modeling": "Reward Modeling",
 }
 
 SUBCATEGORY_DISPLAY = {
