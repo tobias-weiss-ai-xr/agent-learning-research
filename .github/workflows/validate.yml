@@ -1,0 +1,64 @@
+name: Validate Papers
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'papers.yaml'
+      - 'scripts/'
+      - 'requirements.txt'
+  pull_request:
+    paths:
+      - 'papers.yaml'
+      - 'scripts/'
+      - 'requirements.txt'
+  schedule:
+    - cron: '0 6 * * 1'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Validate papers.yaml
+        continue-on-error: false
+        run: python3 scripts/validate_papers.py
+
+      - name: Check README is up-to-date
+        continue-on-error: false
+        run: python3 scripts/generate_readme.py --check
+
+  discover:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Discover new papers from arXiv
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/fetch/fetch_new_papers.py --months 1 --create-pr

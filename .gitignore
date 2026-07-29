@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+.venv/
+venv/
+.sisyphus/
+.search_cache/
+.ruff_cache/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.blg
+paper/*.log
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.out
+paper/*.bbl
+paper/*.pdf
+paper/figures/*.png

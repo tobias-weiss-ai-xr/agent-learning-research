@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Agent Learning Research: A Living Survey of Learning in AI"
+authors:
+  - family-names: "Weiß"
+    given-names: "Tobias"
+    orcid: "https://orcid.org/0009-0007-1417-8044"
+    affiliation: "graphwiz.ai"
+date-released: 2026-07-29
+url: "https://github.com/tobias-weiss-ai-xr/agent-learning-research"
+repository-code: "https://github.com/tobias-weiss-ai-xr/agent-learning-research"
+keywords:
+  - "machine learning"
+  - "deep learning"
+  - "survey"
+  - "taxonomy"
+  - "reinforcement learning"
+  - "supervised learning"
+  - "unsupervised learning"
+  - "self-supervised learning"
+  - "meta-learning"
+  - "transfer learning"
+license: MIT
+type: article
