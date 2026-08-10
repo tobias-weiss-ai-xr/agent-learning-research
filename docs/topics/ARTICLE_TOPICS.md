@@ -6,6 +6,11 @@
 Evidence-based topic: 1545 curated papers, 1194 in the last 12 months.
 
 
+## 
+
+Evidence-based topic: 1516 curated papers, 1516 in the last 12 months.
+
+
 ## Causal
 
 Evidence-based topic: 1129 curated papers, 896 in the last 12 months.
@@ -44,8 +49,3 @@ Evidence-based topic: 638 curated papers, 481 in the last 12 months.
 ## Neurosymbolic
 
 Evidence-based topic: 573 curated papers, 468 in the last 12 months.
-
-
-## Unsupervised
-
-Evidence-based topic: 557 curated papers, 413 in the last 12 months.

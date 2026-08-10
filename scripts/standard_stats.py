@@ -145,7 +145,7 @@ def main():
                        "recent_share": round(rs, 4)})
     bursts.sort(key=lambda b: (-b["burst_score"], -b["recent"]))
 
-    venue_counter = Counter((e.get("venue") or "").strip() for e in entries)
+    venue_counter = Counter((", ".join(e.get("venue")) if isinstance(e.get("venue"), list) else (e.get("venue") or "")).strip() for e in entries)
     venue_counter.pop("", None)
     top_venues = [{"name": v, "papers": n} for v, n in venue_counter.most_common(15)]
     arxiv_n = sum(1 for e in entries if "arxiv" in e.get("url", ""))

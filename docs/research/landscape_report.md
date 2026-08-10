@@ -1,78 +1,121 @@
 # Paper Landscape Report
 
-**Generated:** 2026-08-07  
-**Corpus:** 11,497 papers (2024-2026) | 11,497 arXiv preprints · 0 journal/publisher records
+**Generated:** 2026-08-11  
+**Corpus:** 13,359 papers (1991-2026) | 13,020 arXiv preprints · 339 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-| Diffusion | 1513 | 729 | 446 | -39% | 14% |
-| Causal | 1108 | 539 | 351 | -35% | 10% |
-| Federated | 1032 | 530 | 232 | -56% | 8% |
-| Rlhf Alignment | 855 | 416 | 212 | -49% | 6% |
-| World Model | 851 | 348 | 342 | -2% | 9% |
-| Supervised | 773 | 367 | 173 | -53% | 6% |
-| Reinforcement | 752 | 390 | 197 | -49% | 6% |
-| Transfer | 611 | 307 | 166 | -46% | 5% |
-| Unsupervised | 557 | 294 | 119 | -60% | 4% |
-| Neurosymbolic | 544 | 269 | 181 | -33% | 5% |
-| Self Supervised | 496 | 234 | 118 | -50% | 4% |
-| Continual | 485 | 226 | 161 | -29% | 5% |
-| Meta Learning | 482 | 231 | 113 | -51% | 4% |
-| Curriculum | 453 | 231 | 149 | -35% | 4% |
-| Online | 429 | 206 | 147 | -29% | 4% |
-| Active | 331 | 173 | 88 | -49% | 3% |
-| Multi Agent | 225 | 132 | 64 | -52% | 2% |
+| Diffusion | 1545 | 739 | 455 | -38% | 11% |
+|  | 1516 | 0 | 1516 | +0% | 21% |
+| Causal | 1129 | 544 | 352 | -35% | 8% |
+| Federated | 1061 | 532 | 237 | -55% | 6% |
+| World Model | 882 | 355 | 355 | +0% | 7% |
+| Rlhf Alignment | 879 | 422 | 216 | -49% | 5% |
+| Supervised | 773 | 367 | 173 | -53% | 4% |
+| Reinforcement | 752 | 390 | 197 | -49% | 5% |
+| Transfer | 638 | 313 | 168 | -46% | 4% |
+| Neurosymbolic | 573 | 270 | 198 | -27% | 4% |
+| Unsupervised | 557 | 294 | 119 | -60% | 3% |
+| Self Supervised | 516 | 243 | 126 | -48% | 3% |
+| Continual | 514 | 236 | 161 | -32% | 4% |
+| Meta Learning | 507 | 231 | 115 | -50% | 3% |
+| Curriculum | 478 | 232 | 150 | -35% | 4% |
+| Online | 429 | 206 | 147 | -29% | 3% |
+| Active | 358 | 183 | 93 | -49% | 2% |
+| Multi Agent | 252 | 144 | 66 | -54% | 2% |
 
 ## Research Aspects
 
-- **Algorithm**: 8690 papers (76%) #####################################
-- **Application**: 136 papers (1%) 
-- **Architecture**: 569 papers (5%) ##
+- ****: 1516 papers (11%) #####
+- **Algorithm**: 8690 papers (65%) ################################
+- **Application**: 164 papers (1%) 
+- **Architecture**: 569 papers (4%) ##
 - **Efficient**: 138 papers (1%) 
+- **Mechanism**: 19 papers (0%) 
+- **Method**: 135 papers (1%) 
 - **Optimization**: 56 papers (0%) 
-- **Robust**: 244 papers (2%) #
+- **Review**: 164 papers (1%) 
+- **Robust**: 244 papers (2%) 
 - **Scaling**: 155 papers (1%) 
-- **Theory**: 1509 papers (13%) ######
+- **Theory**: 1509 papers (11%) #####
 
 ## Year Trend
 
 | Year | Papers |
 |------|-------:|
-| 2024 | 2616 |
-| 2025 | 5622 |
-| 2026 | 3259 |
+| 1991 | 2 |
+| 1995 | 1 |
+| 2004 | 1 |
+| 2005 | 1 |
+| 2007 | 1 |
+| 2009 | 1 |
+| 2010 | 1 |
+| 2012 | 1 |
+| 2013 | 1 |
+| 2015 | 1 |
+| 2017 | 5 |
+| 2018 | 2 |
+| 2019 | 6 |
+| 2020 | 19 |
+| 2021 | 13 |
+| 2022 | 25 |
+| 2023 | 38 |
+| 2024 | 2657 |
+| 2025 | 5701 |
+| 2026 | 4844 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| agentic | 72 | 97 | 1.52× |
-| world model | 342 | 510 | 1.37× |
-| simulator | 93 | 151 | 1.26× |
-| uncertainty | 363 | 607 | 1.23× |
-| scalable | 454 | 770 | 1.21× |
-| planning | 288 | 510 | 1.16× |
-| hierarchical | 227 | 403 | 1.15× |
-| retrieval | 159 | 283 | 1.15× |
-| benchmark | 1471 | 2639 | 1.14× |
-| multi-agent | 258 | 464 | 1.14× |
-| embodied | 56 | 101 | 1.14× |
-| bayesian | 185 | 334 | 1.13× |
+| agentic | 106 | 131 | 1.5× |
+| world model | 370 | 546 | 1.26× |
+| simulator | 123 | 181 | 1.26× |
+| scalable | 572 | 888 | 1.2× |
+| uncertainty | 451 | 695 | 1.2× |
+| hierarchical | 312 | 488 | 1.19× |
+| benchmark | 1887 | 3056 | 1.15× |
+| retrieval | 202 | 326 | 1.15× |
+| multi-agent | 361 | 588 | 1.14× |
+| transfer | 764 | 1252 | 1.13× |
+| simulation | 537 | 892 | 1.12× |
+| memory | 424 | 704 | 1.12× |
 
 ## Top Venues
 
 | Venue | Papers |
 |-------|-------:|
+| CoRR | 58 |
+| IEEE Trans. Neural Networks Learn. Syst. | 8 |
+| ACM Comput. Surv. | 6 |
+| Neurocomputing | 6 |
+| Neural Networks | 6 |
+| IEEE Access | 5 |
+| IEEE Trans. Pattern Anal. Mach. Intell. | 5 |
+| Expert Syst. Appl. | 4 |
+| Eng. Appl. Artif. Intell. | 4 |
+| Federated Learning | 4 |
 
 ## Top Authors
 
 | Author | Papers |
 |--------|-------:|
+| Theodore V. Hromadka II | 3 |
+| Chung-Cheng Yen | 3 |
+| Durai Rajamanickam | 3 |
+| Jing Ma | 2 |
+| Jundong Li | 2 |
+| Melika Aala | 1 |
+| Hedieh Sajedi | 1 |
+| Satoshi TOBINAGA | 1 |
+| Keiichi SUZUKI | 1 |
+| Seiichiro KAGUEI | 1 |
 
 ## Hottest Cells
 
+- `/` — 1516
 - `diffusion/algorithm` — 1174
 - `causal/algorithm` — 922
 - `rlhf-alignment/algorithm` — 748
@@ -82,7 +125,6 @@
 - `supervised/algorithm` — 543
 - `neurosymbolic/algorithm` — 432
 - `unsupervised/algorithm` — 420
-- `continual/algorithm` — 383
 
 ## Thin Cells (White Space)
 
@@ -95,4 +137,4 @@
 - `causal/scaling` — 1
 - `rlhf-alignment/optimization` — 1
 - `world-model/optimization` — 1
-- `multi-agent/application` — 2
+- `online/application` — 2

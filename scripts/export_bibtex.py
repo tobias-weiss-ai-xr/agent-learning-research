@@ -41,10 +41,17 @@ def main():
         title = sanitize_bibtex(paper.get("title", ""))
         url = paper.get("url", "")
         venue = paper.get("venue", "")
+        if isinstance(venue, list):
+            venue = ", ".join(str(v) for v in venue)
         abstract = paper.get("abstract", "")
         if authors:
-            first = re.sub(r"[^a-zA-Z]", "", authors[0].split()[-1].lower())
-            key = f"{first}{year}{key[:20]}"
+            # pick the first author whose surname has letters (guards empty strings)
+            first = next((a for a in authors if a and re.search(r"[a-zA-Z]", a)), "")
+            if first:
+                surname = re.findall(r"[a-zA-Z]+", first)[-1].lower() if re.findall(r"[a-zA-Z]+", first) else ""
+                key = f"{surname}{year}{key[:20]}"
+            else:
+                key = f"{year}{key[:25]}"
         else:
             key = f"{year}{key[:25]}"
         entry = [f"@article{{{key},", f"  title = {{{title}}},", f"  author = {{{author_str}}},",

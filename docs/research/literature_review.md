@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-08-10  
-**Corpus:** 11,843 papers across 17 categories
+**Generated:** 2026-08-11  
+**Corpus:** 13,359 papers across 18 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -12,16 +12,16 @@
 | Rank | Category | Papers |
 |------|----------|--------|
 | 1 | Diffusion | 1545 |
-| 2 | Causal | 1129 |
-| 3 | Federated | 1061 |
-| 4 | World Model | 882 |
-| 5 | Rlhf Alignment | 879 |
-| 6 | Supervised | 773 |
-| 7 | Reinforcement | 752 |
-| 8 | Transfer | 638 |
+| 2 |  | 1516 |
+| 3 | Causal | 1129 |
+| 4 | Federated | 1061 |
+| 5 | World Model | 882 |
+| 6 | Rlhf Alignment | 879 |
+| 7 | Supervised | 773 |
+| 8 | Reinforcement | 752 |
 
 **Time span:** 1991–2026 (median year 2017)
-**Dominant aspects:** Algorithm (8690), Theory (1509), Architecture (569)
+**Dominant aspects:** Algorithm (8690),  (1516), Theory (1509)
 
 ---
 
@@ -29,18 +29,18 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Multi Agent | 225 | 136 | 87 | +56% | 60% | 11.3 |
-| World Model | 851 | 511 | 326 | +57% | 60% | 42.6 |
-| Neurosymbolic | 544 | 305 | 221 | +38% | 56% | 25.4 |
-| Curriculum | 453 | 253 | 190 | +33% | 56% | 21.1 |
+| World Model | 882 | 524 | 333 | +57% | 59% | 43.7 |
+| Neurosymbolic | 573 | 322 | 223 | +44% | 56% | 26.8 |
+|  | 1516 | 1516 | 0 | — | 100% | 126.3 |
+| Multi Agent | 252 | 138 | 99 | +39% | 55% | 11.5 |
+| Curriculum | 478 | 254 | 191 | +33% | 53% | 21.2 |
 | Online | 429 | 231 | 190 | +22% | 54% | 19.2 |
-| Causal | 1108 | 590 | 488 | +21% | 53% | 49.2 |
-| Continual | 485 | 256 | 212 | +21% | 53% | 21.3 |
-| Active | 331 | 172 | 147 | +17% | 52% | 14.3 |
-| Diffusion | 1513 | 755 | 720 | +5% | 50% | 62.9 |
+| Causal | 1129 | 591 | 493 | +20% | 52% | 49.2 |
+| Continual | 514 | 256 | 222 | +15% | 50% | 21.3 |
+| Active | 358 | 178 | 156 | +14% | 50% | 14.8 |
+| Diffusion | 1545 | 764 | 730 | +5% | 49% | 63.7 |
 | Reinforcement | 752 | 354 | 360 | -2% | 47% | 29.5 |
-| Transfer | 611 | 289 | 302 | -4% | 47% | 24.1 |
-| Unsupervised | 557 | 243 | 292 | -17% | 44% | 20.2 |
+| Transfer | 638 | 292 | 308 | -5% | 46% | 24.3 |
 
 ---
 
@@ -71,6 +71,18 @@
 - [2026-07] FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models — https://arxiv.org/abs/2607.05711v1
 - [2026-07] An exact information theory of generalization phase transitions in Bayesian diffusion models — https://arxiv.org/abs/2607.08041v1
 - [2026-07] A Mathematical Introduction to Diffusion Models — https://arxiv.org/abs/2607.01693v1
+
+---
+
+###  (``)
+
+**Corpus size:** 1516 papers
+
+**Recent papers:**
+
+- [2026-08] Recent advances in weakly supervised learning: New supervision paradigms, assumption relaxation — https://arxiv.org/abs/2608.06896v1
+- [2026-08] Spectral Aliasing Pretext: A novel task for Self-Supervised fault diagnosis in rotating machine — https://arxiv.org/abs/2608.05705v1
+- [2026-08] Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning — https://arxiv.org/abs/2608.00630v1
 
 ---
 
