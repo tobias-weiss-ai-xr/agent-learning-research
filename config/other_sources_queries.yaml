@@ -1,0 +1,132 @@
+# Multi-source queries for agent learning research
+# Focus: reviews/surveys for each learning paradigm, especially non-arXiv journals
+
+# ── Diffusion models (highly cited in journals) ──
+- source: crossref
+  query: diffusion model survey
+  category: diffusion
+  subcategory_hint: review
+- source: crossref
+  query: diffusion generative model
+  category: diffusion
+  subcategory_hint: method
+- source: dblp
+  query: diffusion model image generation
+  category: diffusion
+  subcategory_hint: application
+
+# ── Causal learning ──
+- source: crossref
+  query: causal inference machine learning survey
+  category: causal
+  subcategory_hint: review
+- source: dblp
+  query: causal discovery survey
+  category: causal
+  subcategory_hint: review
+
+# ── Federated learning ──
+- source: crossref
+  query: federated learning survey
+  category: federated
+  subcategory_hint: review
+- source: dblp
+  query: federated learning privacy
+  category: federated
+  subcategory_hint: mechanism
+
+# ── RLHF / alignment ──
+- source: dblp
+  query: reinforcement learning from human feedback
+  category: rlhf-alignment
+  subcategory_hint: method
+- source: crossref
+  query: large language model alignment survey
+  category: rlhf-alignment
+  subcategory_hint: review
+
+# ── World models ──
+- source: dblp
+  query: world model reinforcement learning
+  category: world-model
+  subcategory_hint: method
+- source: dblp
+  query: model-based reinforcement learning survey
+  category: world-model
+  subcategory_hint: review
+
+# ── Meta-learning ──
+- source: crossref
+  query: meta-learning survey
+  category: meta-learning
+  subcategory_hint: review
+- source: dblp
+  query: few-shot learning meta
+  category: meta-learning
+  subcategory_hint: method
+
+# ── Continual / lifelong learning ──
+- source: crossref
+  query: continual learning survey
+  category: continual
+  subcategory_hint: review
+- source: dblp
+  query: lifelong learning neural network
+  category: continual
+  subcategory_hint: method
+
+# ── Curriculum learning ──
+- source: dblp
+  query: curriculum learning survey
+  category: curriculum
+  subcategory_hint: review
+- source: dblp
+  query: self-paced learning
+  category: curriculum
+  subcategory_hint: method
+
+# ── Neurosymbolic ──
+- source: crossref
+  query: neurosymbolic AI survey
+  category: neurosymbolic
+  subcategory_hint: review
+- source: dblp
+  query: neural symbolic reasoning
+  category: neurosymbolic
+  subcategory_hint: method
+
+# ── Active learning ──
+- source: crossref
+  query: active learning survey
+  category: active
+  subcategory_hint: review
+- source: dblp
+  query: active learning deep
+  category: active
+  subcategory_hint: method
+
+# ── Multi-agent learning ──
+- source: dblp
+  query: multi-agent reinforcement learning survey
+  category: multi-agent
+  subcategory_hint: review
+- source: crossref
+  query: multi-agent learning cooperation
+  category: multi-agent
+  subcategory_hint: application
+
+# ── Transfer learning ──
+- source: crossref
+  query: transfer learning survey
+  category: transfer
+  subcategory_hint: review
+- source: dblp
+  query: domain adaptation survey
+  category: transfer
+  subcategory_hint: review
+
+# ── Self-supervised ──
+- source: dblp
+  query: self-supervised learning survey
+  category: self-supervised
+  subcategory_hint: review

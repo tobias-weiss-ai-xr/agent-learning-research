@@ -149,6 +149,31 @@ def format_yaml_entry(entry):
     return "\n".join(lines)
 
 
+def _append_local(yaml_path, all_new):
+    """Append discovered papers directly to papers.yaml (no GitHub)."""
+    with open(yaml_path, "r") as f:
+        data = yaml.safe_load(f) or {}
+    papers = data.get("papers", [])
+    before = len(papers)
+    for entry in all_new:
+        papers.append(
+            {
+                "title": entry.get("title", ""),
+                "date": entry.get("date", ""),
+                "url": entry.get("url", ""),
+                "category": "",
+                "subcategory": "",
+                "abstract": entry.get("abstract", ""),
+            }
+        )
+    data["papers"] = papers
+    with open(yaml_path, "w") as f:
+        yaml.dump(
+            data, f, default_flow_style=False, allow_unicode=True, sort_keys=False
+        )
+    print(f"Saved {len(papers) - before} new papers to papers.yaml", flush=True)
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Discover new learning papers from arXiv"
@@ -164,6 +189,9 @@ def main():
     )
     parser.add_argument(
         "--create-pr", action="store_true", help="Create a GitHub PR with new papers"
+    )
+    parser.add_argument(
+        "--local", action="store_true", help="Append discovered papers locally (no GitHub)"
     )
     args = parser.parse_args()
 
@@ -213,6 +241,11 @@ def main():
 
     if args.dry_run:
         print("\nDry run complete — no files modified", flush=True)
+        return
+
+    if args.local:
+        print(f"\nAppending {len(all_new)} new papers locally...", flush=True)
+        _append_local(yaml_path, all_new)
         return
 
     if args.create_pr:

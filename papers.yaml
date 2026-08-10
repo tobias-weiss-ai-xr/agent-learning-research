@@ -332834,3 +332834,3904 @@ papers:
   tags:
   - auto-world-model
   - auto-algorithm
+- title: 'Image super-resolution using diffusion model: a comprehensive survey'
+  date: 2026-07
+  url: https://doi.org/10.1007/s44163-026-01674-6
+  category: diffusion
+  subcategory: review
+  authors:
+  - Melika Aala
+  - Hedieh Sajedi
+  doi: 10.1007/s44163-026-01674-6
+  venue: Discover Artificial Intelligence
+- title: A Survey of Fractional Calculus
+  date: ''
+  url: https://doi.org/10.1017/9781316534649.003
+  category: diffusion
+  subcategory: review
+  authors: []
+  doi: 10.1017/9781316534649.003
+  venue: Fractional Diffusion Equations and Anomalous Diffusion
+- title: Reaction-Diffusion Model
+  date: ''
+  url: https://doi.org/10.1088/1361-6560/ae4846/data2
+  category: diffusion
+  subcategory: review
+  authors: []
+  doi: 10.1088/1361-6560/ae4846/data2
+- title: Liquid-phase Adsorption of p-Xylene onto Zeolite Y. Surface Diffusion Model
+    and Pore Diffusion Model.
+  date: 1991-01
+  url: https://doi.org/10.1627/jpi1958.34.518
+  category: diffusion
+  subcategory: review
+  authors:
+  - Satoshi TOBINAGA
+  - Keiichi SUZUKI
+  - Seiichiro KAGUEI
+  doi: 10.1627/jpi1958.34.518
+  venue: Journal of The Japan Petroleum Institute
+- title: 'Attention in Diffusion Model: A Survey'
+  date: ''
+  url: https://doi.org/10.2139/ssrn.5204619
+  category: diffusion
+  subcategory: review
+  authors:
+  - Litao Hua
+  - Fan Liu
+  - Jie Su
+  doi: 10.2139/ssrn.5204619
+- title: Survey of Clinical Engineering in Developing Countries and Model for Technology
+    Acquisition and Diffusion
+  date: 2005-01
+  url: https://doi.org/10.1109/iembs.2005.1616369
+  category: diffusion
+  subcategory: review
+  authors:
+  - M. Frize
+  - Xinyuan Cao
+  - I. Roy
+  doi: 10.1109/iembs.2005.1616369
+  venue: 2005 IEEE Engineering in Medicine and Biology 27th Annual Conference
+- title: How to model language diffusion
+  date: 2017-12
+  url: https://doi.org/10.62721/diffusion-fundamentals.30.1012
+  category: diffusion
+  subcategory: review
+  authors:
+  - Katharina Prochazka
+  - Gero Vogl
+  doi: 10.62721/diffusion-fundamentals.30.1012
+  venue: Diffusion Fundamentals
+- title: Diffusion Hydrodynamic Model Theoretical Development
+  date: 2020-09
+  url: https://doi.org/10.5772/intechopen.93207
+  category: diffusion
+  subcategory: review
+  authors:
+  - Theodore V. Hromadka II
+  - Chung-Cheng Yen
+  doi: 10.5772/intechopen.93207
+  venue: A Diffusion Hydrodynamic Model
+- title: Verification of Diffusion Hydrodynamic Model
+  date: 2020-09
+  url: https://doi.org/10.5772/intechopen.93208
+  category: diffusion
+  subcategory: review
+  authors:
+  - Theodore V. Hromadka II
+  - Chung-Cheng Yen
+  doi: 10.5772/intechopen.93208
+  venue: A Diffusion Hydrodynamic Model
+- title: Applications of Diffusion Hydrodynamic Model
+  date: 2020-09
+  url: https://doi.org/10.5772/intechopen.93210
+  category: diffusion
+  subcategory: review
+  authors:
+  - Theodore V. Hromadka II
+  - Chung-Cheng Yen
+  doi: 10.5772/intechopen.93210
+  venue: A Diffusion Hydrodynamic Model
+- title: Review for "Generative diffusion model surrogates for mechanistic agent-based
+    biological models"
+  date: 2025-07
+  url: https://doi.org/10.1088/2632-2153/ae11f8/v1/review2
+  category: diffusion
+  subcategory: method
+  authors: []
+  doi: 10.1088/2632-2153/ae11f8/v1/review2
+- title: Diffusion Model
+  date: 2025-01
+  url: https://doi.org/10.1007/978-981-96-0029-8_11
+  category: diffusion
+  subcategory: method
+  authors:
+  - Takeshi Okadome
+  doi: 10.1007/978-981-96-0029-8_11
+  venue: Essentials of Generative AI
+- title: 'Review of the Stable Diffusion Model: Generative Image Synthesis Using Latent
+    Diffusion Models'
+  date: ''
+  url: https://doi.org/10.31219/osf.io/gdb2f
+  category: diffusion
+  subcategory: method
+  authors:
+  - Myles Chew
+  - Mohamood Hakam
+  abstract: This review critically evaluates the Stable Diffusion model, a generative
+    framework leveraging latent diffusion techniques for high-quality image synthesis.
+    By combining advances in variational autoencoders, diffusion processes, and cross-attention
+    mechanisms, Stable Diffusion has demonstrated state
+  doi: 10.31219/osf.io/gdb2f
+- title: Multi-Objective Aerial Collaborative Secure Communication Optimization Via
+    Generative Diffusion Model-Enabled Deep Reinforcement Learning_supp1-3502685.pdf
+  date: ''
+  url: https://doi.org/10.1109/tmc.2024.3502685/mm1
+  category: diffusion
+  subcategory: method
+  authors:
+  - Geng Sun
+  doi: 10.1109/tmc.2024.3502685/mm1
+- title: 'RealDeal: Enhancing Realism and Details in Brain Image Generation via Image-to-Image
+    Diffusion Models.'
+  date: 2025-01
+  url: https://dblp.org/rec/conf/miccai/ZhuJSZF25
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-3-032-05472-2_15
+  venue: DGM4MICCAI@MICCAI
+- title: 'Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text
+    Generation with Text-to-Image Diffusion Models.'
+  date: 2025-01
+  url: https://dblp.org/rec/conf/mmm/HuangZSRK25
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-981-96-2071-5_30
+  venue: MMM
+- title: 'Z-Image: An Efficient Image Generation Foundation Model with Single-Stream
+    Diffusion Transformer.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2511-22699
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2511.22699
+  venue: CoRR
+- title: 'MMCP Team at ImageCLEFmed MEDVQA-GI 2024 Task: Diffusion Models for Text-to-Image
+    Generation of Colonoscopy Images.'
+  date: 2024-01
+  url: https://dblp.org/rec/conf/clef/ChaichukT24
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  venue: CLEF
+- title: 'Story-to-Images Translation: Leveraging Diffusion Models and Large Language
+    Models for Sequence Image Generation.'
+  date: 2023-01
+  url: https://dblp.org/rec/conf/narsum/KumagaiYN23
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3607540.3617144
+  venue: NarSUM@MM
+- title: 'LGINet: Linguistic guided image diffusion model for tree species generation
+    and identification from aerial imagery.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/inffus/YunWWLEZ26
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.INFFUS.2025.103912
+  venue: Inf. Fusion
+- title: Object-level semantic alignment for enhancing fidelity in text-to-image generation
+    with diffusion models.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/ivc/LiuTSZ26
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.IMAVIS.2026.105923
+  venue: Image Vis. Comput.
+- title: 'Glob-Diffusion: A Global Consistent Diffusion Model for Large-Scale Image
+    Generation.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/tcsv/KangSLXFB26
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TCSVT.2025.3643743
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+- title: Enhancing Image Generation of Diffusion Models with Structural Image Guidance.
+  date: 2026-01
+  url: https://dblp.org/rec/conf/mmm/WangH26
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  doi: 10.1007/978-981-95-6957-1_16
+  venue: MMM
+- title: 'ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented
+    Diffusion Models.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2602-12640
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2602.12640
+  venue: CoRR
+- title: 'SCoRe: Clean Image Generation from Diffusion Models Trained on Noisy Images.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2604-09436
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2604.09436
+  venue: CoRR
+- title: 'Disciplined Diffusion: Text-to-Image Diffusion Model against NSFW Generation.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2605-01113
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2605.01113
+  venue: CoRR
+- title: 'MixDiffusion: Mixing Diffusion-based Uni-condition Text-to-Image Generation
+    Models for Multi-condition Image Synthesis.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2607-17634
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2607.17634
+  venue: CoRR
+- title: Customization of the text-to-image diffusion model by fine-tuning for the
+    generation of synthetic images of cyanobacterial blooms in lentic water bodies.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/eswa/BarrientosEspillcoPOB25
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ESWA.2025.128169
+  venue: Expert Syst. Appl.
+- title: Corrigendum to &quot;A novel framework for diverse video generation from
+    a single video using frame-conditioned denoising diffusion probabilistic model
+    and ConvNeXt-V2&quot; [Image and Vision Computing 154 (2025) 105422].
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ivc/VermaBB25a
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.IMAVIS.2025.105556
+  venue: Image Vis. Comput.
+- title: A landmarks-assisted diffusion model with heatmap-guided denoising loss for
+    high-fidelity and controllable facial image generation.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ivc/WangWSLZL25
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.IMAVIS.2025.105545
+  venue: Image Vis. Comput.
+- title: Exploring training data-free video generation from a single image via a stable
+    diffusion model.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/jvcir/HanSB25
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.JVCIR.2025.104504
+  venue: J. Vis. Commun. Image Represent.
+- title: 'Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models
+    for Image Generation.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/simods/HagemannMRSY25
+  category: diffusion
+  subcategory: application
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1137/23M1614092
+  venue: SIAM J. Math. Data Sci.
+- title: Causal Inference Meets Deep Learning
+  date: 2025-01
+  url: https://doi.org/10.1007/978-3-031-99680-1_9
+  category: causal
+  subcategory: review
+  authors:
+  - Durai Rajamanickam
+  doi: 10.1007/978-3-031-99680-1_9
+  venue: Causal Inference for Machine Learning Engineers
+- title: Causal Inference and Natural Language Processing
+  date: 2023-01
+  url: https://doi.org/10.1007/978-3-031-35051-1_9
+  category: causal
+  subcategory: review
+  authors:
+  - Wenqing Chen
+  - Zhixuan Chu
+  doi: 10.1007/978-3-031-35051-1_9
+  venue: Machine Learning for Causal Inference
+- title: Causal Inference and Recommendations
+  date: 2023-01
+  url: https://doi.org/10.1007/978-3-031-35051-1_10
+  category: causal
+  subcategory: review
+  authors:
+  - Yaochen Zhu
+  - Jing Ma
+  - Jundong Li
+  doi: 10.1007/978-3-031-35051-1_10
+  venue: Machine Learning for Causal Inference
+- title: Causal Inference on Graphs
+  date: 2023-01
+  url: https://doi.org/10.1007/978-3-031-35051-1_4
+  category: causal
+  subcategory: review
+  authors:
+  - Jing Ma
+  - Ruocheng Guo
+  - Jundong Li
+  doi: 10.1007/978-3-031-35051-1_4
+  venue: Machine Learning for Causal Inference
+- title: Advanced Causal Inference Methods
+  date: 2025-01
+  url: https://doi.org/10.1007/978-3-031-99680-1_8
+  category: causal
+  subcategory: review
+  authors:
+  - Durai Rajamanickam
+  doi: 10.1007/978-3-031-99680-1_8
+  venue: Causal Inference for Machine Learning Engineers
+- title: Machine Learning for Prediction and Causal Inference
+  date: 2022-01
+  url: https://doi.org/10.61700/u0qw7udtxd5iz469
+  category: causal
+  subcategory: review
+  authors:
+  - Melvyn Weeks
+  abstract: This seminar explores machine learning techniques for prediction and causal
+    inference, where a researcher or decision maker needs to make a prediction or
+    understand the impact of an intervention in a heterogenous population. For example, researchers
+    may want to infer the effect of an economic, educa
+  doi: 10.61700/u0qw7udtxd5iz469
+- title: Causal Inference with AI and Machine Learning
+  date: 2025-01
+  url: https://doi.org/10.61700/9tn5fvuqltbtr2165
+  category: causal
+  subcategory: review
+  authors:
+  - Jason Anastasopoulos
+  abstract: This seminar is designed for researchers, practitioners, and policymakers
+    who want to move beyond prediction to understand cause-and-effect relationships.
+    It introduces the foundations of causal inference—randomized trials, natural experiments,
+    and causal-effect estimation—and shows how modern machi
+  doi: 10.61700/9tn5fvuqltbtr2165
+- title: Advanced Topics in Causal Inference
+  date: 2025-01
+  url: https://doi.org/10.1007/978-3-031-99680-1_14
+  category: causal
+  subcategory: review
+  authors:
+  - Durai Rajamanickam
+  doi: 10.1007/978-3-031-99680-1_14
+  venue: Causal Inference for Machine Learning Engineers
+- title: Operational decision-making with machine learning and causal inference
+  date: ''
+  url: https://doi.org/10.63028/10067/2092470151162165141
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - Toon Vanderschueren
+  abstract: Optimizing operational decisions, routine actions within some business
+    or operational process, is a key challenge across a variety of domains and application
+    areas. The increasing availability of data, computational power, and advanced
+    machine learning (ML) algorithms offers exciting opportunities f
+  doi: 10.63028/10067/2092470151162165141
+- title: A survey of causal discovery based on functional causal model.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/eaai/WangHWLLL24
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ENGAPPAI.2024.108258
+  venue: Eng. Appl. Artif. Intell.
+- title: A Survey on Federated Causal Discovery and Inference.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2606-23741
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2606.23741
+  venue: CoRR
+- title: 'Causal MAS: A Survey of Large Language Model Architectures for Discovery
+    and Effect Estimation.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2509-00987
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2509.00987
+  venue: CoRR
+- title: 'Bridging Causal Discovery and Large Language Models: A Comprehensive Survey
+    of Integrative Approaches and Future Directions.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2402-11068
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2402.11068
+  venue: CoRR
+- title: D&apos;ya Like DAGs? A Survey on Structure Learning and Causal Discovery.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/csur/VowelsCB23
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3527154
+  venue: ACM Comput. Surv.
+- title: A Survey on Causal Discovery Methods for I.I.D. and Time Series Data.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/tmlr/HasanHG23
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: Trans. Mach. Learn. Res.
+- title: Survey and Evaluation of Causal Discovery Methods for Time Series (Extended
+    Abstract).
+  date: 2023-01
+  url: https://dblp.org/rec/conf/ijcai/AssaadDG23
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.24963/IJCAI.2023/766
+  venue: IJCAI
+- title: A Survey on Causal Discovery Methods for Temporal and Non-Temporal Data.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2303-15027
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2303.15027
+  venue: CoRR
+- title: 'A Survey on Causal Discovery: Theory and Practice.'
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2305-10032
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2305.10032
+  venue: CoRR
+- title: Towards Probabilistic Causal Discovery, Inference &amp; Explanations for
+    Autonomous Drones in Mine Surveying Tasks.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2308-10047
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2308.10047
+  venue: CoRR
+- title: Survey and Evaluation of Causal Discovery Methods for Time Series.
+  date: 2022-01
+  url: https://dblp.org/rec/journals/jair/AssaadDG22
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1613/JAIR.1.13428
+  venue: J. Artif. Intell. Res.
+- title: A Survey on Causal Discovery.
+  date: 2022-01
+  url: https://dblp.org/rec/conf/ccks/ZhouC22
+  category: causal
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  doi: 10.1007/978-981-19-7596-7_10
+  venue: CCKS
+- title: Survey on Privacy-Preserving Techniques for Federated Learning
+  date: 2025-01
+  url: https://doi.org/10.5220/0013677800004670
+  category: federated
+  subcategory: review
+  authors:
+  - Jiaqi Lu
+  doi: 10.5220/0013677800004670
+  venue: Proceedings of the 2nd International Conference on Data Science and Engineering
+- title: 'Federated Learning with Model Personalization: A Survey'
+  date: ''
+  url: https://doi.org/10.21203/rs.3.rs-6272058/v1
+  category: federated
+  subcategory: review
+  authors:
+  - Ethan Weimann
+  abstract: "Abstract\n        Federated Learning (FL) enables multiple clients to\
+    \ train models collaboratively without sharing local data, but a single global\
+    \ model often struggles with data heterogeneity. Personalized Federated Learning\
+    \ (PFL) addresses this by tailoring models to individual clients while preser"
+  doi: 10.21203/rs.3.rs-6272058/v1
+- title: A Survey on Federated Learning PoisoningAttacks and Defenses
+  date: ''
+  url: https://doi.org/10.21203/rs.3.rs-1900743/v1
+  category: federated
+  subcategory: review
+  authors:
+  - Junchuan Liang
+  - Rong Wang
+  abstract: "Abstract\n        As one kind of distributed machine learning technique,\
+    \ federated learning enables multiple clients to build a model across decentralized\
+    \ datacollaboratively without explicitly aggregating the data. Due to its abilityto\
+    \ break data silos, federated learning has received increasing att"
+  doi: 10.21203/rs.3.rs-1900743/v1
+- title: 'Federated and Transfer Learning: A Survey on Adversaries and Defense Mechanisms'
+  date: 2023-01
+  url: https://doi.org/10.1007/978-3-031-11748-0_3
+  category: federated
+  subcategory: review
+  authors:
+  - Ehsan Hallaji
+  - Roozbeh Razavi-Far
+  - Mehrdad Saif
+  doi: 10.1007/978-3-031-11748-0_3
+  venue: Adaptation, Learning, and Optimization
+- title: 'Blockchain Integrated Federated Learning in Edge/Fog/Cloud Systems for IoT-Based
+    Healthcare Applications: A Survey'
+  date: 2024-05
+  url: https://doi.org/10.1201/9781003497196-10
+  category: federated
+  subcategory: review
+  authors:
+  - Shinu M. Rajagopal
+  - M. Supriya
+  - Rajkumar Buyya
+  doi: 10.1201/9781003497196-10
+  venue: Federated Learning
+- title: 'A Survey on Vulnerability of Federated Learning: A Learning Algorithm Perspective'
+  date: ''
+  url: https://doi.org/10.2139/ssrn.4586296
+  category: federated
+  subcategory: review
+  authors:
+  - Xianghua XIE
+  - Chen Hu
+  - Hanchi Ren
+  doi: 10.2139/ssrn.4586296
+- title: 'Privacy-Preserving AI in Telecom: A Taxonomy and Survey of Federated Learning
+    Applications'
+  date: ''
+  url: https://doi.org/10.2139/ssrn.5387613
+  category: federated
+  subcategory: review
+  authors:
+  - Juned Kazi
+  doi: 10.2139/ssrn.5387613
+- title: A Comprehensive Survey on Client Selection Strategies in Federated Learning
+  date: ''
+  url: https://doi.org/10.2139/ssrn.4860813
+  category: federated
+  subcategory: review
+  authors:
+  - Jian Li
+  - Tongbao Chen
+  - Shaohua Teng
+  doi: 10.2139/ssrn.4860813
+- title: 'Recent Advances on Federated Learning: A Systematic Survey'
+  date: ''
+  url: https://doi.org/10.2139/ssrn.4410417
+  category: federated
+  subcategory: review
+  authors:
+  - Bingyan Liu
+  - Nuoyan Lv
+  - Yuanchun Guo
+  doi: 10.2139/ssrn.4410417
+- title: 'Multimodal Federated Learning: A Survey'
+  date: ''
+  url: https://doi.org/10.20944/preprints202307.1420.v1
+  category: federated
+  subcategory: review
+  authors:
+  - Liwei Che
+  - Jiaqi Wang
+  - Yao Zhou
+  abstract: Federated learning (FL) has become a burgeoning and attractive research
+    area, which provides a collaborative training scheme for distributed data sources
+    with privacy concerns. Most existing FL studies focus on taking unimodal data,
+    such as images and text, as the model input and resolving the heter
+  doi: 10.20944/preprints202307.1420.v1
+- title: Task-Agnostic Privacy-Preserving Representation Learning via Federated Learning.
+  date: 2020-01
+  url: https://dblp.org/rec/series/lncs/LiYC20
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-3-030-63076-8_4
+  venue: Federated Learning
+- title: 'Advancements of federated learning towards privacy preservation: from federated
+    learning to split learning.'
+  date: 2020-01
+  url: https://arxiv.org/abs/2011.14818
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: CoRR
+- title: 'Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized
+    Differential Privacy Budgets in Federated Learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2605-02372
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2605.02372
+  venue: CoRR
+- title: 'Integrating zero-knowledge proofs into federated learning: a path to on-chain
+    verifiable and privacy-preserving federated learning frameworks.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ijwis/LiXLRLWLA25
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1108/IJWIS-01-2025-0024
+  venue: Int. J. Web Inf. Syst.
+- title: Privacy Preserving Machine Learning for Electronic Health Records using Federated
+    Learning and Differential Privacy.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2406-15962
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2406.15962
+  venue: CoRR
+- title: 'FedDCL: a federated data collaboration learning as a hybrid-type privacy-preserving
+    framework based on federated learning and data collaboration.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2409-18356
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2409.18356
+  venue: CoRR
+- title: 'FedCL-Ensemble Learning: A Framework of Federated Continual Learning with
+    Ensemble Transfer Learning Enhanced for Alzheimer&apos;s MRI Classifications while
+    Preserving Privacy.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2411-12756
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2411.12756
+  venue: CoRR
+- title: Local Differential Privacy Based Membership-Privacy-Preserving Federated
+    Learning for Deep-Learning-Driven Remote Sensing.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/remotesensing/ZhangMM23
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.3390/RS15205050
+  venue: Remote. Sens.
+- title: 'Trade Privacy for Utility: A Learning-Based Privacy Pricing Game in Federated
+    Learning.'
+  date: 2023-01
+  url: https://dblp.org/rec/conf/icc/WangSPBLLL23
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ICC45041.2023.10279823
+  venue: ICC
+- title: Privacy-Preserving Vertical Federated Learning.
+  date: 2022-01
+  url: https://dblp.org/rec/books/sp/22/XuB0A022
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-3-030-96896-0_18
+  venue: Federated Learning
+- title: 'Federated Learning and Privacy: Building privacy-preserving systems for
+    machine learning and data science on decentralized data.'
+  date: 2021-01
+  url: https://dblp.org/rec/journals/queue/BonawitzKMR21
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3494834.3500240
+  venue: ACM Queue
+- title: 'Preserving User Privacy for Machine Learning: Local Differential Privacy
+    or Federated Machine Learning?'
+  date: 2020-01
+  url: https://dblp.org/rec/journals/expert/ZhengHH20
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/MIS.2020.3010335
+  venue: IEEE Intell. Syst.
+- title: 'Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart
+    Privacy Attacks.'
+  date: 2020-01
+  url: https://dblp.org/rec/series/lncs/FanNJZLCY20
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-3-030-63076-8_3
+  venue: Federated Learning
+- title: Federated Learning - Privacy and Incentive
+  date: 2020-01
+  url: https://dblp.org/rec/series/lncs/12500
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-3-030-63076-8
+  venue:
+  - Federated Learning
+  - Lecture Notes in Computer Science
+- title: 'Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box
+    Inference Attacks against Centralized and Federated Learning.'
+  date: 2019-01
+  url: https://dblp.org/rec/conf/sp/NasrSH19
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/SP.2019.00065
+  venue: IEEE Symposium on Security and Privacy
+- title: 'A Deployment-Oriented Privacy-Preserving CTI Framework: Integrating PIR,
+    Federated Learning, Differential Privacy, and Practical Hardenings.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/access/CamalanC26
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  doi: 10.1109/ACCESS.2026.3686089
+  venue: IEEE Access
+- title: 'Privacy-Preserving Federated Learning: Adaptive Quantization and Layer-Specific
+    Differential Privacy With Client Dropout Mitigation.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/acisc/AtiaKFE26
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1155/ACIS/1125376
+  venue: Appl. Comput. Intell. Soft Comput.
+- title: 'PA-FedVL: A privacy-enhanced federated virtual learning framework based
+    on label differential privacy distillation.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/asc/YuWG26
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ASOC.2026.115760
+  venue: Appl. Soft Comput.
+- title: 'Federated learning for melanoma detection: A decentralized and privacy-preserving
+    approach using deep learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/bspc/DinIITED26
+  category: federated
+  subcategory: mechanism
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.BSPC.2025.108576
+  venue: Biomed. Signal Process. Control.
+- title: A reinforcement learning from human feedback based method for task allocation
+    of human robot collaboration assembly considering human preference.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/aei/WangYHY25
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.AEI.2025.103497
+  venue: Adv. Eng. Informatics
+- title: 'Contrastive Preference Learning: Learning from Human Feedback without Reinforcement
+    Learning.'
+  date: 2024-01
+  url: https://dblp.org/rec/conf/iclr/HejnaRSFNKS24
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: ICLR
+- title: Human-machine collaborative model for dynamic translation of intangible cultural
+    heritage patterns based on generative adversarial network and reinforcement learning
+    from human feedback.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/dai/MaQ26
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1007/S44163-026-01365-2
+  venue: Discov. Artif. Intell.
+- title: A Tighter Bound for Reward Learning in Reinforcement Learning from Human
+    Feedback.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/tmlr/ChenCAZ26
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: Trans. Mach. Learn. Res.
+- title: Swap-guided Preference Learning for Personalized Reinforcement Learning from
+    Human Feedback.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2603-12595
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2603.12595
+  venue: CoRR
+- title: 'Towards human-like questioning: Knowledge base question generation with
+    bias-corrected reinforcement learning from human feedback.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ipm/ZhaoTZGZ25
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.IPM.2024.104044
+  venue: Inf. Process. Manag.
+- title: Aligning Humans and Robots via Reinforcement Learning from Implicit Human
+    Feedback.
+  date: 2025-01
+  url: https://dblp.org/rec/conf/smc/KimSL25
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/SMC58881.2025.11343689
+  venue: SMC
+- title: 'Governance Challenges in Reinforcement Learning from Human Feedback: Evaluator
+    Rationality and Reinforcement Stability.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2504-13972
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2504.13972
+  venue: CoRR
+- title: 'RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with
+    AI Feedback.'
+  date: 2024-01
+  url: https://dblp.org/rec/conf/icml/0001PMMFLBHCRP24
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: ICML
+- title: Personalizing Reinforcement Learning from Human Feedback with Variational
+    Preference Learning.
+  date: 2024-01
+  url: https://dblp.org/rec/conf/nips/PoddarWIGJ24
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: NeurIPS
+- title: The Power of Active Multi-Task Learning in Reinforcement Learning from Human
+    Feedback.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2405-11226
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2405.11226
+  venue: CoRR
+- title: Dual Active Learning for Reinforcement Learning from Human Feedback.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2410-02504
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2410.02504
+  venue: CoRR
+- title: Learning Constraints From Human Stop-Feedback in Reinforcement Learning.
+  date: 2023-01
+  url: https://dblp.org/rec/conf/atal/PolettiTT23
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.5555/3545946.3598923
+  venue: AAMAS
+- title: Learning Interpretable Models of Aircraft Handling Behaviour by Reinforcement
+    Learning from Human Feedback.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2305-16924
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2305.16924
+  venue: CoRR
+- title: 'RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback.'
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2309-00267
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2309.00267
+  venue: CoRR
+- title: 'Learning from Demonstrations and Human Evaluative Feedbacks: Handling Sparsity
+    and Imperfection Using Inverse Reinforcement Learning Approach.'
+  date: 2020-01
+  url: https://dblp.org/rec/journals/jr/MouradEAA20
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1155/2020/3849309
+  venue: J. Robotics
+- title: 'Learning from Human Feedback: Challenges for Real-World Reinforcement Learning
+    in NLP.'
+  date: 2020-01
+  url: https://arxiv.org/abs/2011.02511
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: CoRR
+- title: 'RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human
+    Feedback for LLMs.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/csur/ChaudhariAMRKNDS26
+  category: rlhf-alignment
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3743127
+  venue: ACM Comput. Surv.
+- title: 'Review of: "Large Vision-Language Model Alignment and Misalignment: A Survey
+    Through the Lens of Explainability"'
+  date: 2025-01
+  url: https://doi.org/10.32388/4m5jo4
+  category: rlhf-alignment
+  subcategory: review
+  authors:
+  - Kuo Shi
+  doi: 10.32388/4m5jo4
+- title: 'Large Vision-Language Model Alignment and Misalignment: A Survey Through
+    the Lens of Explainability'
+  date: ''
+  url: https://doi.org/10.32388/ooam1q
+  category: rlhf-alignment
+  subcategory: review
+  authors:
+  - Dong Shu
+  - Haiyan Zhao
+  - Jingyu Hu
+  abstract: Large Vision-Language Models (LVLMs) have demonstrated remarkable capabilities
+    in processing both visual and textual information. However, the critical challenge
+    of alignment between visual and linguistic representations is not fully understood.
+    This survey presents a comprehensive examination of al
+  doi: 10.32388/ooam1q
+- title: 'BP-LLM: Belief Propagation for Binary Feedback in Large Language Model Alignment'
+  date: ''
+  url: https://doi.org/10.36227/techrxiv.176521139.94618209/v1
+  category: rlhf-alignment
+  subcategory: review
+  authors:
+  - Jessica E. Liang
+  abstract: Alignment methods based on human preference data, such as Direct Preference
+    Optimization (DPO) and Binary Classifier Optimization (BCO), have become efficient
+    alternatives to reinforcement learning from human feedback (RLHF). However, these
+    approaches treat each comparison as an independent label an
+  doi: 10.36227/techrxiv.176521139.94618209/v1
+- title: Taxonomy Classification of Large Language Model Survey Papers
+  date: ''
+  url: https://doi.org/10.31224/3975
+  category: rlhf-alignment
+  subcategory: review
+  authors:
+  - Desmond Boateng
+  abstract: This study develops a taxonomy classification model using traditional
+    and deep learning methods. After data exploration, a Linear Support Vector Classifier
+    (SVC) provides a baseline performance. However, a deep learning model with TF-IDF
+    vectorization, dynamic learning rate scheduling, and early sto
+  doi: 10.31224/3975
+- title: 'Politeness Over Truth: Cross-Model Replication of Conversationally-Induced
+    Alignment Failures in Local Large Language Models'
+  date: ''
+  url: https://doi.org/10.22541/au.176851567.79149898/v1
+  category: rlhf-alignment
+  subcategory: review
+  authors:
+  - Trent Slade
+  abstract: This paper presents a cross-model replication study demonstrating that
+    conversationally deployed large language models (LLMs) systematically prioritize
+    politeness, reassurance, and conversational continuity over epistemic truth when
+    subjected to mild social pressure. Using an identical, low-adversar
+  doi: 10.22541/au.176851567.79149898/v1
+- title: 'Exploring Large Language Model Agents in Game Theory: A Comprehensive Survey'
+  date: 2025-01
+  url: https://doi.org/10.5220/0014378900004918
+  category: rlhf-alignment
+  subcategory: review
+  authors:
+  - Yuyan Zhou
+  doi: 10.5220/0014378900004918
+  venue: Proceedings of the 3rd International Conference on Computer Science and Mechatronics
+- title: 'Efficient adaptation of reinforcement learning agents : from model-free
+    exploration to symbolic world models. (Adaptation efficace des agents appris par
+    renforcement : de l&apos;exploration model-free aux modèles symboliques).'
+  date: 2023-01
+  url: https://dblp.org/rec/phd/hal/Kamienny23
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+- title: 'Dynamic Sparsity: Challenging Common Sparsity Assumptions for Learning World
+    Models in Robotic Reinforcement Learning Benchmarks.'
+  date: 2026-01
+  url: https://dblp.org/rec/conf/aaai/PandaramHDTRP26
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1609/AAAI.V40I29.39658
+  venue: AAAI
+- title: 'World Models for Health Management Decision-Making: a Modality-Independent
+    Pre-Trainable Foundation Model-Based Multimodal Reinforcement Learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/conf/abc/Okita26
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.1109/ABC68169.2026.11567338
+  venue: ABC
+- title: 'World-Gymnast: Training Robots with Reinforcement Learning in a World Model.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2602-02454
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2602.02454
+  venue: CoRR
+- title: 'WorldCompass: Reinforcement Learning for Long-Horizon World Models.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2602-09022
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2602.09022
+  venue: CoRR
+- title: 'Optimistic World Models: Efficient Exploration in Model-Based Deep Reinforcement
+    Learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2602-10044
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2602.10044
+  venue: CoRR
+- title: 'AcceRL: A Distributed Asynchronous Reinforcement Learning and World Model
+    Framework for Vision-Language-Action Models.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2603-18464
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2603.18464
+  venue: CoRR
+- title: Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action
+    Models.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2603-20607
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2603.20607
+  venue: CoRR
+- title: Model Predictive Control with Differentiable World Models for Offline Reinforcement
+    Learning.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2603-22430
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2603.22430
+  venue: CoRR
+- title: 'JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement
+    Learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2605-13013
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2605.13013
+  venue: CoRR
+- title: 'Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent
+    Reinforcement Learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2605-31361
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.48550/ARXIV.2605.31361
+  venue: CoRR
+- title: Behavior-Invariant Task Representation Learning with Transformer-based World
+    Models for Offline Meta-Reinforcement Learning.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2606-00780
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2606.00780
+  venue: CoRR
+- title: 'Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent
+    Reinforcement Learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2607-19809
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2607.19809
+  venue: CoRR
+- title: Offline model-based reinforcement learning with causal structured world models.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/fcsc/ZhuTCZY25
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S11704-024-3946-Y
+  venue: Frontiers Comput. Sci.
+- title: 'Disentangled World Models: Learning to Transfer Semantic Knowledge from
+    Distracting Videos for Reinforcement Learning.'
+  date: 2025-01
+  url: https://dblp.org/rec/conf/iccv/WangZXJWWZYZ25
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ICCV51701.2025.00250
+  venue: ICCV
+- title: 'Mamba World Model for RL: Enhancing Long-term Memory in Model-based Reinforcement
+    Learning.'
+  date: 2025-01
+  url: https://dblp.org/rec/conf/icmla/CaoHGO25
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ICMLA66185.2025.00094
+  venue: ICMLA
+- title: World Models for Anomaly Detection during Model-Based Reinforcement Learning
+    Inference.
+  date: 2025-01
+  url: https://dblp.org/rec/conf/iros/DombergS25
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1109/IROS60139.2025.11245876
+  venue: IROS
+- title: Learning Interactive World Model for Object-Centric Reinforcement Learning.
+  date: 2025-01
+  url: https://dblp.org/rec/conf/nips/FengLM25
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: NeurIPS
+- title: 'RLVR-World: Training World Models with Reinforcement Learning.'
+  date: 2025-01
+  url: https://dblp.org/rec/conf/nips/WuYFL25
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: NeurIPS
+- title: Accelerating Model-Based Reinforcement Learning with State-Space World Models.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2502-20168
+  category: world-model
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2502.20168
+  venue: CoRR
+- title: 'Modeling and Operation of Underwater Intelligent Communication Systems:
+    A Survey of Multi-Agent Reinforcement Learning-Based Approaches.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/comsur/HanZLJH26
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/COMST.2026.3689477
+  venue: IEEE Commun. Surv. Tutorials
+- title: A survey on model-based reinforcement learning.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/chinaf/LuoXLCZY24
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S11432-022-3696-5
+  venue: Sci. China Inf. Sci.
+- title: High-accuracy model-based reinforcement learning, a survey.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/air/PlaatKP23
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10462-022-10335-W
+  venue: Artif. Intell. Rev.
+- title: Survey of Reinforcement-Learning-Based MAC Protocols for Wireless Ad Hoc
+    Networks with a MAC Reference Model.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/entropy/ZhengJFGG23
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.3390/E25010101
+  venue: Entropy
+- title: 'Model-based Reinforcement Learning: A Survey.'
+  date: 2023-01
+  url: https://dblp.org/rec/journals/ftml/MoerlandBPJ23
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1561/2200000086
+  venue: Found. Trends Mach. Learn.
+- title: A Survey on Offline Model-Based Reinforcement Learning.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2305-03360
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  doi: 10.48550/ARXIV.2305.03360
+  venue: CoRR
+- title: 'Model-Based Reinforcement Learning with State Abstraction: A Survey.'
+  date: 2022-01
+  url: https://dblp.org/rec/conf/bnaic/StarreLO22
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-3-031-39144-6_9
+  venue: BNAIC/BENELEARN
+- title: 'Data-driven Model Predictive and Reinforcement Learning Based Control for
+    Building Energy Management: a Survey.'
+  date: 2021-01
+  url: https://arxiv.org/abs/2106.14450
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: CoRR
+- title: Brief Survey of Model-Based Reinforcement Learning Techniques.
+  date: 2020-01
+  url: https://dblp.org/rec/conf/icstcc/PalL20
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  doi: 10.1109/ICSTCC50638.2020.9259716
+  venue: ICSTCC
+- title: Model-Based Deep Reinforcement Learning for High-Dimensional Problems, a
+    Survey.
+  date: 2020-01
+  url: https://arxiv.org/abs/2008.05598
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: CoRR
+- title: 'Survey of Model-Based Reinforcement Learning: Applications on Robotics.'
+  date: 2017-01
+  url: https://dblp.org/rec/journals/jirs/PolydorosN17
+  category: world-model
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  doi: 10.1007/S10846-017-0468-Y
+  venue: J. Intell. Robotic Syst.
+- title: 'A Comprehensive Survey on Meta-Learning: Applications, Advances, and Challenges'
+  date: ''
+  url: https://doi.org/10.36227/techrxiv.172840352.29141687/v1
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Jingyao Wang
+  abstract: 'Meta-learning, or "learning to learn", enables machines to acquire general
+    priors with minimal supervision and rapidly adapt to new tasks. Unlike traditional
+    AI methods that approach each task from scratch using a fixed learning algorithm,
+    meta-learning refines the learning algorithm itself through '
+  doi: 10.36227/techrxiv.172840352.29141687/v1
+- title: 'Learning Meta-Learning (LML) dataset: Survey data of meta-learning parameters'
+  date: 2023-12
+  url: https://doi.org/10.1016/j.dib.2023.109777
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Sonia Corraya
+  - Shamim Al Mamun
+  - M. Shamim Kaiser
+  doi: 10.1016/j.dib.2023.109777
+  venue: Data in Brief
+- title: 'A Survey of Meta-learning: Paradigms, Applications, and Challenges'
+  date: ''
+  url: https://doi.org/10.36227/techrxiv.175339536.65944227/v1
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Zohre Bahranifard
+  - Shervin Ghaffari
+  abstract: Meta-learning is a transformative approach in machine learning that enables
+    models to learn how to learn, allowing rapid adaptation to new tasks with minimal
+    data. This capability is achieved through four core paradigms-metric-based, model-based,
+    optimization-based, and unsupervised or self-supervis
+  doi: 10.36227/techrxiv.175339536.65944227/v1
+- title: A Recent Publications Survey on Reinforcement Learning for Selecting Parameters
+    of Meta-Heuristic and Machine Learning Algorithms
+  date: 2023-01
+  url: https://doi.org/10.5220/0011954300003488
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Maria Chernigovskaya
+  - Andrey Kharitonov
+  - Klaus Turowski
+  doi: 10.5220/0011954300003488
+  venue: Proceedings of the 13th International Conference on Cloud Computing and Services
+    Science
+- title: 'Meta-Learning and Few-Shot Learning: A Comprehensive Survey of Algorithms,
+    Theory, and Applications'
+  date: ''
+  url: https://doi.org/10.36227/techrxiv.176784520.02393968/v1
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Junhao Song
+  - Jiawei Xu
+  - Yichao Zhang
+  abstract: Meta-learning, commonly referred to as "learning to learn," has emerged
+    as a transformative paradigm in machine learning, enabling models to rapidly adapt
+    to new tasks with minimal training data. This comprehensive survey presents a
+    systematic analysis of meta-learning and few-shot learning approach
+  doi: 10.36227/techrxiv.176784520.02393968/v1
+- title: A Survey of Few-Shot Relation Extraction Combining Meta-Learning with Prompt
+    Learning
+  date: ''
+  url: https://doi.org/10.2139/ssrn.5029805
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Tingting Hang
+  - Wei Wu
+  - Jun Feng
+  doi: 10.2139/ssrn.5029805
+- title: 'Meta-learning approaches for learning-to-learn in deep learning: A survey'
+  date: 2022-07
+  url: https://doi.org/10.1016/j.neucom.2022.04.078
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Yingjie Tian
+  - Xiaoxi Zhao
+  - Wei Huang
+  doi: 10.1016/j.neucom.2022.04.078
+  venue: Neurocomputing
+- title: Survey on Meta Learning Algorithms for Few Shot Learning
+  date: 2022-05
+  url: https://doi.org/10.1109/iciccs53718.2022.9788260
+  category: meta-learning
+  subcategory: review
+  authors:
+  - Madhava Gaikwad
+  - Ashwini Doke
+  doi: 10.1109/iciccs53718.2022.9788260
+  venue: 2022 6th International Conference on Intelligent Computing and Control Systems
+    (ICICCS)
+- title: 'Meta-learning Fine-tuned Feature Extractor for Few-shot Image Classification:
+    A Case Study on Fine-tuning CNN Backbone with Transformer for Few-shot Learning.'
+  date: 2022-01
+  url: https://dblp.org/rec/conf/apit/ShenS22
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1145/3512353.3512355
+  venue: APIT
+- title: Learning optimal inter-class margin adaptively for few-shot class-incremental
+    learning via neural collapse-based meta-learning.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/ipm/RanLLTNT24
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.IPM.2024.103664
+  venue: Inf. Process. Manag.
+- title: Meta-learning methodology based on meta-unsupervised algorithm for meta-model
+    selection to solve few-shot base-tasks.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/nca/RivasPosadaM24
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1007/S00521-024-09549-6
+  venue: Neural Comput. Appl.
+- title: 'MetaDiff: Meta-Learning with Conditional Diffusion for Few-Shot Learning.'
+  date: 2024-01
+  url: https://dblp.org/rec/conf/aaai/ZhangLYLLY024
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1609/AAAI.V38I15.29608
+  venue: AAAI
+- title: Boosting Few-Shot Learning with Disentangled Self-Supervised Learning and
+    Meta-Learning for Medical Image Classification.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2403-17530
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2403.17530
+  venue: CoRR
+- title: 'MetaModulation: Learning Variational Feature Hierarchies for Few-Shot Learning
+    with Fewer Tasks.'
+  date: 2023-01
+  url: https://dblp.org/rec/conf/icml/SunDZWWS23
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: ICML
+- title: 'MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning.'
+  date: 2022-01
+  url: https://dblp.org/rec/conf/cvpr/ChiGLWYT22
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/CVPR52688.2022.01377
+  venue: CVPR
+- title: 'Lessons learned from the NeurIPS 2021 MetaDL challenge: Backbone fine-tuning
+    without episodic meta-learning dominates for few-shot learning image classification.'
+  date: 2022-01
+  url: https://dblp.org/rec/journals/corr/abs-2206-08138
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2206.08138
+  venue: CoRR
+- title: A metric-based meta-learning approach combined attention mechanism and ensemble
+    learning for few-shot learning.
+  date: 2021-01
+  url: https://dblp.org/rec/journals/displays/GuoDLWQ21
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.DISPLA.2021.102065
+  venue: Displays
+- title: Stress Testing of Meta-learning Approaches for Few-shot Learning.
+  date: 2021-01
+  url: https://dblp.org/rec/conf/aaai/AimenSMK21
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: MetaDL@AAAI
+- title: 'MetaDelta: A Meta-Learning System for Few-shot Image Classification.'
+  date: 2021-01
+  url: https://dblp.org/rec/conf/aaai/ChenGW0021
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: MetaDL@AAAI
+- title: 'Amortized Bayesian Prototype Meta-learning: A New Probabilistic Meta-learning
+    Approach to Few-shot Image Classification.'
+  date: 2021-01
+  url: https://dblp.org/rec/conf/aistats/SunWLYX21
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: AISTATS
+- title: 'Meta-Baseline: Exploring Simple Meta-Learning for Few-Shot Learning.'
+  date: 2021-01
+  url: https://dblp.org/rec/conf/iccv/Chen00D021
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ICCV48922.2021.00893
+  venue: ICCV
+- title: General meta-learning paradigm based on prior-models, meta-model, meta-algorithm,
+    and few-shot-base-model.
+  date: 2021-01
+  url: https://dblp.org/rec/conf/ijcnn/Rivas-PosadaM21
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1109/IJCNN52387.2021.9533374
+  venue: IJCNN
+- title: Meta-Learning across Meta-Tasks for Few-Shot Learning.
+  date: 2020-01
+  url: https://arxiv.org/abs/2002.04274
+  category: meta-learning
+  subcategory: method
+  authors: []
+  venue: CoRR
+- title: Enhancing surface defect detection in industrial products through few-shot
+    learning via meta-learning.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/eaai/ZhangFCWLQL26
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ENGAPPAI.2026.114096
+  venue: Eng. Appl. Artif. Intell.
+- title: 'D-MAML: A Few-Shot Learning Algorithm for Intrusion Detection Based on Meta-Learning
+    and Diffusion Models.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/iotj/LuLWWKL26
+  category: meta-learning
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/JIOT.2026.3674767
+  venue: IEEE Internet Things J.
+- title: 'Continual Learning with Knowledge Distillation: A Survey'
+  date: ''
+  url: https://doi.org/10.36227/techrxiv.170422196.66991957/v1
+  category: continual
+  subcategory: review
+  authors:
+  - Songze Li
+  - Tonghua Su
+  - Xuyao Zhang
+  doi: 10.36227/techrxiv.170422196.66991957/v1
+- title: Survey of Online Continual Learning
+  date: ''
+  url: https://doi.org/10.2139/ssrn.6237666
+  category: continual
+  subcategory: review
+  authors:
+  - Anton Lee
+  - Heitor  Murilo Gomes
+  - Yaqian Zhang
+  abstract: Deployed machine learning models often encounter non-stationary data and
+    evolving concepts. Online continual learning (OCL) combines online and continual
+    learning to operate in these conditions. OCL aims to efficiently adapt, without
+    forgetting, to changing concepts from a data stream. Given the rap
+  doi: 10.2139/ssrn.6237666
+- title: 'A Comprehensive Survey of Continual Learning: Theory, Method and Application_supp1-3367329.pdf'
+  date: ''
+  url: https://doi.org/10.1109/tpami.2024.3367329/mm1
+  category: continual
+  subcategory: review
+  authors:
+  - Liyuan Wang
+  doi: 10.1109/tpami.2024.3367329/mm1
+- title: 'How does Active Learning Tackle Domain Adaptation: A Survey on Active Domain
+    Adaptation and Active Continual Learning'
+  date: ''
+  url: https://doi.org/10.2139/ssrn.6637639
+  category: continual
+  subcategory: review
+  authors:
+  - Jin Yang
+  - Jing Zhang
+  - Xiaobing Yu
+  abstract: Machine learning and deep learning models trained on a source domain often
+    suffer from performance degradation when deployed to new target domains due to
+    domain shifts arising from differences in data distributions, acquisition conditions,
+    or temporal variations. Domain adaptation addresses this iss
+  doi: 10.2139/ssrn.6637639
+- title: A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning_supp1-3498346.pdf
+  date: ''
+  url: https://doi.org/10.1109/tpami.2024.3498346/mm1
+  category: continual
+  subcategory: review
+  authors:
+  - Zhenyi Wang
+  doi: 10.1109/tpami.2024.3498346/mm1
+- title: 'Continual Graph Learning: A Survey'
+  date: ''
+  url: https://doi.org/10.2139/ssrn.5227955
+  category: continual
+  subcategory: review
+  authors:
+  - Qiao Yuan
+  - Sheng-Uei Guan
+  - Pin Ni
+  doi: 10.2139/ssrn.5227955
+- title: 'Investigating the Terrain of Class-incremental Continual Learning: A Brief
+    Survey'
+  date: ''
+  url: https://doi.org/10.20944/preprints202312.2052.v1
+  category: continual
+  subcategory: review
+  authors:
+  - Sahil Nokhwal
+  - Nirman Kumar
+  - Sajjan G.  Shiva
+  abstract: Continual learning, a crucial facet of machine learning, involves the
+    perpetual acquisition of valuable insights from incoming data, sans the necessity
+    for full dataset access. Esteemed as a fundamental goal in artificial intelligence,
+    continual learning grapples with an enduring challenge&amp;mdash
+  doi: 10.20944/preprints202312.2052.v1
+- title: 'Continual Learning for Time Series Forecasting: A First Survey'
+  date: 2024-07
+  url: https://doi.org/10.3390/engproc2024068049
+  category: continual
+  subcategory: review
+  authors:
+  - Quentin Besnard
+  - Nicolas Ragot
+  doi: 10.3390/engproc2024068049
+  venue: ITISE 2024
+- title: Continual Representation Learning for Images with Variational Continual Auto-Encoder
+  date: 2019-01
+  url: https://doi.org/10.5220/0007687103670373
+  category: continual
+  subcategory: review
+  authors:
+  - Ik Jeon
+  - Soo Shin
+  doi: 10.5220/0007687103670373
+  venue: Proceedings of the 11th International Conference on Agents and Artificial
+    Intelligence
+- title: 'Continual lifelong learning with neural networks: A review.'
+  date: 2019-01
+  url: https://dblp.org/rec/journals/nn/ParisiKPKW19
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUNET.2019.01.012
+  venue: Neural Networks
+- title: Lifelong learning of human actions with deep neural network self-organization.
+  date: 2017-01
+  url: https://dblp.org/rec/journals/nn/ParisiTWW17
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUNET.2017.09.001
+  venue: Neural Networks
+- title: 'Lifelong-MonoDepth: Lifelong Learning for Multidomain Monocular Metric Depth
+    Estimation.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/tnn/HuFZGLL25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2023.3323487
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: Lifelong Learning With Cycle Memory Networks.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/tnn/PengYTLLL24
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2023.3294495
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: Toward Training Recurrent Neural Networks for Lifelong Learning.
+  date: 2020-01
+  url: https://dblp.org/rec/journals/neco/SodhaniCB20
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1162/NECO_A_01246
+  venue: Neural Comput.
+- title: Explanation-based neural network learning a lifelong learning approach.
+  date: 1995-01
+  url: https://dblp.org/rec/phd/dnb/Thrun95
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+- title: 'ReFNet: Rehearsal-based graph lifelong learning with multi-resolution framelet
+    graph neural networks.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/isci/LiYCZGH25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.INS.2024.121856
+  venue: Inf. Sci.
+- title: 'Context gating in spiking neural networks: Achieving lifelong learning through
+    integration of local and global plasticity.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/kbs/ShenNXPT25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.KNOSYS.2025.112999
+  venue: Knowl. Based Syst.
+- title: Context selectivity with dynamic availability enables lifelong continual
+    learning.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/nn/BarryGB25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUNET.2025.107728
+  venue: Neural Networks
+- title: 'EaLDL: Element-Aware Lifelong Dictionary Learning for Multimode Process
+    Monitoring.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/tnn/HuangZWYG25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2023.3343937
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: 'LSVC: A Lifelong Learning Approach for Stream-View Clustering.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/tnn/LiRGYY25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2024.3439394
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: Policy Correction and State-Conditioned Action Evaluation for Few-Shot Lifelong
+    Deep Reinforcement Learning.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/tnn/XuCW25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2024.3385570
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: Training a Dynamic Growing Mixture Model for Lifelong Learning.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/tnn/YeB25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2025.3569156
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: Enabling Lifelong Learning in AI with Biologically-inspired Neural Networks
+    Based on Short-Term, Working, and Long-Term Memory.
+  date: 2025-01
+  url: https://dblp.org/rec/conf/cogmi/Modasiya25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.1109/COGMI67134.2025.00035
+  venue: CogMI
+- title: Lifelong Learning for Fault Prognostics in Predictive Maintenance with Bayesian
+    Neural Networks.
+  date: 2025-01
+  url: https://dblp.org/rec/conf/qrs/XuanMO25
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/QRS-C65679.2025.00066
+  venue: QRS Companion
+- title: 'Efficient Lifelong Learning in Deep Neural Networks: Optimizing Architecture,
+    Training, and Data'
+  date: 2024-01
+  url: https://dblp.org/rec/phd/us/Mehta24a
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.1184/R1/24992883.V1
+- title: Lifelong reinforcement learning tracking control of nonlinear strict-feedback
+    systems using multilayer neural networks with constraints.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/ijon/GanieJ24
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1016/J.NEUCOM.2024.128139
+  venue: Neurocomputing
+- title: Lifelong Learning-Based Optimal Trajectory Tracking Control of Constrained
+    Nonlinear Affine Systems Using Deep Neural Networks.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/tcyb/GanieJ24
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1109/TCYB.2024.3405354
+  venue: IEEE Trans. Cybern.
+- title: Optimal Adaptive Tracking Control of Partially Uncertain Nonlinear Discrete-Time
+    Systems Using Lifelong Hybrid Learning.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/tnn/FarzaneganMJN24
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2023.3301383
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: Online Active Continual Learning for Robotic Lifelong Object Recognition.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/tnn/NieDHFT24
+  category: continual
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TNNLS.2023.3308900
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+- title: A Survey of Curriculum Learning in Deep Reinforcement Learning.
+  date: 2025-01
+  url: https://dblp.org/rec/conf/ccwc/LinMG25
+  category: curriculum
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/CCWC62904.2025.10903795
+  venue: CCWC
+- title: 'Curriculum Learning for Reinforcement Learning Domains: A Framework and
+    Survey.'
+  date: 2020-01
+  url: https://dblp.org/rec/journals/jmlr/NarvekarPLSTS20
+  category: curriculum
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: J. Mach. Learn. Res.
+- title: 'Curriculum Graph Machine Learning: A Survey.'
+  date: 2023-01
+  url: https://dblp.org/rec/conf/ijcai/LiW023
+  category: curriculum
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.24963/IJCAI.2023/748
+  venue: IJCAI
+- title: 'Curriculum Learning: A Survey.'
+  date: 2022-01
+  url: https://dblp.org/rec/journals/ijcv/SovianyIRS22
+  category: curriculum
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S11263-022-01611-X
+  venue: Int. J. Comput. Vis.
+- title: A Survey on Curriculum Learning.
+  date: 2022-01
+  url: https://dblp.org/rec/journals/pami/WangCZ22
+  category: curriculum
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TPAMI.2021.3069908
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: 'Automatic Curriculum Learning For Deep RL: A Short Survey.'
+  date: 2020-01
+  url: https://dblp.org/rec/conf/ijcai/PortelasCWHO20
+  category: curriculum
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.24963/IJCAI.2020/671
+  venue: IJCAI
+- title: A Comprehensive Survey on Curriculum Learning.
+  date: 2020-01
+  url: https://arxiv.org/abs/2010.13166
+  category: curriculum
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: CoRR
+- title: 'Exploring the impact of AIGC on learning performance: a moderated mediation
+    analysis between system-paced and self-paced video learning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/ile/JingYPZM26
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1080/10494820.2025.2514090
+  venue: Interact. Learn. Environ.
+- title: Exploring the structural relationships between course design factors, learner
+    commitment, self-directed learning, and intentions for further learning in a self-paced
+    MOOC.
+  date: 2021-01
+  url: https://dblp.org/rec/journals/ce/KimJYCPKD21
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.COMPEDU.2021.104171
+  venue: Comput. Educ.
+- title: Learning to Classify Skin Lesions via Self-Training and Self-Paced Learning.
+  date: 2020-01
+  url: https://dblp.org/rec/conf/bibm/AsareYN20
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/BIBM49941.2020.9313150
+  venue: BIBM
+- title: Deep Self-Paced Learning for Semi-Supervised Person Re-Identification Using
+    Multi-View Self-Paced Clustering.
+  date: 2019-01
+  url: https://dblp.org/rec/conf/icip/XinWWW19
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ICIP.2019.8803290
+  venue: ICIP
+- title: Combining active learning and self-paced learning for cost-effective process
+    design intents extraction of process data.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/jcde/HuangZH24
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1093/JCDE/QWAE027
+  venue: J. Comput. Des. Eng.
+- title: Learning Entangled Interactions of Complex Causality via Self-Paced Contrastive
+    Learning.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/tkdd/LiangLHSYZ24
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3632406
+  venue: ACM Trans. Knowl. Discov. Data
+- title: The Design of Self-Paced Learning for Structured Learning Environments.
+  date: 2024-01
+  url: https://dblp.org/rec/conf/centeris/Englmeier24
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.1016/J.PROCS.2025.02.097
+  venue: CENTERIS/ProjMAN/HCist
+- title: 'Optimizing Self-paced Learning in Machine Learning Education for Working
+    Professionals: Strategies, Trends, and Insights.'
+  date: 2024-01
+  url: https://dblp.org/rec/conf/hci/Liu24d
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.1007/978-3-031-76815-6_10
+  venue: HCI
+- title: A bi-level metric learning framework via self-paced learning weighting.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/pr/YanWGDL23
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.PATCOG.2023.109446
+  venue: Pattern Recognit.
+- title: Unsupervised Aspect Term Extraction by Integrating Sentence-level Curriculum
+    Learning with Token-level Self-paced Learning.
+  date: 2023-01
+  url: https://dblp.org/rec/conf/cikm/OuyangYXWWL23
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3583780.3615103
+  venue: CIKM
+- title: Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive
+    Learning.
+  date: 2023-01
+  url: https://dblp.org/rec/conf/cvpr/LiuZSLRGF23
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/CVPR52729.2023.00327
+  venue: CVPR
+- title: Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action
+    Representations.
+  date: 2023-01
+  url: https://dblp.org/rec/conf/iclr/FrancoMMG23
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: ICLR
+- title: Self-Paced Absolute Learning Progress as a Regularized Approach to Curriculum
+    Learning.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2306-05769
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2306.05769
+  venue: CoRR
+- title: A new self-paced learning method for privilege-based positive and unlabeled
+    learning.
+  date: 2022-01
+  url: https://dblp.org/rec/journals/isci/LiuLXCWHL22
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.INS.2022.07.143
+  venue: Inf. Sci.
+- title: Self-paced learning-based multi-graphs semi-supervised learning.
+  date: 2022-01
+  url: https://dblp.org/rec/journals/mta/WanDP22
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S11042-022-11931-2
+  venue: Multim. Tools Appl.
+- title: Withdrawals Prediction in Virtual Learning Environments with Deep Self-paced
+    Learning.
+  date: 2022-01
+  url: https://dblp.org/rec/conf/iccse2/LiXX22
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-981-99-2449-3_7
+  venue: ICCSE
+- title: 'Distance Digital Learning for Adult Learners: Self-paced e-Learning on Business
+    Information Systems.'
+  date: 2022-01
+  url: https://dblp.org/rec/conf/iceis/SchullB22a
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1007/978-3-031-39386-0_15
+  venue: ICEIS
+- title: Evaluation of Online Learning Platforms for Interactive Self-paced Learning
+    of Container-based Software Development.
+  date: 2022-01
+  url: https://dblp.org/rec/conf/tale/LuiDL22
+  category: curriculum
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TALE54877.2022.00017
+  venue: TALE
+- title: 'Towards Responsible AI through NeuroSymbolic Integration: A Survey'
+  date: ''
+  url: https://doi.org/10.2139/ssrn.5458574
+  category: neurosymbolic
+  subcategory: review
+  authors:
+  - Abraham Itzhak Weinberg
+  - Kelly Cohen
+  doi: 10.2139/ssrn.5458574
+- title: "Neurosymbolic\n                    <scp>AI</scp>"
+  date: 2026-03
+  url: https://doi.org/10.1002/9781394302406.fmatter
+  category: neurosymbolic
+  subcategory: review
+  authors: []
+  doi: 10.1002/9781394302406.fmatter
+  venue: Neurosymbolic                                         AI
+- title: 'Knowledge-Infused Learning: The Subsumer to NeuroSymbolic AI'
+  date: 2026-04
+  url: https://doi.org/10.1017/9781009513722.004
+  category: neurosymbolic
+  subcategory: review
+  authors: []
+  doi: 10.1017/9781009513722.004
+  venue: Knowledge-Infused Learning
+- title: Leveraging Neurosymbolic AI for Slice Discovery
+  date: 2026-03
+  url: https://doi.org/10.1177/29498732261419315
+  category: neurosymbolic
+  subcategory: review
+  authors:
+  - Michele Collevati
+  - Thomas Eiter
+  - Nelson Higuera
+  abstract: While remarkable recent developments in deep neural networks have significantly
+    contributed to advancing the state-of-the-art in computer vision (CV), several
+    studies have also shown their limitations and defects. In particular, CV models
+    often make systematic errors on important subsets of data cal
+  doi: 10.1177/29498732261419315
+  venue: Neurosymbolic Artificial Intelligence
+- title: 'Neurosymbolic AI for Legal AI‐TRISM: Trustworthy, Reliable, Interpretable,
+    Safe Models'
+  date: 2026-03
+  url: https://doi.org/10.1002/9781394302406.ch14
+  category: neurosymbolic
+  subcategory: review
+  authors:
+  - Deepa Tilwani
+  - Yash Saxena
+  - Ankur Padia
+  doi: 10.1002/9781394302406.ch14
+  venue: Neurosymbolic                                         AI
+- title: A neurosymbolic approach to AI alignment
+  date: 2024-08
+  url: https://doi.org/10.3233/nai-240729
+  category: neurosymbolic
+  subcategory: review
+  authors:
+  - Benedikt J. Wagner
+  - Artur d’Avlia Garcez
+  abstract: We propose neurosymbolic integration as an approach for AI alignment via
+    concept-based model explanation. The aim is to offer AI systems the ability to
+    learn from human revision but also assist humans at evaluating AI capabilities.
+    The proposed method allows users and domain experts to learn about t
+  doi: 10.3233/nai-240729
+  venue: Neurosymbolic Artificial Intelligence
+- title: "Reasoning in Neurosymbolic\n                    <scp>AI</scp>"
+  date: 2026-03
+  url: https://doi.org/10.1002/9781394302406.ch02
+  category: neurosymbolic
+  subcategory: review
+  authors:
+  - Son Tran
+  - Edjard Mota
+  - Artur d'Avila Garcez
+  doi: 10.1002/9781394302406.ch02
+  venue: Neurosymbolic                                         AI
+- title: Safe Neurosymbolic Learning and Control
+  date: 2026-03
+  url: https://doi.org/10.1002/9781394302406.ch05
+  category: neurosymbolic
+  subcategory: review
+  authors:
+  - Somil Bansal
+  - Jaime F. Fisac
+  doi: 10.1002/9781394302406.ch05
+  venue: Neurosymbolic                                         AI
+- title: Neurosymbolic Large Language Models
+  date: 2026-04
+  url: https://doi.org/10.1017/9781009513722.010
+  category: neurosymbolic
+  subcategory: review
+  authors: []
+  doi: 10.1017/9781009513722.010
+  venue: Knowledge-Infused Learning
+- title: Neurosymbolic Program Synthesis
+  date: 2025-03
+  url: https://doi.org/10.3233/faia250221
+  category: neurosymbolic
+  subcategory: review
+  authors:
+  - Swarat Chaudhuri
+  abstract: We survey neurosymbolic program synthesis, an emerging research area at
+    the interface of deep learning and symbolic artificial intelligence. As in classical
+    machine learning, the goal in neurosymbolic program synthesis is to learn functions
+    from data. However, these functions are represented as prog
+  doi: 10.3233/faia250221
+  venue: Frontiers in Artificial Intelligence and Applications
+- title: Proceedings of the 2019 International Workshop on Neural-Symbolic Learning
+    and Reasoning (NeSy 2019), Annual workshop of the Neural-Symbolic Learning and
+    Reasoning Association, Macao, China, August 12, 2019
+  date: 2019-01
+  url: https://dblp.org/rec/conf/nesy/2019
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: NeSy@IJCAI
+- title: Neural, symbolic and neural-symbolic reasoning on knowledge graphs.
+  date: 2021-01
+  url: https://dblp.org/rec/journals/aiopen/ZhangCZKD21
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.AIOPEN.2021.03.001
+  venue: AI Open
+- title: Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar
+    Parsing, and Symbolic Reasoning.
+  date: 2020-01
+  url: https://dblp.org/rec/conf/icml/LiHHCWZ20
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: ICML
+- title: 'Advances in Neural-Symbolic Learning Systems: Modal and Temporal Reasoning.'
+  date: 2007-01
+  url: https://dblp.org/rec/series/sci/Garcez07
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.1007/978-3-540-73954-8_11
+  venue: Perspectives of Neural-Symbolic Integration
+- title: A dual-branch multi-path propagation reasoning network for rumor detection
+    integrating neural symbolic commonsense reasoning mechanism.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/ipm/YinNLLZ26
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.IPM.2025.104362
+  venue: Inf. Process. Manag.
+- title: DSPy-based neural-symbolic pipeline to enhance spatial reasoning in LLMs.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/nn/WangS26
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1016/J.NEUNET.2025.108022
+  venue: Neural Networks
+- title: Optimal Quadratic Binding for Relational Reasoning in Vector Symbolic Neural
+    Architectures.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/neco/HirataniS23
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1162/NECO_A_01558
+  venue: Neural Comput.
+- title: 'Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning
+    in Neural Models (ASPER).'
+  date: 2023-01
+  url: https://dblp.org/rec/journals/corr/abs-2312-11651
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.48550/ARXIV.2312.11651
+  venue: CoRR
+- title: Proceedings of the 16th International Workshop on Neural-Symbolic Learning
+    and Reasoning as part of the 2nd International Joint Conference on Learning &amp;
+    Reasoning (IJCLR 2022), Cumberland Lodge, Windsor Great Park, UK, September 28-30,
+    2022.
+  date: 2022-01
+  url: https://dblp.org/rec/conf/nesy/2022
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  venue:
+  - NeSy
+  - CEUR Workshop Proceedings
+- title: 'Neural-Symbolic Learning and Reasoning: A Survey and Interpretation.'
+  date: 2021-01
+  url: https://dblp.org/rec/series/faia/BesoldGBBDHKLLPPPZ21
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.3233/FAIA210348
+  venue: Neuro-Symbolic Artificial Intelligence
+- title: Proceedings of the 15th International Workshop on Neural-Symbolic Learning
+    and Reasoning as part of the 1st International Joint Conference on Learning &amp;
+    Reasoning (IJCLR 2021), Virtual conference, October 25-27, 2021.
+  date: 2021-01
+  url: https://dblp.org/rec/conf/nesy/2021
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  venue:
+  - NeSy
+  - CEUR Workshop Proceedings
+- title: 'NeuroSym-CoopNet: a multi-agent collaborative model incorporating cognitive
+    coordination and neural-symbolic reasoning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/eswa/WangCZG26
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ESWA.2025.130855
+  venue: Expert Syst. Appl.
+- title: Neural-symbolic framework for dynamic hazard detection through compositional
+    visual reasoning.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/jaihc/LuZNIPLNW26
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S12652-026-05088-1
+  venue: J. Ambient Intell. Humaniz. Comput.
+- title: Object-centric proto-symbolic behavioural reasoning from pixels.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/nn/BergenHLL26
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUNET.2025.108407
+  venue: Neural Networks
+- title: Reasoning step by step via a neural-symbolic geometry problem solver.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/pr/WangWMJDCL26
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.PATCOG.2025.112261
+  venue: Pattern Recognit.
+- title: 'OseiBrefo-Liang at SemEval-2026 Task 12: Hybrid Causal Knowledge Graphs
+    and Neural-Symbolic Policy Optimisation for Abductive Event Reasoning.'
+  date: 2026-01
+  url: https://dblp.org/rec/conf/semeval/Osei-BrefoL26
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.18653/V1/2026.SEMEVAL-1.287
+  venue: SemEval@ACL
+- title: 'NeuroSymActive: Differentiable Neural-Symbolic Reasoning with Active Exploration
+    for Knowledge Graph Question Answering.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2602-15353
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2602.15353
+  venue: CoRR
+- title: 'Delta1 with LLM: symbolic and neural integration for credible and explainable
+    reasoning.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2603-12953
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2603.12953
+  venue: CoRR
+- title: 'Differentiable Symbolic Planning: A Neural Architecture for Constraint Reasoning
+    with Learned Feasibility.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2604-02350
+  category: neurosymbolic
+  subcategory: method
+  authors:
+  - ''
+  doi: 10.48550/ARXIV.2604.02350
+  venue: CoRR
+- title: A Survey of the Application of Active Learning in Business Studies and Theories
+    That Underpin the Practice
+  date: 2025-08
+  url: https://doi.org/10.4018/979-8-3373-1464-8.ch001
+  category: active
+  subcategory: review
+  authors:
+  - William Chakabwata
+  abstract: The chapter explicated passive learning as the dominant pedagogical practice
+    in most institutions of higher learning in business studies, although such practices
+    do not lead to the development of critical thinking skills and problem- solving.
+    The chapter also explored multiple active pedagogical pra
+  doi: 10.4018/979-8-3373-1464-8.ch001
+  venue: Active Learning in Business Education
+- title: Active Learning Survey
+  date: 2021-09
+  url: https://doi.org/10.1037/t81767-000
+  category: active
+  subcategory: review
+  authors:
+  - Kristen M. McGreevy
+  - Frank C. Church
+  doi: 10.1037/t81767-000
+  venue: PsycTESTS Dataset
+- title: Survey Methods
+  date: 2013-01
+  url: https://doi.org/10.4135/9781506335179.n3
+  category: active
+  subcategory: review
+  authors: []
+  doi: 10.4135/9781506335179.n3
+  venue: "Active Learning Exercises for Research Methods in Social\n             \
+    \       Sciences"
+- title: A survey on active learning strategy
+  date: 2010-07
+  url: https://doi.org/10.1109/icmlc.2010.5581075
+  category: active
+  subcategory: review
+  authors:
+  - Li-Li Sun
+  - Xi-Zhao Wang
+  doi: 10.1109/icmlc.2010.5581075
+  venue: 2010 International Conference on Machine Learning and Cybernetics
+- title: Beyond First Destinations
+  date: 2004-03
+  url: https://doi.org/10.1177/1469787404040457
+  category: active
+  subcategory: review
+  authors:
+  - Anita Shah
+  - Katherine Pell
+  - Pam Brooke
+  abstract: The First Destination Survey of new graduates provides only a snapshot
+    of graduate employment. This longitudinal study explores more fully the career
+    pathways taken by undergraduates from two programmes and examines which skills
+    acquired at university contributed to successful employment and develop
+  doi: 10.1177/1469787404040457
+  venue: Active Learning in Higher Education
+- title: Validation of Active Learning Classroom Perception Survey for College Students
+    (Poster 44)
+  date: 2025-01
+  url: https://doi.org/10.3102/ip.25.2195873
+  category: active
+  subcategory: review
+  authors:
+  - Young Sik Seo
+  doi: 10.3102/ip.25.2195873
+  venue: AERA 2025
+- title: 'Constructivist learning environments: Validating the community of inquiry
+    survey for face-to-face contexts'
+  date: 2025-03
+  url: https://doi.org/10.1177/14697874231183642
+  category: active
+  subcategory: review
+  authors:
+  - Jati Ariati
+  - Thomas Pham
+  - Jane S Vogler
+  abstract: 'Serving as a prominent framework for online learning, the Community of
+    Inquiry (CoI), identifies three factors critical to learning in online environments:
+    teaching presence, cognitive presence, and social presence. However, application
+    of the CoI framework to face-to-face classes has not been broad'
+  doi: 10.1177/14697874231183642
+  venue: Active Learning in Higher Education
+- title: A web survey on the use of active learning to support annotation of text
+    data
+  date: 2009-01
+  url: https://doi.org/10.3115/1564131.1564140
+  category: active
+  subcategory: review
+  authors:
+  - Katrin Tomanek
+  - Fredrik Olsson
+  doi: 10.3115/1564131.1564140
+  venue: Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural
+    Language Processing - HLT '09
+- title: 'Efficient surrogate-based optimization framework integrating physics-informed
+    neural networks, deep active learning and deep reinforcement learning: Multilayer
+    thin films case study.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/eaai/ZhengHLLH26
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ENGAPPAI.2025.113609
+  venue: Eng. Appl. Artif. Intell.
+- title: Deep ensemble transfer learning framework for COVID-19 Arabic text identification
+    via deep active learning and text data augmentation.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/mta/MuaadDHA24
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S11042-024-18487-3
+  venue: Multim. Tools Appl.
+- title: Deep active learning for misinformation detection using geometric deep learning.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/osnm/BarnaboS00NMS23
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.OSNEM.2023.100244
+  venue: Online Soc. Networks Media
+- title: 'ActiveGLAE: A Benchmark for Deep Active Learning with Transformers.'
+  date: 2023-01
+  url: https://dblp.org/rec/conf/pkdd/RauchAHWBS23
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/978-3-031-43412-9_4
+  venue: ECML/PKDD
+- title: A Framework Integrating DeeplabV3+, Transfer Learning, Active Learning, and
+    Incremental Learning for Mapping Building Footprints.
+  date: 2022-01
+  url: https://dblp.org/rec/journals/remotesensing/LiD22a
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.3390/RS14194738
+  venue: Remote. Sens.
+- title: Active learning and input space analysis for deep networks. (Active learning
+    et visualisation des données d&apos;apprentissage pour les réseaux de neurones
+    profonds).
+  date: 2018-01
+  url: https://dblp.org/rec/phd/hal/Ducoffe18
+  category: active
+  subcategory: method
+  authors:
+  - ''
+- title: Meta-Learning Transferable Active Learning Policies by Deep Reinforcement
+    Learning.
+  date: 2018-01
+  url: https://arxiv.org/abs/1806.04798
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  venue: CoRR
+- title: 'Deep Q-learning for Active Recognition of GERMS: Baseline performance on
+    a standardized dataset for active learning.'
+  date: 2015-01
+  url: https://dblp.org/rec/conf/bmvc/MalmirSFMC15
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.5244/C.29.161
+  venue: BMVC
+- title: Active and incremental learning with RAUNet for advancing soil cover monitoring
+    from mobile digital imaging through deep learning.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/cea/RahimzadHM26
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.COMPAG.2026.112161
+  venue: Comput. Electron. Agric.
+- title: Feature space variation-based active learning sample query strategy for graph
+    deep learning.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/eswa/ChenLWLYF26
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ESWA.2026.131165
+  venue: Expert Syst. Appl.
+- title: Co-Training with Active Contrastive Learning and Meta-Pseudo-Labeling on
+    2D Projections for Deep Semi-Supervised Learning.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/jbcs/AparcoCardenasGFR26
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.5753/JBCS.2026.5883
+  venue: J. Braz. Comput. Soc.
+- title: Data-efficient learning for accurate identification of MAPK1 inhibitors using
+    an active meta-deep learning framework.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/jcheminf/ZettaS26
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1186/S13321-026-01159-9
+  venue: J. Cheminformatics
+- title: Sample-Efficient Audio Emotion Recognition Using a Deep Reinforced Active
+    Learning Framework.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/access/ReshmiGVS25
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ACCESS.2025.3631075
+  venue: IEEE Access
+- title: Hourly photosynthetically active radiation prediction in solar greenhouses
+    using Bayesian optimized machine learning and deep learning based on limited local
+    weather data.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/cea/WuLLDMN25
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.COMPAG.2025.110680
+  venue: Comput. Electron. Agric.
+- title: Multi-constraints active learning assisted deep-ensemble spatio-textural
+    feature learning model for violence detection in surveillance dataset.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/connection/SriveniR25
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  doi: 10.1080/09540091.2025.2544539
+  venue: Connect. Sci.
+- title: Efficient active flow control strategy for confined square cylinder wake
+    using deep learning-based surrogate model and reinforcement learning.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/eaai/ZhangYXZYL25
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ENGAPPAI.2025.112468
+  venue: Eng. Appl. Artif. Intell.
+- title: Deep Learning-Based Scallop Detection in Seabed Images Using Active Learning
+    and Model Comparison.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ijat/EnomotoMMKT25a
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.20965/IJAT.2025.P0618
+  venue: Int. J. Autom. Technol.
+- title: Reliable and efficient automated short-answer scoring for a large dataset
+    using active learning and deep learning.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ile/OsakaMOMIS25
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1080/10494820.2025.2452005
+  venue: Interact. Learn. Environ.
+- title: An off-policy deep reinforcement learning-based active learning for crime
+    scene investigation image classification.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/isci/ZhangLJYZYATP25
+  category: active
+  subcategory: method
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.INS.2025.122074
+  venue: Inf. Sci.
+- title: A survey of multi-agent deep reinforcement learning with communication.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/aamas/ZhuDW24
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10458-023-09633-6
+  venue: Auton. Agents Multi Agent Syst.
+- title: 'Correction: A survey of multi-agent deep reinforcement learning with communication.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/aamas/ZhuDW24a
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10458-024-09644-X
+  venue: Auton. Agents Multi Agent Syst.
+- title: 'A Survey of Safe Reinforcement Learning and Constrained MDPs: A Technical
+    Survey on Single-Agent and Multi-Agent Safety.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2505-17342
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2505.17342
+  venue: CoRR
+- title: 'Distributed Deep Reinforcement Learning: A Survey and a Multi-player Multi-agent
+    Learning Toolbox.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/ijautcomp/YinYSYZNHLW24
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S11633-023-1454-4
+  venue: Mach. Intell. Res.
+- title: A survey and critique of multiagent deep reinforcement learning.
+  date: 2019-01
+  url: https://dblp.org/rec/journals/aamas/Hernandez-LealK19
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10458-019-09421-1
+  venue: Auton. Agents Multi Agent Syst.
+- title: 'Reinforcement learning for single-agent to multi-agent systems: from basic
+    theory to industrial application progress, a survey.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/air/ZhangYMXLQ26
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10462-025-11439-9
+  venue: Artif. Intell. Rev.
+- title: A Survey of Multi-Agent Reinforcement Learning for Cooperative Control in
+    Multi-AUV Systems.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/access/WibisonoSL25a
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ACCESS.2025.3609457
+  venue: IEEE Access
+- title: 'A Survey of Multi Agent Reinforcement Learning: Federated Learning and Cooperative
+    and Noncooperative Decentralized Regimes.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2507-06278
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2507.06278
+  venue: CoRR
+- title: 'Multi-Agent Deep Reinforcement Learning for Multi-Robot Applications: A
+    Survey.'
+  date: 2023-01
+  url: https://dblp.org/rec/journals/sensors/OrrD23
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  doi: 10.3390/S23073625
+  venue: Sensors
+- title: A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based
+    Communication.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2604-25972
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2604.25972
+  venue: CoRR
+- title: 'Multi-agent reinforcement learning for resources allocation optimization:
+    a survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/air/HadyHPCK25
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10462-025-11340-5
+  venue: Artif. Intell. Rev.
+- title: 'Federated multi-agent reinforcement learning: A comprehensive survey of
+    methods, applications and challenges.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/eswa/JingGLXY25
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ESWA.2025.128729
+  venue: Expert Syst. Appl.
+- title: A comprehensive survey of multi-agent deep reinforcement learning for wireless
+    spectrum management.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ijon/WangLSL25
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUCOM.2025.131236
+  venue: Neurocomputing
+- title: 'Multi-Agent Reinforcement Learning for Cybersecurity: Classification and
+    survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/iswa/FinistrellaMZ25
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ISWA.2025.200495
+  venue: Intell. Syst. Appl.
+- title: A Survey on Multi-agent Reinforcement Learning for Adaptive Transportation
+    Solutions.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/sncs/LiangDLLJLLWK25
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S42979-025-04475-3
+  venue: SN Comput. Sci.
+- title: A Survey of Cooperative Decision-Making in Autonomous Vehicle Platooning
+    Based on Multi-Agent Reinforcement Learning.
+  date: 2025-01
+  url: https://dblp.org/rec/conf/dsa/ZhongTXW25
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/DSA66321.2025.00044
+  venue: DSA
+- title: 'Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2504-14520
+  category: multi-agent
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2504.14520
+  venue: CoRR
+- title: On solving cooperation with multi-agent reinforcement learning
+  date: ''
+  url: https://doi.org/10.17760/d20791824
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Xueguang Lyu
+  doi: 10.17760/d20791824
+- title: Cooperation Under Uncertain Incentive Alignment
+  date: ''
+  url: https://doi.org/10.33612/diss.1220941647
+  category: multi-agent
+  subcategory: application
+  authors:
+  - ''
+  - Nicole Orzan
+  doi: 10.33612/diss.1220941647
+- title: Improving Cooperation in Multi-agent Deep Reinforcement Learning for Mobile
+    Robotics
+  date: ''
+  url: https://doi.org/10.70675/3385d0bbzc66cz4fceza9e0z8696ff61ff4e
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Maxime Toquebiau
+  abstract: "Apprentissage par renforcement profond pour les systèmes multi-agents\
+    \ appliqué à la robotique mobile\n                L'apprentissage par renforcement\
+    \ profond permet l'apprentissage de stratégies multi-agents dans divers contextes.\
+    \ Malgré des avancées significatives au cours de la dernière décennie, "
+  doi: 10.70675/3385d0bbzc66cz4fceza9e0z8696ff61ff4e
+- title: Investigating the impact of direct punishment on the emergence of cooperation
+    in multi-agent reinforcement learning systems
+  date: 2025-06
+  url: https://doi.org/10.1007/s10458-025-09698-5
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Nayana Dasgupta
+  - Mirco Musolesi
+  abstract: "Abstract\n          Solving the problem of cooperation is fundamentally\
+    \ important for the creation and maintenance of functional societies. Problems\
+    \ of cooperation are omnipresent within human society, with examples ranging from\
+    \ navigating busy road junctions to negotiating treaties. As the use of AI"
+  doi: 10.1007/s10458-025-09698-5
+  venue: Autonomous Agents and Multi-Agent Systems
+- title: Learning Generalizable Multi-Agent Cooperation Policy under Risk Conditions
+  date: ''
+  url: https://doi.org/10.2139/ssrn.7091040
+  category: multi-agent
+  subcategory: application
+  authors:
+  - PENG LI
+  - Shaofei Chen
+  - Jing Chen
+  abstract: In multi-task generalization, multi-agent reinforcement learning (MARL)
+    often faces the challenge of differences in the number of agents between the source
+    and target tasks. Current multi-task MARL methods attempt to learn cooperation
+    skills as the basis for generalization, but these skills are quit
+  doi: 10.2139/ssrn.7091040
+- title: Embodied Cooperation in Multi-Agent System
+  date: 2025-01
+  url: https://doi.org/10.1007/978-981-96-5871-8_4
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Huaping Liu
+  - Xinzhu Liu
+  - Kangyao Huang
+  doi: 10.1007/978-981-96-5871-8_4
+  venue: 'Machine Learning: Foundations, Methodologies, and Applications'
+- title: A Graph-Based Safe Reinforcement Learning Method for Multi-Agent Cooperation
+  date: ''
+  url: https://doi.org/10.2139/ssrn.5323922
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Fandi Gou
+  - Haikuo Du
+  - Yunze Cai
+  doi: 10.2139/ssrn.5323922
+- title: The Role Of Cooperation in Multi-Agent Learning
+  date: 1991-01
+  url: https://doi.org/10.1007/978-1-4471-1831-2_9
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Sati S. Sian
+  doi: 10.1007/978-1-4471-1831-2_9
+  venue: CKBS ’90
+- title: Lyapunov-Informed Multi-Agent Reinforcement Learning for Multi-Robot Cooperation
+    Tasks_supp1-3603024.mp4
+  date: ''
+  url: https://doi.org/10.1109/tase.2025.3603024/mm1
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Pu Feng
+  doi: 10.1109/tase.2025.3603024/mm1
+- title: Cooperation in a Noisy Room - Multi Agent Reinforcement Learning in the Presence
+    of Communication Noise
+  date: ''
+  url: https://doi.org/10.31219/osf.io/wr489
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Salim Dridi
+  abstract: Collective intelligence is a crucial feature of a variety of living species.
+    It has enabled them to survive in a wide variety ofenvironments around the world.
+    Collective intelligence is necessary to handle difficult survival concerns, from
+    simpleorganizations in ant colonies to sophisticated systems
+  doi: 10.31219/osf.io/wr489
+- title: 'Asymmetric Heterogeneous Transfer Learning: A Survey'
+  date: 2017-01
+  url: https://doi.org/10.5220/0006396700170027
+  category: transfer
+  subcategory: review
+  authors:
+  - Magda Friedjungová
+  - Marcel Jiřina
+  doi: 10.5220/0006396700170027
+  venue: Proceedings of the 6th International Conference on Data Science, Technology
+    and Applications
+- title: A Survey on Transfer Learning Based Cloud Computing Approaches
+  date: ''
+  url: https://doi.org/10.22541/au.166491010.09497351/v1
+  category: transfer
+  subcategory: review
+  authors:
+  - Tabinda Shehzadi
+  - Hina Akbar
+  doi: 10.22541/au.166491010.09497351/v1
+- title: 'Advancements and Challenges in Transfer Learning and Domain Adaptation:
+    A Comprehensive Survey on Mitigating Negative Transfer'
+  date: 2024-08
+  url: https://doi.org/10.62441/nano-ntp.v20is9.25
+  category: transfer
+  subcategory: review
+  authors: []
+  doi: 10.62441/nano-ntp.v20is9.25
+  venue: Nanotechnology Perceptions
+- title: Transfer learning in bioinspired clustering algorithms
+  date: ''
+  url: https://doi.org/10.47749/t/unicamp.2025.1501182
+  category: transfer
+  subcategory: review
+  authors:
+  - Rita de Cássia Giusti Xavier
+  doi: 10.47749/t/unicamp.2025.1501182
+- title: 'A Short Survey on Computer-Aided Diagnosis of Alzheimer''s Disease: Unsupervised
+    Learning, Transfer Learning, and Other Machine Learning Methods'
+  date: 2024-05
+  url: https://doi.org/10.53941/aim.2024.100002
+  category: transfer
+  subcategory: review
+  authors:
+  - Siyuan Lu
+  abstract: 'Review
+
+    A Short Survey on Computer-Aided Diagnosis of Alzheimer’s Disease: Unsupervised
+    Learning, Transfer Learning, and Other Machine Learning Methods
+
+    Si-Yuan Lu
+
+    School of Communications and Information Engineering, Nanjing University of Posts
+    and Telecommunications, Nanjing 210003, China
+
+    Received: '
+  doi: 10.53941/aim.2024.100002
+  venue: AI Medicine
+- title: 'Trustworthy Transfer Learning: A Survey'
+  date: 2025-11
+  url: https://doi.org/10.1613/jair.1.17602
+  category: transfer
+  subcategory: review
+  authors:
+  - Jun Wu
+  - Jingrui He
+  abstract: 'Transfer learning aims to transfer knowledge or information from a source
+    domain to a relevant target domain. In this paper, we understand transfer learning
+    from the perspectives of knowledge transferability and trustworthiness. This involves
+    two research questions: How is knowledge transferability '
+  doi: 10.1613/jair.1.17602
+  venue: Journal of Artificial Intelligence Research
+- title: 'Transfer Learning for Radio Frequency Machine Learning: A Taxonomy and Survey'
+  date: 2022-02
+  url: https://doi.org/10.3390/s22041416
+  category: transfer
+  subcategory: review
+  authors:
+  - Lauren J. Wong
+  - Alan J. Michaels
+  abstract: Transfer learning is a pervasive technology in computer vision and natural
+    language processing fields, yielding exponential performance improvements by leveraging
+    prior knowledge gained from data with different distributions. However, while
+    recent works seek to mature machine learning and deep learn
+  doi: 10.3390/s22041416
+  venue: Sensors
+- title: 'Transfer in Reinforcement Learning: A Framework and a Survey'
+  date: 2012-01
+  url: https://doi.org/10.1007/978-3-642-27645-3_5
+  category: transfer
+  subcategory: review
+  authors:
+  - Alessandro Lazaric
+  doi: 10.1007/978-3-642-27645-3_5
+  venue: Adaptation, Learning, and Optimization
+- title: ANALYSIS OF LEARNING OBJECTS FOR OPTIMIZATION AND DIGITAL TRANSFER REPORT
+    OF INTERMEDIATE RESULTS ON LEARNING PATH IDEAS - FIRST SURVEY
+  date: 2022-07
+  url: https://doi.org/10.33965/el2022_202203c023
+  category: transfer
+  subcategory: review
+  authors: []
+  doi: 10.33965/el2022_202203c023
+  venue: Proceedings of the 16th International Conference on e-Learning (EL 2022)
+- title: 'Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation:
+    A Survey.'
+  date: 2022-01
+  url: https://dblp.org/rec/journals/jair/Saunders22
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  doi: 10.1613/JAIR.1.13566
+  venue: J. Artif. Intell. Res.
+- title: A Comprehensive Survey on Domain Adaptation for Visual Applications.
+  date: 2017-01
+  url: https://dblp.org/rec/series/acvpr/Csurka17
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  doi: 10.1007/978-3-319-58347-1_1
+  venue: Domain Adaptation in Computer Vision Applications
+- title: 'CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive
+    Survey.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/pami/LiLFLLYK26
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TPAMI.2026.3651700
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: 'Domain Generalization and Domain Adaptation Approaches for Face Anti-Spoofing:
+    A Survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/access/HamSA25
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ACCESS.2025.3592034
+  venue: IEEE Access
+- title: 'A survey on unsupervised domain adaptation in medical imaging: Methods,
+    datasets, and future outlook.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/asc/YangGLZXWSJ26
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.ASOC.2026.115314
+  venue: Appl. Soft Comput.
+- title: A survey of neural signal decoding based on domain adaptation.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ijon/LiTLYS25
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUCOM.2025.131653
+  venue: Neurocomputing
+- title: A comprehensive survey on domain adaptation for intelligent fault diagnosis.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/kbs/WangWLDLL25
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.KNOSYS.2025.114109
+  venue: Knowl. Based Syst.
+- title: 'Deep Learning Based Domain Adaptation Methods in Remote Sensing: A Comprehensive
+    Survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2510-15615
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2510.15615
+  venue: CoRR
+- title: 'From Simulations to Surveys: Domain Adaptation for Galaxy Observations.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2511-18590
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2511.18590
+  venue: CoRR
+- title: 'Domain Adaptation and Generalization of Functional Medical Data: A Systematic
+    Survey of Brain Data.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/csur/SarafrazBHBMR24
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3654664
+  venue: ACM Comput. Surv.
+- title: 'Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive
+    Survey.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/csur/XuCXLCY24
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3679010
+  venue: ACM Comput. Surv.
+- title: 'Source-free unsupervised domain adaptation: A survey.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/nn/FangYLZL24
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUNET.2024.106230
+  venue: Neural Networks
+- title: A Comprehensive Survey on Source-Free Domain Adaptation.
+  date: 2024-01
+  url: https://dblp.org/rec/journals/pami/LiYDZS24
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TPAMI.2024.3370978
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: 'Unsupervised Domain Adaptation of Object Detectors: A Survey.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/pami/OzaSVP24
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TPAMI.2022.3217046
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: 'Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain
+    Adaptation, Out-of-distribution, and Continual Learning.'
+  date: 2024-01
+  url: https://dblp.org/rec/journals/corr/abs-2402-16374
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2402.16374
+  venue: CoRR
+- title: Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual
+    Perception in Automated Driving.
+  date: 2023-01
+  url: https://dblp.org/rec/journals/access/SchwonbergNTSSGF23
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/ACCESS.2023.3277785
+  venue: IEEE Access
+- title: 'Digital twin-enabled domain adaptation for zero-touch UAV networks: Survey
+    and challenges.'
+  date: 2023-01
+  url: https://dblp.org/rec/journals/cn/McManusCZHMMBMG23
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.COMNET.2023.110000
+  venue: Comput. Networks
+- title: 'DeepAstroUDA: semi-supervised universal domain adaptation for cross-survey
+    galaxy morphology classification and anomaly detection.'
+  date: 2023-01
+  url: https://dblp.org/rec/journals/mlst/CiprijanovicLPMNPW23
+  category: transfer
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1088/2632-2153/ACCA5F
+  venue: Mach. Learn. Sci. Technol.
+- title: 'Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive
+    Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and
+    Self-supervised Techniques in Histopathological Image Analysis.'
+  date: 2022-01
+  url: https://dblp.org/rec/journals/corr/abs-2208-08789
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2208.08789
+  venue: CoRR
+- title: 'Survey on Self-Supervised Learning: Auxiliary Pretext Tasks and Contrastive
+    Learning Methods in Imaging.'
+  date: 2022-01
+  url: https://dblp.org/rec/journals/entropy/Albelwi22
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  doi: 10.3390/E24040551
+  venue: Entropy
+- title: A survey on Self Supervised learning approaches for improving Multimodal
+    representation learning.
+  date: 2022-01
+  url: https://dblp.org/rec/journals/corr/abs-2210-11024
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  doi: 10.48550/ARXIV.2210.11024
+  venue: CoRR
+- title: A survey on design choices for self-supervised learning in computer vision.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/air/Wittscher26
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  doi: 10.1007/S10462-026-11506-9
+  venue: Artif. Intell. Rev.
+- title: A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/comsur/LiuGWONS26
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/COMST.2025.3588171
+  venue: IEEE Commun. Surv. Tutorials
+- title: 'A Tutorial-Cum-Survey on Self-Supervised Learning for Wi-Fi Sensing: Trends,
+    Challenges, and Outlook.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/comsur/RadwanYHTV26
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/COMST.2025.3586212
+  venue: IEEE Commun. Surv. Tutorials
+- title: A Comprehensive Survey on Self-Supervised Learning for Recommendation.
+  date: 2026-01
+  url: https://dblp.org/rec/journals/csur/RenWXH26
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3746280
+  venue: ACM Comput. Surv.
+- title: 'Self-supervised learning for object detection in challenging settings: A
+    survey.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/cviu/CiocarlanLHW26
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.CVIU.2026.104783
+  venue: Comput. Vis. Image Underst.
+- title: 'Self-Supervised Learning for Pre-Training 3D Point Clouds: A Survey.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/cvm/FeiXLYZLLH26
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.26599/CVM.2025.9450514
+  venue: Comput. Vis. Media
+- title: 'A Survey on Self-Supervised Learning in Cybersecurity: Network Intrusion
+    and Malware Detection.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/make/AlmarazRiveraCB26
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.3390/MAKE8050121
+  venue: Mach. Learn. Knowl. Extr.
+- title: 'Lifelong Representations: A Survey on Continual Self-Supervised Learning
+    for Vision Models.'
+  date: 2026-01
+  url: https://dblp.org/rec/journals/corr/abs-2607-09785
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2607.09785
+  venue: CoRR
+- title: 'Self-supervised Learning for Electroencephalogram: A Systematic Survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/csur/WengGGMYLC25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1145/3736574
+  venue: ACM Comput. Surv.
+- title: 'Self-Supervised Learning for Text Recognition: A Critical Survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ijcv/PenarrubiaVC25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S11263-025-02487-3
+  venue: Int. J. Comput. Vis.
+- title: 'Audio-visual self-supervised representation learning: A survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ijon/AlsuwatAA25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUCOM.2025.129750
+  venue: Neurocomputing
+- title: 'A survey on self-supervised learning: Recent advances and open problems.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ijon/ZhangYMY25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.NEUCOM.2025.131409
+  venue: Neurocomputing
+- title: 'Self-supervised representation learning for geospatial objects: A survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/inffus/ChenHZJC25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1016/J.INFFUS.2025.103265
+  venue: Inf. Fusion
+- title: A survey on self-supervised methods for visual representation learning.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ml/UelwerRWHUKBH25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10994-024-06708-7
+  venue: Mach. Learn.
+- title: A survey on self-supervised learning for non-sequential tabular data.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/ml/WangDXWP25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1007/S10994-024-06674-0
+  venue: Mach. Learn.
+- title: 'Self-Supervised Multimodal Learning: A Survey.'
+  date: 2025-01
+  url: https://dblp.org/rec/journals/pami/ZongAH25
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.1109/TPAMI.2024.3429301
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: A Survey on Self-supervised Contrastive Learning for Multimodal Text-Image
+    Analysis.
+  date: 2025-01
+  url: https://dblp.org/rec/journals/corr/abs-2503-11101
+  category: self-supervised
+  subcategory: review
+  authors:
+  - ''
+  - ''
+  - ''
+  doi: 10.48550/ARXIV.2503.11101
+  venue: CoRR

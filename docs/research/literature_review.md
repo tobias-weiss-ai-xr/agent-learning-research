@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-08-07  
-**Corpus:** 11,497 papers across 17 categories
+**Generated:** 2026-08-10  
+**Corpus:** 11,843 papers across 17 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,16 +11,16 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Diffusion | 1513 |
-| 2 | Causal | 1108 |
-| 3 | Federated | 1032 |
-| 4 | Rlhf Alignment | 855 |
-| 5 | World Model | 851 |
+| 1 | Diffusion | 1545 |
+| 2 | Causal | 1129 |
+| 3 | Federated | 1061 |
+| 4 | World Model | 882 |
+| 5 | Rlhf Alignment | 879 |
 | 6 | Supervised | 773 |
 | 7 | Reinforcement | 752 |
-| 8 | Transfer | 611 |
+| 8 | Transfer | 638 |
 
-**Time span:** 2024–2026 (median year 2025)
+**Time span:** 1991–2026 (median year 2017)
 **Dominant aspects:** Algorithm (8690), Theory (1509), Architecture (569)
 
 ---
@@ -64,7 +64,7 @@
 
 ### Diffusion (`diffusion`)
 
-**Corpus size:** 1513 papers
+**Corpus size:** 1545 papers
 
 **Recent papers:**
 
@@ -76,7 +76,7 @@
 
 ### Causal (`causal`)
 
-**Corpus size:** 1108 papers
+**Corpus size:** 1129 papers
 
 **Recent papers:**
 
@@ -88,7 +88,7 @@
 
 ### Federated (`federated`)
 
-**Corpus size:** 1032 papers
+**Corpus size:** 1061 papers
 
 **Recent papers:**
 
@@ -98,27 +98,27 @@
 
 ---
 
-### Rlhf Alignment (`rlhf-alignment`)
-
-**Corpus size:** 855 papers
-
-**Recent papers:**
-
-- [2026-07] Unbiased Alignment for Large Language Models with Noisy Preferences — https://arxiv.org/abs/2607.03248v1
-- [2026-07] A Geometric Perspective on Stabilizing Value Conflict Resolution — https://arxiv.org/abs/2607.17946v1
-- [2026-07] Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs — https://arxiv.org/abs/2607.13712v1
-
----
-
 ### World Model (`world-model`)
 
-**Corpus size:** 851 papers
+**Corpus size:** 882 papers
 
 **Recent papers:**
 
 - [2026-07] Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modelin — https://arxiv.org/abs/2607.04409v1
 - [2026-07] WorldBagel: Uncovering the Power of Unified Multimodal Models for Vision-Language-Action-World  — https://arxiv.org/abs/2607.03461v1
 - [2026-07] Reduced-Order Models: The Mother of World Models — https://arxiv.org/abs/2607.03198v2
+
+---
+
+### Rlhf Alignment (`rlhf-alignment`)
+
+**Corpus size:** 879 papers
+
+**Recent papers:**
+
+- [2026-07] Unbiased Alignment for Large Language Models with Noisy Preferences — https://arxiv.org/abs/2607.03248v1
+- [2026-07] A Geometric Perspective on Stabilizing Value Conflict Resolution — https://arxiv.org/abs/2607.17946v1
+- [2026-07] Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs — https://arxiv.org/abs/2607.13712v1
 
 ---
 
@@ -148,13 +148,25 @@
 
 ### Transfer (`transfer`)
 
-**Corpus size:** 611 papers
+**Corpus size:** 638 papers
 
 **Recent papers:**
 
 - [2026-07] Domain-Adapted Power Curve for Cross-Farm Applications — https://arxiv.org/abs/2607.19744v1
 - [2026-07] CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction — https://arxiv.org/abs/2607.19380v1
 - [2026-07] GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models — https://arxiv.org/abs/2607.19270v1
+
+---
+
+### Neurosymbolic (`neurosymbolic`)
+
+**Corpus size:** 573 papers
+
+**Recent papers:**
+
+- [2026-07] Answer Set Programming Energised! End-to-End Neurosymbolic Reasoning and Learning with ASP and  — https://arxiv.org/abs/2607.08136v1
+- [2026-07] Reason Popper-ly: Patching In-Context Reasoning with Inductive Logic Programming — https://arxiv.org/abs/2607.23019v1
+- [2026-07] Differentiable Logic Programming to Mitigate Reasoning Shortcuts in Neurosymbolic Systems — https://arxiv.org/abs/2607.21185v1
 
 ---
 
@@ -170,21 +182,9 @@
 
 ---
 
-### Neurosymbolic (`neurosymbolic`)
-
-**Corpus size:** 544 papers
-
-**Recent papers:**
-
-- [2026-07] Answer Set Programming Energised! End-to-End Neurosymbolic Reasoning and Learning with ASP and  — https://arxiv.org/abs/2607.08136v1
-- [2026-07] Reason Popper-ly: Patching In-Context Reasoning with Inductive Logic Programming — https://arxiv.org/abs/2607.23019v1
-- [2026-07] Differentiable Logic Programming to Mitigate Reasoning Shortcuts in Neurosymbolic Systems — https://arxiv.org/abs/2607.21185v1
-
----
-
 ### Self Supervised (`self-supervised`)
 
-**Corpus size:** 496 papers
+**Corpus size:** 516 papers
 
 **Recent papers:**
 
@@ -196,7 +196,7 @@
 
 ### Continual (`continual`)
 
-**Corpus size:** 485 papers
+**Corpus size:** 514 papers
 
 **Recent papers:**
 
@@ -208,7 +208,7 @@
 
 ### Meta Learning (`meta-learning`)
 
-**Corpus size:** 482 papers
+**Corpus size:** 507 papers
 
 **Recent papers:**
 
@@ -220,7 +220,7 @@
 
 ### Curriculum (`curriculum`)
 
-**Corpus size:** 453 papers
+**Corpus size:** 478 papers
 
 **Recent papers:**
 
@@ -244,7 +244,7 @@
 
 ### Active (`active`)
 
-**Corpus size:** 331 papers
+**Corpus size:** 358 papers
 
 **Recent papers:**
 
@@ -256,7 +256,7 @@
 
 ### Multi Agent (`multi-agent`)
 
-**Corpus size:** 225 papers
+**Corpus size:** 252 papers
 
 **Recent papers:**
 
