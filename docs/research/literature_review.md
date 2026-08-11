@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-08-11  
-**Corpus:** 13,359 papers across 18 categories
+**Corpus:** 13,397 papers across 18 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,8 +11,8 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Diffusion | 1545 |
-| 2 |  | 1516 |
+| 1 |  | 1554 |
+| 2 | Diffusion | 1545 |
 | 3 | Causal | 1129 |
 | 4 | Federated | 1061 |
 | 5 | World Model | 882 |
@@ -21,7 +21,7 @@
 | 8 | Reinforcement | 752 |
 
 **Time span:** 1991–2026 (median year 2017)
-**Dominant aspects:** Algorithm (8690),  (1516), Theory (1509)
+**Dominant aspects:** Algorithm (8690),  (1554), Theory (1509)
 
 ---
 
@@ -31,7 +31,7 @@
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
 | World Model | 882 | 524 | 333 | +57% | 59% | 43.7 |
 | Neurosymbolic | 573 | 322 | 223 | +44% | 56% | 26.8 |
-|  | 1516 | 1516 | 0 | — | 100% | 126.3 |
+|  | 1554 | 1554 | 0 | — | 100% | 129.5 |
 | Multi Agent | 252 | 138 | 99 | +39% | 55% | 11.5 |
 | Curriculum | 478 | 254 | 191 | +33% | 53% | 21.2 |
 | Online | 429 | 231 | 190 | +22% | 54% | 19.2 |
@@ -62,6 +62,18 @@
 
 ## Category Insights
 
+###  (``)
+
+**Corpus size:** 1554 papers
+
+**Recent papers:**
+
+- [2026-08] Recent advances in weakly supervised learning: New supervision paradigms, assumption relaxation — https://arxiv.org/abs/2608.06896v1
+- [2026-08] Spectral Aliasing Pretext: A novel task for Self-Supervised fault diagnosis in rotating machine — https://arxiv.org/abs/2608.05705v1
+- [2026-08] Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning — https://arxiv.org/abs/2608.00630v1
+
+---
+
 ### Diffusion (`diffusion`)
 
 **Corpus size:** 1545 papers
@@ -71,18 +83,6 @@
 - [2026-07] FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models — https://arxiv.org/abs/2607.05711v1
 - [2026-07] An exact information theory of generalization phase transitions in Bayesian diffusion models — https://arxiv.org/abs/2607.08041v1
 - [2026-07] A Mathematical Introduction to Diffusion Models — https://arxiv.org/abs/2607.01693v1
-
----
-
-###  (``)
-
-**Corpus size:** 1516 papers
-
-**Recent papers:**
-
-- [2026-08] Recent advances in weakly supervised learning: New supervision paradigms, assumption relaxation — https://arxiv.org/abs/2608.06896v1
-- [2026-08] Spectral Aliasing Pretext: A novel task for Self-Supervised fault diagnosis in rotating machine — https://arxiv.org/abs/2608.05705v1
-- [2026-08] Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning — https://arxiv.org/abs/2608.00630v1
 
 ---
 

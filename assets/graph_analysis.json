@@ -3,19 +3,19 @@
   {
    "id": "",
    "name": "",
-   "count": 1516,
+   "count": 1554,
    "trajectory": {
-    "2026": 1516
+    "2026": 1554
    },
    "momentum": {
     "id": "",
     "name": "",
-    "total": 1516,
-    "recent": 1516,
+    "total": 1554,
+    "recent": 1554,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 126.3,
+    "papers_per_month": 129.5,
     "score": 100.0
    }
   },
@@ -436,7 +436,7 @@
   {
    "id": "",
    "name": "",
-   "count": 1516
+   "count": 1554
   },
   {
    "id": "algorithm",
@@ -53352,6 +53352,11 @@
   ],
   [
    "2026-04",
+   "",
+   ""
+  ],
+  [
+   "2026-04",
    "active",
    "algorithm"
   ],
@@ -57137,6 +57142,26 @@
   ],
   [
    "2026-05",
+   "",
+   ""
+  ],
+  [
+   "2026-05",
+   "",
+   ""
+  ],
+  [
+   "2026-05",
+   "",
+   ""
+  ],
+  [
+   "2026-05",
+   "",
+   ""
+  ],
+  [
+   "2026-05",
    "active",
    "algorithm"
   ],
@@ -61837,6 +61862,11 @@
   ],
   [
    "2026-06",
+   "",
+   ""
+  ],
+  [
+   "2026-06",
    "active",
    "algorithm"
   ],
@@ -64204,6 +64234,16 @@
    "2026-06",
    "world-model",
    "theory"
+  ],
+  [
+   "2026-07",
+   "",
+   ""
+  ],
+  [
+   "2026-07",
+   "",
+   ""
   ],
   [
    "2026-07",
@@ -66794,6 +66834,156 @@
    "2026-07",
    "world-model",
    "theory"
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
+  ],
+  [
+   "2026-08",
+   "",
+   ""
   ],
   [
    "2026-08",
@@ -67168,7 +67358,7 @@
    "keyword": "opponent",
    "recent": 18,
    "total": 22,
-   "burst_score": 1.52,
+   "burst_score": 1.51,
    "recent_share": 0.0025
   },
   {
@@ -67176,82 +67366,82 @@
    "recent": 106,
    "total": 131,
    "burst_score": 1.5,
-   "recent_share": 0.0147
+   "recent_share": 0.0146
   },
   {
    "keyword": "world model",
-   "recent": 370,
-   "total": 546,
+   "recent": 372,
+   "total": 548,
    "burst_score": 1.26,
    "recent_share": 0.0514
+  },
+  {
+   "keyword": "uncertainty",
+   "recent": 454,
+   "total": 698,
+   "burst_score": 1.2,
+   "recent_share": 0.0627
   },
   {
    "keyword": "scalable",
    "recent": 572,
    "total": 888,
-   "burst_score": 1.2,
-   "recent_share": 0.0795
-  },
-  {
-   "keyword": "uncertainty",
-   "recent": 451,
-   "total": 695,
-   "burst_score": 1.2,
-   "recent_share": 0.0627
+   "burst_score": 1.19,
+   "recent_share": 0.079
   },
   {
    "keyword": "hierarchical",
-   "recent": 312,
-   "total": 488,
+   "recent": 318,
+   "total": 494,
    "burst_score": 1.19,
-   "recent_share": 0.0433
+   "recent_share": 0.0439
+  },
+  {
+   "keyword": "policy",
+   "recent": 990,
+   "total": 1585,
+   "burst_score": 1.16,
+   "recent_share": 0.1368
   },
   {
    "keyword": "benchmark",
-   "recent": 1887,
-   "total": 3056,
+   "recent": 1897,
+   "total": 3066,
    "burst_score": 1.15,
    "recent_share": 0.2622
   },
   {
-   "keyword": "policy",
-   "recent": 980,
-   "total": 1575,
-   "burst_score": 1.15,
-   "recent_share": 0.1361
-  },
-  {
    "keyword": "retrieval",
-   "recent": 202,
-   "total": 326,
+   "recent": 203,
+   "total": 327,
    "burst_score": 1.15,
    "recent_share": 0.0281
   },
   {
    "keyword": "multi-agent",
-   "recent": 361,
-   "total": 588,
+   "recent": 364,
+   "total": 591,
    "burst_score": 1.14,
-   "recent_share": 0.0502
+   "recent_share": 0.0503
   },
   {
    "keyword": "transfer",
-   "recent": 764,
-   "total": 1252,
+   "recent": 770,
+   "total": 1258,
    "burst_score": 1.13,
-   "recent_share": 0.1061
+   "recent_share": 0.1064
   },
   {
    "keyword": "simulation",
-   "recent": 537,
-   "total": 892,
+   "recent": 540,
+   "total": 895,
    "burst_score": 1.12,
    "recent_share": 0.0746
   },
   {
    "keyword": "memory",
-   "recent": 424,
-   "total": 704,
+   "recent": 426,
+   "total": 706,
    "burst_score": 1.12,
    "recent_share": 0.0589
   },
@@ -67260,14 +67450,14 @@
    "recent": 338,
    "total": 560,
    "burst_score": 1.12,
-   "recent_share": 0.047
+   "recent_share": 0.0467
   },
   {
    "keyword": "bayesian",
-   "recent": 233,
-   "total": 385,
+   "recent": 234,
+   "total": 386,
    "burst_score": 1.12,
-   "recent_share": 0.0324
+   "recent_share": 0.0323
   }
  ]
 }

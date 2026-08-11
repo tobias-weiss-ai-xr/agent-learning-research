@@ -1,14 +1,14 @@
 # Paper Landscape Report
 
 **Generated:** 2026-08-11  
-**Corpus:** 13,359 papers (1991-2026) | 13,020 arXiv preprints · 339 journal/publisher records
+**Corpus:** 13,397 papers (1991-2026) | 13,058 arXiv preprints · 339 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
+|  | 1554 | 0 | 1554 | +0% | 22% |
 | Diffusion | 1545 | 739 | 455 | -38% | 11% |
-|  | 1516 | 0 | 1516 | +0% | 21% |
 | Causal | 1129 | 544 | 352 | -35% | 8% |
 | Federated | 1061 | 532 | 237 | -55% | 6% |
 | World Model | 882 | 355 | 355 | +0% | 7% |
@@ -28,7 +28,7 @@
 
 ## Research Aspects
 
-- ****: 1516 papers (11%) #####
+- ****: 1554 papers (12%) #####
 - **Algorithm**: 8690 papers (65%) ################################
 - **Application**: 164 papers (1%) 
 - **Architecture**: 569 papers (4%) ##
@@ -64,24 +64,24 @@
 | 2023 | 38 |
 | 2024 | 2657 |
 | 2025 | 5701 |
-| 2026 | 4844 |
+| 2026 | 4882 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
 | agentic | 106 | 131 | 1.5× |
-| world model | 370 | 546 | 1.26× |
-| simulator | 123 | 181 | 1.26× |
-| scalable | 572 | 888 | 1.2× |
-| uncertainty | 451 | 695 | 1.2× |
-| hierarchical | 312 | 488 | 1.19× |
-| benchmark | 1887 | 3056 | 1.15× |
-| retrieval | 202 | 326 | 1.15× |
-| multi-agent | 361 | 588 | 1.14× |
-| transfer | 764 | 1252 | 1.13× |
-| simulation | 537 | 892 | 1.12× |
-| memory | 424 | 704 | 1.12× |
+| world model | 372 | 548 | 1.26× |
+| simulator | 124 | 182 | 1.26× |
+| uncertainty | 454 | 698 | 1.2× |
+| scalable | 572 | 888 | 1.19× |
+| hierarchical | 318 | 494 | 1.19× |
+| benchmark | 1897 | 3066 | 1.15× |
+| retrieval | 203 | 327 | 1.15× |
+| multi-agent | 364 | 591 | 1.14× |
+| transfer | 770 | 1258 | 1.13× |
+| simulation | 540 | 895 | 1.12× |
+| memory | 426 | 706 | 1.12× |
 
 ## Top Venues
 
@@ -115,7 +115,7 @@
 
 ## Hottest Cells
 
-- `/` — 1516
+- `/` — 1554
 - `diffusion/algorithm` — 1174
 - `causal/algorithm` — 922
 - `rlhf-alignment/algorithm` — 748

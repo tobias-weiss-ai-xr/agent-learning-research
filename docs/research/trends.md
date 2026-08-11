@@ -1,7 +1,7 @@
 # Trends (12-Month View)
 
 **Generated:** 2026-08-11  
-**Window:** since 2025-08 — 7198 of 13359 papers
+**Window:** since 2025-08 — 7236 of 13397 papers
 
 ## 🔥 Keyword Bursts
 
@@ -9,19 +9,19 @@
 |---------|--------|-------|-------|
 | agentic | 106 | 131 | 1.5× |
 | opponent | 18 | 22 | 1.5× |
-| world model | 370 | 546 | 1.3× |
-| simulator | 123 | 181 | 1.3× |
-| policy | 980 | 1575 | 1.2× |
+| world model | 372 | 548 | 1.3× |
+| simulator | 124 | 182 | 1.3× |
+| policy | 990 | 1585 | 1.2× |
 | scalable | 572 | 888 | 1.2× |
-| uncertainty | 451 | 695 | 1.2× |
-| hierarchical | 312 | 488 | 1.2× |
-| benchmark | 1887 | 3056 | 1.1× |
-| graph | 999 | 1712 | 1.1× |
-| agent | 860 | 1473 | 1.1× |
-| reward | 851 | 1499 | 1.1× |
-| transfer | 764 | 1252 | 1.1× |
-| causal | 752 | 1324 | 1.1× |
-| decision | 740 | 1272 | 1.1× |
+| uncertainty | 454 | 698 | 1.2× |
+| hierarchical | 318 | 494 | 1.2× |
+| benchmark | 1897 | 3066 | 1.1× |
+| graph | 1003 | 1716 | 1.1× |
+| agent | 866 | 1479 | 1.1× |
+| reward | 861 | 1509 | 1.1× |
+| transfer | 770 | 1258 | 1.1× |
+| causal | 757 | 1329 | 1.1× |
+| decision | 748 | 1280 | 1.1× |
 
 ## 📈 Fastest-Growing Cells
 
@@ -31,7 +31,7 @@
 | `neurosymbolic/optimization` | 1 | 1 | 100% |
 | `causal/scaling` | 1 | 1 | 100% |
 | `world-model/optimization` | 1 | 1 | 100% |
-| `/` | 1516 | 1516 | 100% |
+| `/` | 1554 | 1554 | 100% |
 | `curriculum/robust` | 10 | 11 | 91% |
 | `active/robust` | 4 | 5 | 80% |
 | `world-model/efficient` | 4 | 5 | 80% |

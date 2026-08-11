@@ -1,14 +1,14 @@
 # Article Topics (auto-generated)
 
 
+## 
+
+Evidence-based topic: 1554 curated papers, 1554 in the last 12 months.
+
+
 ## Diffusion
 
 Evidence-based topic: 1545 curated papers, 1194 in the last 12 months.
-
-
-## 
-
-Evidence-based topic: 1516 curated papers, 1516 in the last 12 months.
 
 
 ## Causal
