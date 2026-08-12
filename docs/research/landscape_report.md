@@ -1,45 +1,50 @@
 # Paper Landscape Report
 
-**Generated:** 2026-08-11  
-**Corpus:** 13,397 papers (1991-2026) | 13,058 arXiv preprints · 339 journal/publisher records
+**Generated:** 2026-08-13  
+**Corpus:** 18,169 papers (1991-2026) | 14,561 arXiv preprints · 3,608 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-|  | 1554 | 0 | 1554 | +0% | 22% |
-| Diffusion | 1545 | 739 | 455 | -38% | 11% |
-| Causal | 1129 | 544 | 352 | -35% | 8% |
-| Federated | 1061 | 532 | 237 | -55% | 6% |
-| World Model | 882 | 355 | 355 | +0% | 7% |
-| Rlhf Alignment | 879 | 422 | 216 | -49% | 5% |
-| Supervised | 773 | 367 | 173 | -53% | 4% |
-| Reinforcement | 752 | 390 | 197 | -49% | 5% |
-| Transfer | 638 | 313 | 168 | -46% | 4% |
-| Neurosymbolic | 573 | 270 | 198 | -27% | 4% |
-| Unsupervised | 557 | 294 | 119 | -60% | 3% |
-| Self Supervised | 516 | 243 | 126 | -48% | 3% |
-| Continual | 514 | 236 | 161 | -32% | 4% |
-| Meta Learning | 507 | 231 | 115 | -50% | 3% |
-| Curriculum | 478 | 232 | 150 | -35% | 4% |
-| Online | 429 | 206 | 147 | -29% | 3% |
-| Active | 358 | 183 | 93 | -49% | 2% |
-| Multi Agent | 252 | 144 | 66 | -54% | 2% |
+|  | 2421 | 663 | 1758 | +165% | 29% |
+| Diffusion | 1700 | 756 | 456 | -40% | 9% |
+| Causal | 1314 | 598 | 362 | -39% | 8% |
+| Federated | 1237 | 533 | 237 | -56% | 5% |
+| Supervised | 1121 | 381 | 174 | -54% | 4% |
+| World Model | 1051 | 363 | 356 | -2% | 6% |
+| Rlhf Alignment | 1046 | 470 | 229 | -51% | 5% |
+| Reinforcement | 916 | 394 | 197 | -50% | 4% |
+| Transfer | 821 | 323 | 169 | -48% | 4% |
+| Neurosymbolic | 817 | 346 | 232 | -33% | 5% |
+| Unsupervised | 722 | 309 | 120 | -61% | 3% |
+| Meta Learning | 681 | 239 | 115 | -52% | 2% |
+| Self Supervised | 674 | 247 | 126 | -49% | 3% |
+| Continual | 664 | 253 | 162 | -36% | 3% |
+| Curriculum | 649 | 235 | 151 | -36% | 3% |
+| Online | 617 | 209 | 147 | -30% | 3% |
+| Active | 541 | 186 | 93 | -50% | 2% |
+| Multi Agent | 396 | 150 | 66 | -56% | 2% |
+| Retrieval Augmented | 178 | 66 | 0 | -100% | 0% |
+| Reasoning | 172 | 36 | 6 | -83% | 0% |
+| Multimodal | 164 | 45 | 4 | -91% | 0% |
+| Imitation | 153 | 12 | 0 | -100% | 0% |
+| Reward Modeling | 114 | 17 | 14 | -18% | 0% |
 
 ## Research Aspects
 
-- ****: 1554 papers (12%) #####
-- **Algorithm**: 8690 papers (65%) ################################
-- **Application**: 164 papers (1%) 
-- **Architecture**: 569 papers (4%) ##
-- **Efficient**: 138 papers (1%) 
+- ****: 2421 papers (13%) ######
+- **Algorithm**: 10518 papers (58%) ############################
+- **Application**: 311 papers (2%) 
+- **Architecture**: 833 papers (5%) ##
+- **Efficient**: 183 papers (1%) 
 - **Mechanism**: 19 papers (0%) 
 - **Method**: 135 papers (1%) 
-- **Optimization**: 56 papers (0%) 
+- **Optimization**: 85 papers (0%) 
 - **Review**: 164 papers (1%) 
-- **Robust**: 244 papers (2%) 
-- **Scaling**: 155 papers (1%) 
-- **Theory**: 1509 papers (11%) #####
+- **Robust**: 302 papers (2%) 
+- **Scaling**: 185 papers (1%) 
+- **Theory**: 3013 papers (17%) ########
 
 ## Year Trend
 
@@ -59,82 +64,82 @@
 | 2018 | 2 |
 | 2019 | 6 |
 | 2020 | 19 |
-| 2021 | 13 |
-| 2022 | 25 |
-| 2023 | 38 |
-| 2024 | 2657 |
-| 2025 | 5701 |
-| 2026 | 4882 |
+| 2021 | 312 |
+| 2022 | 1171 |
+| 2023 | 1052 |
+| 2024 | 3548 |
+| 2025 | 6831 |
+| 2026 | 5174 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| agentic | 106 | 131 | 1.5× |
-| world model | 372 | 548 | 1.26× |
-| simulator | 124 | 182 | 1.26× |
-| uncertainty | 454 | 698 | 1.2× |
-| scalable | 572 | 888 | 1.19× |
-| hierarchical | 318 | 494 | 1.19× |
-| benchmark | 1897 | 3066 | 1.15× |
-| retrieval | 203 | 327 | 1.15× |
-| multi-agent | 364 | 591 | 1.14× |
-| transfer | 770 | 1258 | 1.13× |
-| simulation | 540 | 895 | 1.12× |
-| memory | 426 | 706 | 1.12× |
+| agentic | 111 | 140 | 1.74× |
+| simulator | 133 | 192 | 1.52× |
+| world model | 383 | 573 | 1.46× |
+| scalable | 648 | 983 | 1.44× |
+| uncertainty | 497 | 771 | 1.41× |
+| benchmark | 2094 | 3314 | 1.38× |
+| hierarchical | 352 | 564 | 1.37× |
+| memory | 489 | 794 | 1.35× |
+| simulation | 592 | 974 | 1.33× |
+| bayesian | 261 | 445 | 1.28× |
+| embodied | 74 | 128 | 1.27× |
+| decision | 833 | 1451 | 1.26× |
 
 ## Top Venues
 
 | Venue | Papers |
 |-------|-------:|
+| arXiv (Cornell University) | 395 |
+| Proceedings of the AAAI Conference on Artificial Intelligence | 90 |
+| Lecture notes in computer science | 78 |
+| IEEE Transactions on Neural Networks and Learning Systems | 59 |
 | CoRR | 58 |
-| IEEE Trans. Neural Networks Learn. Syst. | 8 |
-| ACM Comput. Surv. | 6 |
-| Neurocomputing | 6 |
-| Neural Networks | 6 |
-| IEEE Access | 5 |
-| IEEE Trans. Pattern Anal. Mach. Intell. | 5 |
-| Expert Syst. Appl. | 4 |
-| Eng. Appl. Artif. Intell. | 4 |
-| Federated Learning | 4 |
+| IEEE Access | 54 |
+| IEEE Transactions on Pattern Analysis and Machine Intelligence | 49 |
+| Knowledge-Based Systems | 43 |
+| Expert Systems with Applications | 42 |
+| Neurocomputing | 39 |
 
 ## Top Authors
 
 | Author | Papers |
 |--------|-------:|
-| Theodore V. Hromadka II | 3 |
-| Chung-Cheng Yen | 3 |
-| Durai Rajamanickam | 3 |
-| Jing Ma | 2 |
-| Jundong Li | 2 |
-| Melika Aala | 1 |
-| Hedieh Sajedi | 1 |
-| Satoshi TOBINAGA | 1 |
-| Keiichi SUZUKI | 1 |
-| Seiichiro KAGUEI | 1 |
+| Dawei Qiu | 12 |
+| Chao Huang | 11 |
+| Yi Wang | 11 |
+| Yu Wang | 9 |
+| Lianghao Xia | 9 |
+| Xiang Li | 9 |
+| Jing Zhang | 7 |
+| Yu Xie | 7 |
+| Hao Wang | 7 |
+| Lei Zhang | 7 |
 
 ## Hottest Cells
 
-- `/` — 1554
-- `diffusion/algorithm` — 1174
-- `causal/algorithm` — 922
-- `rlhf-alignment/algorithm` — 748
-- `federated/algorithm` — 737
-- `world-model/algorithm` — 617
-- `reinforcement/algorithm` — 589
-- `supervised/algorithm` — 543
-- `neurosymbolic/algorithm` — 432
-- `unsupervised/algorithm` — 420
+- `/` — 2421
+- `diffusion/algorithm` — 1251
+- `causal/algorithm` — 990
+- `rlhf-alignment/algorithm` — 826
+- `federated/algorithm` — 798
+- `supervised/algorithm` — 734
+- `world-model/algorithm` — 719
+- `reinforcement/algorithm` — 668
+- `neurosymbolic/algorithm` — 552
+- `unsupervised/algorithm` — 502
 
 ## Thin Cells (White Space)
 
 - `unsupervised/optimization` — 1
 - `self-supervised/optimization` — 1
-- `active/optimization` — 1
-- `neurosymbolic/application` — 1
 - `neurosymbolic/optimization` — 1
-- `neurosymbolic/scaling` — 1
 - `causal/scaling` — 1
-- `rlhf-alignment/optimization` — 1
 - `world-model/optimization` — 1
-- `online/application` — 2
+- `curriculum/optimization` — 1
+- `retrieval-augmented/scaling` — 1
+- `retrieval-augmented/efficient` — 1
+- `imitation/scaling` — 1
+- `imitation/efficient` — 1
