@@ -1,27 +1,27 @@
 # Trends (12-Month View)
 
-**Generated:** 2026-08-12  
-**Window:** since 2025-08 — 8294 of 18169 papers
+**Generated:** 2026-08-13  
+**Window:** since 2025-08 — 8337 of 18926 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| opponent | 22 | 26 | 1.9× |
-| agentic | 111 | 140 | 1.7× |
-| world model | 383 | 573 | 1.5× |
-| simulator | 133 | 192 | 1.5× |
-| benchmark | 2094 | 3314 | 1.4× |
-| policy | 1106 | 1768 | 1.4× |
-| scalable | 648 | 983 | 1.4× |
-| uncertainty | 497 | 771 | 1.4× |
-| hierarchical | 352 | 564 | 1.4× |
-| optimization | 1414 | 2477 | 1.3× |
-| decision | 833 | 1451 | 1.3× |
-| simulation | 592 | 974 | 1.3× |
-| memory | 489 | 794 | 1.3× |
-| stochastic | 441 | 728 | 1.3× |
-| planning | 361 | 632 | 1.3× |
+| agentic | 111 | 142 | 1.8× |
+| opponent | 22 | 27 | 1.8× |
+| world model | 383 | 574 | 1.5× |
+| simulator | 133 | 196 | 1.5× |
+| benchmark | 2103 | 3455 | 1.4× |
+| policy | 1110 | 1841 | 1.4× |
+| scalable | 651 | 1032 | 1.4× |
+| uncertainty | 499 | 798 | 1.4× |
+| memory | 492 | 827 | 1.4× |
+| hierarchical | 353 | 588 | 1.4× |
+| decision | 838 | 1504 | 1.3× |
+| simulation | 599 | 1024 | 1.3× |
+| stochastic | 443 | 759 | 1.3× |
+| planning | 363 | 639 | 1.3× |
+| offline | 352 | 626 | 1.3× |
 
 ## 📈 Fastest-Growing Cells
 
@@ -30,8 +30,8 @@
 | `neurosymbolic/optimization` | 1 | 1 | 100% |
 | `causal/scaling` | 1 | 1 | 100% |
 | `world-model/optimization` | 1 | 1 | 100% |
-| `/` | 2421 | 2421 | 100% |
 | `reward-modeling/robust` | 1 | 1 | 100% |
+| `/` | 2464 | 3178 | 78% |
 | `curriculum/robust` | 10 | 13 | 77% |
 | `reinforcement/scaling` | 6 | 8 | 75% |
 | `world-model/scaling` | 6 | 8 | 75% |

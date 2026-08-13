@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 18169,
+    "total_papers": 18926,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 23,
@@ -15,7 +15,7 @@
     }
   },
   "by_category": {
-    "": 2421,
+    "": 3178,
     "active": 541,
     "causal": 1314,
     "continual": 664,
@@ -40,7 +40,7 @@
     "world-model": 1051
   },
   "by_subcategory": {
-    "": 2421,
+    "": 3178,
     "algorithm": 10518,
     "application": 311,
     "architecture": 833,
@@ -71,12 +71,12 @@
     "2021": 312,
     "2022": 1171,
     "2023": 1052,
-    "2024": 3548,
-    "2025": 6831,
-    "2026": 5174
+    "2024": 3803,
+    "2025": 7327,
+    "2026": 5180
   },
   "by_cell": {
-    "/": 2421,
+    "/": 3178,
     "diffusion/algorithm": 1251,
     "causal/algorithm": 990,
     "rlhf-alignment/algorithm": 826,
@@ -286,34 +286,45 @@
     },
     {
       "keyword": "scalable",
-      "papers": 648
+      "papers": 651
     },
     {
       "keyword": "uncertainty",
-      "papers": 497
+      "papers": 499
     },
     {
       "keyword": "benchmark",
-      "papers": 2094
+      "papers": 2103
     },
     {
       "keyword": "policy",
-      "papers": 1106
+      "papers": 1110
     },
     {
       "keyword": "hierarchical",
-      "papers": 352
+      "papers": 353
     },
     {
       "keyword": "memory",
-      "papers": 489
+      "papers": 492
     },
     {
       "keyword": "simulation",
-      "papers": 592
+      "papers": 599
     }
   ],
   "momentum": [
+    {
+      "id": "",
+      "name": "",
+      "total": 3178,
+      "recent": 2464,
+      "prior": 714,
+      "growth_pct": 245.1,
+      "recent_share": 0.775,
+      "papers_per_month": 205.3,
+      "score": 322.6
+    },
     {
       "id": "world-model",
       "name": "World Model",
@@ -324,17 +335,6 @@
       "recent_share": 0.503,
       "papers_per_month": 44.1,
       "score": 101.9
-    },
-    {
-      "id": "",
-      "name": "",
-      "total": 2421,
-      "recent": 2421,
-      "prior": 0,
-      "growth_pct": null,
-      "recent_share": 1.0,
-      "papers_per_month": 201.8,
-      "score": 100.0
     },
     {
       "id": "neurosymbolic",
@@ -570,8 +570,9 @@
   ],
   "category_trajectory": {
     "": {
-      "2025": 663,
-      "2026": 1758
+      "2024": 255,
+      "2025": 1159,
+      "2026": 1764
     },
     "active": {
       "2004": 1,
@@ -778,111 +779,111 @@
     {
       "keyword": "opponent",
       "recent": 22,
-      "total": 26,
+      "total": 27,
       "burst_score": 1.85,
-      "recent_share": 0.0027
+      "recent_share": 0.0026
     },
     {
       "keyword": "agentic",
       "recent": 111,
-      "total": 140,
-      "burst_score": 1.74,
-      "recent_share": 0.0134
+      "total": 142,
+      "burst_score": 1.77,
+      "recent_share": 0.0133
     },
     {
       "keyword": "world model",
       "recent": 383,
-      "total": 573,
-      "burst_score": 1.46,
-      "recent_share": 0.0462
+      "total": 574,
+      "burst_score": 1.51,
+      "recent_share": 0.0459
     },
     {
       "keyword": "scalable",
-      "recent": 648,
-      "total": 983,
-      "burst_score": 1.44,
+      "recent": 651,
+      "total": 1032,
+      "burst_score": 1.43,
       "recent_share": 0.0781
     },
     {
       "keyword": "uncertainty",
-      "recent": 497,
-      "total": 771,
-      "burst_score": 1.41,
+      "recent": 499,
+      "total": 798,
+      "burst_score": 1.42,
       "recent_share": 0.0599
     },
     {
       "keyword": "benchmark",
-      "recent": 2094,
-      "total": 3314,
+      "recent": 2103,
+      "total": 3455,
       "burst_score": 1.38,
-      "recent_share": 0.2525
+      "recent_share": 0.2522
     },
     {
       "keyword": "policy",
-      "recent": 1106,
-      "total": 1768,
+      "recent": 1110,
+      "total": 1841,
       "burst_score": 1.37,
-      "recent_share": 0.1333
+      "recent_share": 0.1331
     },
     {
       "keyword": "hierarchical",
-      "recent": 352,
-      "total": 564,
-      "burst_score": 1.37,
-      "recent_share": 0.0424
+      "recent": 353,
+      "total": 588,
+      "burst_score": 1.36,
+      "recent_share": 0.0423
     },
     {
       "keyword": "memory",
-      "recent": 489,
-      "total": 794,
+      "recent": 492,
+      "total": 827,
       "burst_score": 1.35,
       "recent_share": 0.059
     },
     {
       "keyword": "simulation",
-      "recent": 592,
-      "total": 974,
+      "recent": 599,
+      "total": 1024,
       "burst_score": 1.33,
-      "recent_share": 0.0714
-    },
-    {
-      "keyword": "bayesian",
-      "recent": 261,
-      "total": 445,
-      "burst_score": 1.28,
-      "recent_share": 0.0315
+      "recent_share": 0.0718
     },
     {
       "keyword": "teaming",
       "recent": 14,
       "total": 24,
-      "burst_score": 1.28,
+      "burst_score": 1.32,
       "recent_share": 0.0017
+    },
+    {
+      "keyword": "bayesian",
+      "recent": 262,
+      "total": 459,
+      "burst_score": 1.3,
+      "recent_share": 0.0314
+    },
+    {
+      "keyword": "planning",
+      "recent": 363,
+      "total": 639,
+      "burst_score": 1.29,
+      "recent_share": 0.0435
     },
     {
       "keyword": "embodied",
       "recent": 74,
-      "total": 128,
-      "burst_score": 1.27,
+      "total": 130,
+      "burst_score": 1.29,
       "recent_share": 0.0089
     },
     {
-      "keyword": "decision",
-      "recent": 833,
-      "total": 1451,
-      "burst_score": 1.26,
-      "recent_share": 0.1004
-    },
-    {
       "keyword": "offline",
-      "recent": 350,
-      "total": 608,
-      "burst_score": 1.26,
+      "recent": 352,
+      "total": 626,
+      "burst_score": 1.28,
       "recent_share": 0.0422
     }
   ],
   "source_breakdown": {
-    "arxiv": 14561,
+    "arxiv": 15318,
     "doi": 3347,
     "other": 261
   },

@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-08-12  
-**Corpus:** 18,169 papers across 23 categories
+**Generated:** 2026-08-13  
+**Corpus:** 18,926 papers across 23 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,7 +11,7 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 |  | 2421 |
+| 1 |  | 3178 |
 | 2 | Diffusion | 1700 |
 | 3 | Causal | 1314 |
 | 4 | Federated | 1237 |
@@ -21,7 +21,7 @@
 | 8 | Reinforcement | 916 |
 
 **Time span:** 1991–2026 (median year 2017)
-**Dominant aspects:** Algorithm (10518), Theory (3013),  (2421)
+**Dominant aspects:** Algorithm (10518),  (3178), Theory (3013)
 
 ---
 
@@ -29,8 +29,8 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
+|  | 3178 | 2464 | 714 | +245% | 78% | 205.3 |
 | World Model | 1051 | 529 | 349 | +52% | 50% | 44.1 |
-|  | 2421 | 2421 | 0 | — | 100% | 201.8 |
 | Neurosymbolic | 817 | 382 | 294 | +30% | 47% | 31.8 |
 | Curriculum | 649 | 255 | 202 | +26% | 39% | 21.2 |
 | Causal | 1314 | 619 | 545 | +14% | 47% | 51.6 |
@@ -64,7 +64,7 @@
 
 ###  (``)
 
-**Corpus size:** 2421 papers
+**Corpus size:** 3178 papers
 
 **Recent papers:**
 
