@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "total_papers": 19621,
+    "total_papers": 19944,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 23,
       "subcategories": 12,
       "total_cells": 276,
-      "filled_cells": 194,
-      "saturation": 70.3,
-      "empty_cells": 82
+      "filled_cells": 195,
+      "saturation": 70.7,
+      "empty_cells": 81
     },
     "analysis_window": {
       "last_12m_start": "2025-08"
@@ -17,41 +17,41 @@
   "by_category": {
     "": 3178,
     "active": 627,
-    "causal": 1314,
+    "causal": 1334,
     "continual": 718,
-    "curriculum": 649,
-    "diffusion": 1700,
+    "curriculum": 722,
+    "diffusion": 1751,
     "federated": 1237,
-    "imitation": 153,
+    "imitation": 207,
     "meta-learning": 753,
     "multi-agent": 445,
-    "multimodal": 164,
+    "multimodal": 182,
     "neurosymbolic": 817,
     "online": 708,
-    "reasoning": 172,
+    "reasoning": 210,
     "reinforcement": 983,
     "retrieval-augmented": 178,
-    "reward-modeling": 114,
-    "rlhf-alignment": 1046,
+    "reward-modeling": 117,
+    "rlhf-alignment": 1048,
     "self-supervised": 749,
     "supervised": 1186,
     "transfer": 889,
     "unsupervised": 790,
-    "world-model": 1051
+    "world-model": 1115
   },
   "by_subcategory": {
     "": 3178,
-    "algorithm": 10834,
-    "application": 336,
-    "architecture": 882,
-    "efficient": 190,
+    "algorithm": 10987,
+    "application": 344,
+    "architecture": 893,
+    "efficient": 194,
     "mechanism": 19,
     "method": 135,
-    "optimization": 91,
+    "optimization": 96,
     "review": 164,
-    "robust": 311,
-    "scaling": 185,
-    "theory": 3296
+    "robust": 315,
+    "scaling": 188,
+    "theory": 3431
   },
   "by_year": {
     "1991": 2,
@@ -71,24 +71,24 @@
     "2021": 312,
     "2022": 1171,
     "2023": 1052,
-    "2024": 4085,
-    "2025": 7710,
-    "2026": 5210
+    "2024": 4203,
+    "2025": 7903,
+    "2026": 5222
   },
   "by_cell": {
     "/": 3178,
-    "diffusion/algorithm": 1251,
-    "causal/algorithm": 990,
-    "rlhf-alignment/algorithm": 826,
+    "diffusion/algorithm": 1272,
+    "causal/algorithm": 996,
+    "rlhf-alignment/algorithm": 827,
     "federated/algorithm": 798,
     "supervised/algorithm": 766,
-    "world-model/algorithm": 719,
+    "world-model/algorithm": 751,
     "reinforcement/algorithm": 706,
     "neurosymbolic/algorithm": 552,
     "unsupervised/algorithm": 530,
+    "curriculum/algorithm": 502,
     "meta-learning/algorithm": 494,
     "continual/algorithm": 482,
-    "curriculum/algorithm": 465,
     "transfer/algorithm": 459,
     "self-supervised/algorithm": 416,
     "online/algorithm": 394,
@@ -96,10 +96,10 @@
     "multi-agent/algorithm": 292,
     "online/theory": 275,
     "federated/theory": 273,
-    "diffusion/theory": 252,
-    "causal/theory": 223,
+    "diffusion/theory": 273,
+    "causal/theory": 237,
+    "world-model/theory": 215,
     "supervised/theory": 194,
-    "world-model/theory": 190,
     "unsupervised/theory": 179,
     "active/theory": 177,
     "self-supervised/theory": 174,
@@ -107,32 +107,32 @@
     "neurosymbolic/theory": 163,
     "supervised/architecture": 158,
     "reinforcement/theory": 154,
+    "curriculum/theory": 140,
     "continual/theory": 138,
-    "rlhf-alignment/theory": 135,
+    "rlhf-alignment/theory": 136,
+    "imitation/algorithm": 134,
     "meta-learning/theory": 126,
-    "diffusion/architecture": 117,
-    "curriculum/theory": 112,
-    "imitation/algorithm": 95,
+    "diffusion/architecture": 119,
     "transfer/architecture": 92,
+    "reasoning/theory": 92,
+    "multimodal/theory": 84,
     "retrieval-augmented/theory": 77,
     "self-supervised/architecture": 75,
-    "multimodal/theory": 74,
     "federated/robust": 72,
     "retrieval-augmented/algorithm": 72,
-    "reasoning/theory": 71,
-    "world-model/architecture": 67,
-    "multimodal/algorithm": 66,
+    "world-model/architecture": 71,
+    "multimodal/algorithm": 71,
+    "reasoning/algorithm": 69,
     "meta-learning/architecture": 59,
-    "reasoning/algorithm": 57,
     "multi-agent/theory": 55,
     "reward-modeling/algorithm": 55,
     "reinforcement/application": 52,
     "transfer/scaling": 51,
+    "imitation/theory": 48,
     "causal/architecture": 47,
-    "reward-modeling/theory": 44,
+    "reward-modeling/theory": 47,
     "multi-agent/application": 42,
     "neurosymbolic/architecture": 41,
-    "imitation/theory": 36,
     "unsupervised/architecture": 35,
     "transfer/robust": 33,
     "reinforcement/architecture": 31,
@@ -140,13 +140,14 @@
     "federated/architecture": 27,
     "transfer/review": 27,
     "transfer/application": 26,
+    "diffusion/application": 25,
+    "reasoning/application": 23,
     "self-supervised/application": 22,
     "self-supervised/scaling": 22,
     "causal/robust": 22,
-    "diffusion/application": 22,
     "supervised/application": 21,
+    "curriculum/architecture": 21,
     "causal/review": 21,
-    "reasoning/application": 21,
     "active/application": 20,
     "federated/efficient": 20,
     "world-model/method": 20,
@@ -164,16 +165,16 @@
     "multi-agent/review": 17,
     "supervised/robust": 16,
     "continual/efficient": 16,
-    "curriculum/architecture": 16,
     "diffusion/robust": 16,
+    "world-model/application": 16,
     "unsupervised/efficient": 15,
     "multi-agent/architecture": 15,
+    "diffusion/efficient": 15,
+    "curriculum/robust": 14,
     "neurosymbolic/application": 14,
-    "diffusion/efficient": 14,
-    "world-model/application": 14,
+    "imitation/robust": 14,
     "reinforcement/efficient": 13,
     "active/efficient": 13,
-    "curriculum/robust": 13,
     "retrieval-augmented/application": 13,
     "supervised/scaling": 12,
     "unsupervised/scaling": 12,
@@ -183,7 +184,6 @@
     "online/architecture": 12,
     "rlhf-alignment/architecture": 12,
     "world-model/robust": 12,
-    "imitation/robust": 12,
     "meta-learning/application": 11,
     "world-model/review": 11,
     "supervised/optimization": 10,
@@ -194,6 +194,7 @@
     "continual/robust": 10,
     "active/scaling": 10,
     "rlhf-alignment/application": 10,
+    "diffusion/scaling": 10,
     "diffusion/review": 10,
     "federated/review": 10,
     "neurosymbolic/review": 10,
@@ -213,23 +214,23 @@
     "online/robust": 8,
     "online/scaling": 8,
     "rlhf-alignment/efficient": 8,
-    "diffusion/scaling": 8,
     "world-model/scaling": 8,
     "meta-learning/review": 8,
     "active/review": 8,
     "reasoning/robust": 8,
     "reward-modeling/optimization": 8,
     "active/robust": 7,
+    "diffusion/optimization": 7,
     "curriculum/review": 7,
+    "multimodal/application": 7,
+    "reasoning/efficient": 7,
     "unsupervised/application": 6,
     "self-supervised/robust": 6,
     "curriculum/efficient": 6,
     "causal/application": 6,
     "rlhf-alignment/optimization": 6,
     "rlhf-alignment/scaling": 6,
-    "diffusion/optimization": 6,
     "rlhf-alignment/review": 6,
-    "multimodal/application": 6,
     "reasoning/scaling": 6,
     "imitation/architecture": 6,
     "continual/application": 5,
@@ -238,21 +239,23 @@
     "multi-agent/scaling": 5,
     "active/optimization": 5,
     "neurosymbolic/efficient": 5,
-    "reasoning/efficient": 5,
+    "multimodal/scaling": 5,
     "online/application": 4,
     "online/efficient": 4,
     "causal/efficient": 4,
     "diffusion/method": 4,
-    "multimodal/scaling": 4,
     "reasoning/architecture": 4,
     "continual/optimization": 3,
     "online/optimization": 3,
     "neurosymbolic/scaling": 3,
+    "curriculum/optimization": 3,
+    "multimodal/robust": 3,
     "retrieval-augmented/optimization": 3,
     "self-supervised/optimization": 2,
     "curriculum/scaling": 2,
-    "multimodal/robust": 2,
+    "world-model/optimization": 2,
     "retrieval-augmented/robust": 2,
+    "imitation/efficient": 2,
     "reward-modeling/scaling": 2,
     "reward-modeling/efficient": 2,
     "reward-modeling/application": 2,
@@ -261,15 +264,13 @@
     "unsupervised/optimization": 1,
     "neurosymbolic/optimization": 1,
     "causal/scaling": 1,
-    "world-model/optimization": 1,
-    "curriculum/optimization": 1,
     "retrieval-augmented/scaling": 1,
     "retrieval-augmented/efficient": 1,
     "imitation/scaling": 1,
-    "imitation/efficient": 1,
     "imitation/application": 1,
     "imitation/optimization": 1,
-    "reward-modeling/robust": 1
+    "reward-modeling/robust": 1,
+    "reasoning/optimization": 1
   },
   "emerging_themes_12m": [
     {
@@ -286,7 +287,7 @@
     },
     {
       "keyword": "scalable",
-      "papers": 651
+      "papers": 654
     },
     {
       "keyword": "uncertainty",
@@ -294,11 +295,15 @@
     },
     {
       "keyword": "benchmark",
-      "papers": 2103
+      "papers": 2106
     },
     {
       "keyword": "policy",
-      "papers": 1110
+      "papers": 1112
+    },
+    {
+      "keyword": "teaming",
+      "papers": 15
     },
     {
       "keyword": "memory",
@@ -306,11 +311,7 @@
     },
     {
       "keyword": "hierarchical",
-      "papers": 353
-    },
-    {
-      "keyword": "teaming",
-      "papers": 14
+      "papers": 354
     }
   ],
   "momentum": [
@@ -328,13 +329,13 @@
     {
       "id": "world-model",
       "name": "World Model",
-      "total": 1051,
-      "recent": 529,
-      "prior": 349,
-      "growth_pct": 51.6,
-      "recent_share": 0.503,
-      "papers_per_month": 44.1,
-      "score": 101.9
+      "total": 1115,
+      "recent": 534,
+      "prior": 408,
+      "growth_pct": 30.9,
+      "recent_share": 0.479,
+      "papers_per_month": 44.5,
+      "score": 78.8
     },
     {
       "id": "neurosymbolic",
@@ -348,37 +349,37 @@
       "score": 76.7
     },
     {
-      "id": "curriculum",
-      "name": "Curriculum",
-      "total": 649,
-      "recent": 255,
-      "prior": 202,
-      "growth_pct": 26.2,
-      "recent_share": 0.393,
-      "papers_per_month": 21.2,
-      "score": 65.5
-    },
-    {
       "id": "causal",
       "name": "Causal",
-      "total": 1314,
-      "recent": 619,
-      "prior": 545,
-      "growth_pct": 13.6,
-      "recent_share": 0.471,
-      "papers_per_month": 51.6,
-      "score": 60.7
+      "total": 1334,
+      "recent": 626,
+      "prior": 558,
+      "growth_pct": 12.2,
+      "recent_share": 0.469,
+      "papers_per_month": 52.2,
+      "score": 59.1
+    },
+    {
+      "id": "curriculum",
+      "name": "Curriculum",
+      "total": 722,
+      "recent": 272,
+      "prior": 258,
+      "growth_pct": 5.4,
+      "recent_share": 0.377,
+      "papers_per_month": 22.7,
+      "score": 43.1
     },
     {
       "id": "diffusion",
       "name": "Diffusion",
-      "total": 1700,
-      "recent": 768,
-      "prior": 769,
-      "growth_pct": -0.1,
-      "recent_share": 0.452,
-      "papers_per_month": 64.0,
-      "score": 45.1
+      "total": 1751,
+      "recent": 774,
+      "prior": 814,
+      "growth_pct": -4.9,
+      "recent_share": 0.442,
+      "papers_per_month": 64.5,
+      "score": 39.3
     },
     {
       "id": "continual",
@@ -460,24 +461,13 @@
     {
       "id": "rlhf-alignment",
       "name": "Rlhf Alignment",
-      "total": 1046,
-      "recent": 380,
-      "prior": 524,
-      "growth_pct": -27.5,
-      "recent_share": 0.363,
-      "papers_per_month": 31.7,
-      "score": 8.8
-    },
-    {
-      "id": "reward-modeling",
-      "name": "Reward Modeling",
-      "total": 114,
-      "recent": 18,
-      "prior": 21,
-      "growth_pct": -14.3,
-      "recent_share": 0.158,
-      "papers_per_month": 1.5,
-      "score": 1.5
+      "total": 1048,
+      "recent": 381,
+      "prior": 525,
+      "growth_pct": -27.4,
+      "recent_share": 0.364,
+      "papers_per_month": 31.8,
+      "score": 9.0
     },
     {
       "id": "unsupervised",
@@ -489,6 +479,17 @@
       "recent_share": 0.324,
       "papers_per_month": 21.3,
       "score": 0.7
+    },
+    {
+      "id": "reward-modeling",
+      "name": "Reward Modeling",
+      "total": 117,
+      "recent": 19,
+      "prior": 23,
+      "growth_pct": -17.4,
+      "recent_share": 0.162,
+      "papers_per_month": 1.6,
+      "score": -1.2
     },
     {
       "id": "meta-learning",
@@ -526,24 +527,35 @@
     {
       "id": "reasoning",
       "name": "Reasoning",
-      "total": 172,
-      "recent": 18,
-      "prior": 37,
-      "growth_pct": -51.4,
-      "recent_share": 0.105,
-      "papers_per_month": 1.5,
-      "score": -40.9
+      "total": 210,
+      "recent": 24,
+      "prior": 69,
+      "growth_pct": -65.2,
+      "recent_share": 0.114,
+      "papers_per_month": 2.0,
+      "score": -53.8
     },
     {
       "id": "multimodal",
       "name": "Multimodal",
-      "total": 164,
-      "recent": 11,
-      "prior": 60,
-      "growth_pct": -81.7,
-      "recent_share": 0.067,
-      "papers_per_month": 0.9,
-      "score": -75.0
+      "total": 182,
+      "recent": 14,
+      "prior": 75,
+      "growth_pct": -81.3,
+      "recent_share": 0.077,
+      "papers_per_month": 1.2,
+      "score": -73.6
+    },
+    {
+      "id": "imitation",
+      "name": "Imitation",
+      "total": 207,
+      "recent": 9,
+      "prior": 63,
+      "growth_pct": -85.7,
+      "recent_share": 0.043,
+      "papers_per_month": 0.8,
+      "score": -81.4
     },
     {
       "id": "retrieval-augmented",
@@ -555,17 +567,6 @@
       "recent_share": 0.039,
       "papers_per_month": 0.6,
       "score": -88.7
-    },
-    {
-      "id": "imitation",
-      "name": "Imitation",
-      "total": 153,
-      "recent": 0,
-      "prior": 18,
-      "growth_pct": -100.0,
-      "recent_share": 0.0,
-      "papers_per_month": 0.0,
-      "score": -100.0
     }
   ],
   "category_trajectory": {
@@ -592,9 +593,9 @@
       "2021": 8,
       "2022": 42,
       "2023": 38,
-      "2024": 265,
-      "2025": 598,
-      "2026": 362
+      "2024": 268,
+      "2025": 614,
+      "2026": 363
     },
     "continual": {
       "1995": 1,
@@ -614,9 +615,9 @@
       "2021": 16,
       "2022": 75,
       "2023": 58,
-      "2024": 109,
-      "2025": 235,
-      "2026": 151
+      "2024": 136,
+      "2025": 277,
+      "2026": 155
     },
     "diffusion": {
       "1991": 1,
@@ -626,9 +627,9 @@
       "2021": 2,
       "2022": 19,
       "2023": 54,
-      "2024": 402,
-      "2025": 756,
-      "2026": 456
+      "2024": 423,
+      "2025": 785,
+      "2026": 457
     },
     "federated": {
       "2019": 1,
@@ -644,8 +645,9 @@
       "2021": 11,
       "2022": 65,
       "2023": 40,
-      "2024": 25,
-      "2025": 12
+      "2024": 45,
+      "2025": 45,
+      "2026": 1
     },
     "meta-learning": {
       "2020": 1,
@@ -670,9 +672,9 @@
       "2021": 6,
       "2022": 25,
       "2023": 33,
-      "2024": 51,
-      "2025": 45,
-      "2026": 4
+      "2024": 59,
+      "2025": 54,
+      "2026": 5
     },
     "neurosymbolic": {
       "2007": 1,
@@ -697,9 +699,9 @@
       "2021": 1,
       "2022": 16,
       "2023": 52,
-      "2024": 61,
-      "2025": 36,
-      "2026": 6
+      "2024": 72,
+      "2025": 61,
+      "2026": 8
     },
     "reinforcement": {
       "2021": 21,
@@ -717,8 +719,8 @@
     },
     "reward-modeling": {
       "2023": 35,
-      "2024": 48,
-      "2025": 17,
+      "2024": 49,
+      "2025": 19,
       "2026": 14
     },
     "rlhf-alignment": {
@@ -727,8 +729,8 @@
       "2022": 6,
       "2023": 48,
       "2024": 286,
-      "2025": 470,
-      "2026": 229
+      "2025": 471,
+      "2026": 230
     },
     "self-supervised": {
       "2021": 15,
@@ -770,9 +772,9 @@
       "2021": 12,
       "2022": 56,
       "2023": 64,
-      "2024": 197,
-      "2025": 363,
-      "2026": 356
+      "2024": 224,
+      "2025": 399,
+      "2026": 357
     }
   },
   "keyword_bursts": [
@@ -780,125 +782,125 @@
       "keyword": "opponent",
       "recent": 22,
       "total": 27,
-      "burst_score": 1.9,
+      "burst_score": 1.91,
       "recent_share": 0.0026
     },
     {
       "keyword": "agentic",
       "recent": 111,
-      "total": 143,
+      "total": 144,
       "burst_score": 1.81,
-      "recent_share": 0.0132
+      "recent_share": 0.0131
     },
     {
       "keyword": "world model",
       "recent": 383,
-      "total": 574,
-      "burst_score": 1.55,
-      "recent_share": 0.0454
+      "total": 576,
+      "burst_score": 1.56,
+      "recent_share": 0.0451
     },
     {
       "keyword": "scalable",
-      "recent": 651,
-      "total": 1040,
-      "burst_score": 1.46,
-      "recent_share": 0.0772
+      "recent": 654,
+      "total": 1046,
+      "burst_score": 1.47,
+      "recent_share": 0.077
     },
     {
       "keyword": "uncertainty",
       "recent": 499,
-      "total": 806,
-      "burst_score": 1.44,
-      "recent_share": 0.0592
+      "total": 807,
+      "burst_score": 1.45,
+      "recent_share": 0.0588
     },
     {
       "keyword": "benchmark",
-      "recent": 2103,
-      "total": 3456,
-      "burst_score": 1.42,
-      "recent_share": 0.2493
+      "recent": 2106,
+      "total": 3460,
+      "burst_score": 1.43,
+      "recent_share": 0.248
     },
     {
       "keyword": "policy",
-      "recent": 1110,
-      "total": 1854,
-      "burst_score": 1.39,
-      "recent_share": 0.1316
+      "recent": 1112,
+      "total": 1859,
+      "burst_score": 1.41,
+      "recent_share": 0.131
+    },
+    {
+      "keyword": "teaming",
+      "recent": 15,
+      "total": 25,
+      "burst_score": 1.41,
+      "recent_share": 0.0018
     },
     {
       "keyword": "memory",
       "recent": 492,
-      "total": 831,
-      "burst_score": 1.38,
-      "recent_share": 0.0583
+      "total": 832,
+      "burst_score": 1.39,
+      "recent_share": 0.0579
     },
     {
       "keyword": "hierarchical",
-      "recent": 353,
-      "total": 594,
-      "burst_score": 1.38,
-      "recent_share": 0.0418
-    },
-    {
-      "keyword": "teaming",
-      "recent": 14,
-      "total": 24,
-      "burst_score": 1.36,
-      "recent_share": 0.0017
+      "recent": 354,
+      "total": 599,
+      "burst_score": 1.39,
+      "recent_share": 0.0417
     },
     {
       "keyword": "simulation",
       "recent": 600,
-      "total": 1034,
-      "burst_score": 1.35,
-      "recent_share": 0.0711
-    },
-    {
-      "keyword": "planning",
-      "recent": 365,
-      "total": 650,
-      "burst_score": 1.31,
-      "recent_share": 0.0433
+      "total": 1036,
+      "burst_score": 1.36,
+      "recent_share": 0.0707
     },
     {
       "keyword": "offline",
       "recent": 352,
-      "total": 627,
-      "burst_score": 1.31,
-      "recent_share": 0.0417
-    },
-    {
-      "keyword": "embodied",
-      "recent": 75,
-      "total": 133,
-      "burst_score": 1.31,
-      "recent_share": 0.0089
+      "total": 628,
+      "burst_score": 1.32,
+      "recent_share": 0.0415
     },
     {
       "keyword": "bayesian",
       "recent": 262,
       "total": 470,
+      "burst_score": 1.31,
+      "recent_share": 0.0309
+    },
+    {
+      "keyword": "decision",
+      "recent": 842,
+      "total": 1525,
       "burst_score": 1.3,
-      "recent_share": 0.0311
+      "recent_share": 0.0992
+    },
+    {
+      "keyword": "planning",
+      "recent": 365,
+      "total": 660,
+      "burst_score": 1.3,
+      "recent_share": 0.043
     }
   ],
   "source_breakdown": {
-    "arxiv": 15339,
-    "doi": 4019,
+    "arxiv": 15355,
+    "doi": 4326,
     "other": 263
   },
   "venues": [
     {
       "name": "arXiv (Cornell University)",
-      "papers": 396
+      "papers": 399
     },
     {
       "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
-      "papers": 93
+      "papers": 98
     },
     {
       "name": "Lecture notes in computer science",
-      "papers": 88
+      "papers": 96
     },
     {
       "name": "IEEE Transactions on Neural Networks and Learning Systems",
@@ -906,47 +908,47 @@
     },
     {
       "name": "IEEE Access",
-      "papers": 60
+      "papers": 65
+    },
+    {
+      "name": "Expert Systems with Applications",
+      "papers": 62
     },
     {
       "name": "CoRR",
       "papers": 58
     },
     {
-      "name": "Expert Systems with Applications",
+      "name": "Knowledge-Based Systems",
       "papers": 58
     },
     {
-      "name": "Knowledge-Based Systems",
-      "papers": 56
-    },
-    {
       "name": "Neurocomputing",
-      "papers": 54
+      "papers": 57
     },
     {
       "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "papers": 54
+      "papers": 56
     },
     {
       "name": "Applied Energy",
+      "papers": 51
+    },
+    {
+      "name": "Scientific Reports",
       "papers": 44
+    },
+    {
+      "name": "Engineering Applications of Artificial Intelligence",
+      "papers": 42
     },
     {
       "name": "Pattern Recognition",
       "papers": 40
     },
     {
-      "name": "Engineering Applications of Artificial Intelligence",
-      "papers": 39
-    },
-    {
-      "name": "Scientific Reports",
+      "name": "IEEE Internet of Things Journal",
       "papers": 38
-    },
-    {
-      "name": "Nature Communications",
-      "papers": 36
     }
   ],
   "gaps": {
@@ -964,14 +966,6 @@
         "papers": 1
       },
       {
-        "cell": "world-model/optimization",
-        "papers": 1
-      },
-      {
-        "cell": "curriculum/optimization",
-        "papers": 1
-      },
-      {
         "cell": "retrieval-augmented/scaling",
         "papers": 1
       },
@@ -984,21 +978,23 @@
         "papers": 1
       },
       {
-        "cell": "imitation/efficient",
+        "cell": "imitation/application",
         "papers": 1
       },
       {
-        "cell": "imitation/application",
+        "cell": "imitation/optimization",
+        "papers": 1
+      },
+      {
+        "cell": "reward-modeling/robust",
+        "papers": 1
+      },
+      {
+        "cell": "reasoning/optimization",
         "papers": 1
       }
     ],
     "white_space": [
-      {
-        "cell": "curriculum/robust",
-        "total": 13,
-        "recent": 10,
-        "recent_share": 0.77
-      },
       {
         "cell": "reinforcement/scaling",
         "total": 8,
@@ -1012,7 +1008,7 @@
         "recent_share": 0.75
       },
       {
-        "cell": "diffusion/efficient",
+        "cell": "curriculum/robust",
         "total": 14,
         "recent": 10,
         "recent_share": 0.71
@@ -1028,6 +1024,12 @@
         "total": 19,
         "recent": 13,
         "recent_share": 0.68
+      },
+      {
+        "cell": "diffusion/efficient",
+        "total": 15,
+        "recent": 10,
+        "recent_share": 0.67
       },
       {
         "cell": "unsupervised/scaling",
@@ -1061,6 +1063,10 @@
       "papers": 13
     },
     {
+      "name": "Lianghao Xia",
+      "papers": 11
+    },
+    {
       "name": "Chao Huang",
       "papers": 11
     },
@@ -1073,7 +1079,7 @@
       "papers": 10
     },
     {
-      "name": "Lianghao Xia",
+      "name": "Lei Zhang",
       "papers": 10
     },
     {
@@ -1085,16 +1091,20 @@
       "papers": 9
     },
     {
-      "name": "Lei Zhang",
-      "papers": 9
+      "name": "Jing Zhang",
+      "papers": 8
+    },
+    {
+      "name": "Qi Liu",
+      "papers": 8
     },
     {
       "name": "Yu Zhang",
       "papers": 8
     },
     {
-      "name": "Jing Zhang",
-      "papers": 7
+      "name": "Yan Wang",
+      "papers": 8
     },
     {
       "name": "Yu Xie",
@@ -1105,16 +1115,8 @@
       "papers": 7
     },
     {
-      "name": "Yan Wang",
+      "name": "Wei Zhang",
       "papers": 7
-    },
-    {
-      "name": "Bikram Pratim Bhuyan",
-      "papers": 7
-    },
-    {
-      "name": "Jing Ma",
-      "papers": 6
     }
   ]
 }

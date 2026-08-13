@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-08-13  
-**Corpus:** 19,621 papers across 23 categories
+**Corpus:** 19,944 papers across 23 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -12,16 +12,16 @@
 | Rank | Category | Papers |
 |------|----------|--------|
 | 1 |  | 3178 |
-| 2 | Diffusion | 1700 |
-| 3 | Causal | 1314 |
+| 2 | Diffusion | 1751 |
+| 3 | Causal | 1334 |
 | 4 | Federated | 1237 |
 | 5 | Supervised | 1186 |
-| 6 | World Model | 1051 |
-| 7 | Rlhf Alignment | 1046 |
+| 6 | World Model | 1115 |
+| 7 | Rlhf Alignment | 1048 |
 | 8 | Reinforcement | 983 |
 
 **Time span:** 1991–2026 (median year 2017)
-**Dominant aspects:** Algorithm (10834), Theory (3296),  (3178)
+**Dominant aspects:** Algorithm (10987), Theory (3431),  (3178)
 
 ---
 
@@ -30,11 +30,11 @@
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
 |  | 3178 | 2464 | 714 | +245% | 78% | 205.3 |
-| World Model | 1051 | 529 | 349 | +52% | 50% | 44.1 |
+| World Model | 1115 | 534 | 408 | +31% | 48% | 44.5 |
 | Neurosymbolic | 817 | 382 | 294 | +30% | 47% | 31.8 |
-| Curriculum | 649 | 255 | 202 | +26% | 39% | 21.2 |
-| Causal | 1314 | 619 | 545 | +14% | 47% | 51.6 |
-| Diffusion | 1700 | 768 | 769 | -0% | 45% | 64.0 |
+| Causal | 1334 | 626 | 558 | +12% | 47% | 52.2 |
+| Curriculum | 722 | 272 | 258 | +5% | 38% | 22.7 |
+| Diffusion | 1751 | 774 | 814 | -5% | 44% | 64.5 |
 | Continual | 718 | 269 | 291 | -8% | 38% | 22.4 |
 | Reinforcement | 983 | 360 | 434 | -17% | 37% | 30.0 |
 | Federated | 1237 | 451 | 546 | -17% | 36% | 37.6 |
@@ -51,11 +51,11 @@
 | `unsupervised/optimization` | 1 |
 | `neurosymbolic/optimization` | 1 |
 | `causal/scaling` | 1 |
-| `world-model/optimization` | 1 |
-| `curriculum/optimization` | 1 |
 | `retrieval-augmented/scaling` | 1 |
 | `retrieval-augmented/efficient` | 1 |
 | `imitation/scaling` | 1 |
+| `imitation/application` | 1 |
+| `imitation/optimization` | 1 |
 
 ---
 
@@ -76,7 +76,7 @@
 
 ### Diffusion (`diffusion`)
 
-**Corpus size:** 1700 papers
+**Corpus size:** 1751 papers
 
 **Recent papers:**
 
@@ -88,7 +88,7 @@
 
 ### Causal (`causal`)
 
-**Corpus size:** 1314 papers
+**Corpus size:** 1334 papers
 
 **Recent papers:**
 
@@ -124,7 +124,7 @@
 
 ### World Model (`world-model`)
 
-**Corpus size:** 1051 papers
+**Corpus size:** 1115 papers
 
 **Recent papers:**
 
@@ -136,7 +136,7 @@
 
 ### Rlhf Alignment (`rlhf-alignment`)
 
-**Corpus size:** 1046 papers
+**Corpus size:** 1048 papers
 
 **Recent papers:**
 
@@ -218,6 +218,18 @@
 
 ---
 
+### Curriculum (`curriculum`)
+
+**Corpus size:** 722 papers
+
+**Recent papers:**
+
+- [2026-07] LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in P — https://arxiv.org/abs/2607.14233
+- [2026-07] UASPL: Uncertainty-Aware Self-Paced Learning with Evidential Neural Networks — https://arxiv.org/abs/2607.06638
+- [2026-07] Steering Optimisation Trajectories in Diffusion Representation Learning — https://arxiv.org/abs/2607.05319
+
+---
+
 ### Continual (`continual`)
 
 **Corpus size:** 718 papers
@@ -239,18 +251,6 @@
 - [2026-07] Adaptive Bayesian Online Learning via Expert Aggregation — https://arxiv.org/abs/2607.20239
 - [2026-07] Adaptive Two-Stage Online Learning for Service-Affecting Failure Detection in Mobile Core Netwo — https://arxiv.org/abs/2607.18522
 - [2026-07] Dynamic Regret for Non-Stationary Linear Bandits via Misspecification Reductions — https://arxiv.org/abs/2607.02891
-
----
-
-### Curriculum (`curriculum`)
-
-**Corpus size:** 649 papers
-
-**Recent papers:**
-
-- [2026-07] LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in P — https://arxiv.org/abs/2607.14233
-- [2026-07] UASPL: Uncertainty-Aware Self-Paced Learning with Evidential Neural Networks — https://arxiv.org/abs/2607.06638
-- [2026-07] Steering Optimisation Trajectories in Diffusion Representation Learning — https://arxiv.org/abs/2607.05319
 
 ---
 
@@ -278,6 +278,42 @@
 
 ---
 
+### Reasoning (`reasoning`)
+
+**Corpus size:** 210 papers
+
+**Recent papers:**
+
+- [2026-05] A Survey of Large Language Models — https://arxiv.org/abs/2303.18223
+- [2026-05] Towards reasoning era: a survey of long chain-of-thought for reasoning large language models — https://arxiv.org/abs/2503.09567
+- [2026-04] Performance of a large language model on the reasoning tasks of a physician — https://doi.org/10.1126/science.adz4433
+
+---
+
+### Imitation (`imitation`)
+
+**Corpus size:** 207 papers
+
+**Recent papers:**
+
+- [2026-03] A survey on imitation learning for contact-rich tasks in robotics — https://doi.org/10.1177/02783649261417694
+- [2025-12] Dexterous Manipulation Through Imitation Learning: A Survey — https://doi.org/10.1109/tase.2025.3646183
+- [2025-12] Imitation learning for legged robot locomotion: a survey — https://doi.org/10.3389/frobt.2025.1678567
+
+---
+
+### Multimodal (`multimodal`)
+
+**Corpus size:** 182 papers
+
+**Recent papers:**
+
+- [2026-05] A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision–Language Tasks — https://arxiv.org/abs/2411.06284
+- [2026-03] SkinCLIP-VL: Consistency-Aware Vision-Language Learning for Multimodal Skin Cancer Diagnosis — https://arxiv.org/abs/2603.21010
+- [2026-01] CNC-VLM: An RLHF-optimized industrial large vision-language model with multimodal learning for  — https://doi.org/10.1016/j.ymssp.2025.113838
+
+---
+
 ### Retrieval Augmented (`retrieval-augmented`)
 
 **Corpus size:** 178 papers
@@ -290,45 +326,9 @@
 
 ---
 
-### Reasoning (`reasoning`)
-
-**Corpus size:** 172 papers
-
-**Recent papers:**
-
-- [2026-05] A Survey of Large Language Models — https://arxiv.org/abs/2303.18223
-- [2026-05] Towards reasoning era: a survey of long chain-of-thought for reasoning large language models — https://arxiv.org/abs/2503.09567
-- [2026-04] Performance of a large language model on the reasoning tasks of a physician — https://doi.org/10.1126/science.adz4433
-
----
-
-### Multimodal (`multimodal`)
-
-**Corpus size:** 164 papers
-
-**Recent papers:**
-
-- [2026-03] SkinCLIP-VL: Consistency-Aware Vision-Language Learning for Multimodal Skin Cancer Diagnosis — https://arxiv.org/abs/2603.21010
-- [2026-01] CNC-VLM: An RLHF-optimized industrial large vision-language model with multimodal learning for  — https://doi.org/10.1016/j.ymssp.2025.113838
-- [2026-01] FMSA: Few-shot Multimodal Sentiment Analysis for Social Media via Integrated Prompt Learning an — https://doi.org/10.1109/taffc.2026.3681216
-
----
-
-### Imitation (`imitation`)
-
-**Corpus size:** 153 papers
-
-**Recent papers:**
-
-- [2025-07] SRT-H: A hierarchical framework for autonomous surgery via language-conditioned imitation learn — https://doi.org/10.1126/scirobotics.adt5254
-- [2025-07] Imitation learning-driven approximation of stochastic control models — https://doi.org/10.1007/s10489-025-06704-x
-- [2025-04] Personalized longitudinal motion planning based on a combination of reinforcement learning and  — https://doi.org/10.1016/j.geits.2025.100321
-
----
-
 ### Reward Modeling (`reward-modeling`)
 
-**Corpus size:** 114 papers
+**Corpus size:** 117 papers
 
 **Recent papers:**
 
