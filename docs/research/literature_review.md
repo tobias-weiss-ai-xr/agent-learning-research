@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-08-13  
-**Corpus:** 18,926 papers across 23 categories
+**Corpus:** 19,621 papers across 23 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -15,13 +15,13 @@
 | 2 | Diffusion | 1700 |
 | 3 | Causal | 1314 |
 | 4 | Federated | 1237 |
-| 5 | Supervised | 1121 |
+| 5 | Supervised | 1186 |
 | 6 | World Model | 1051 |
 | 7 | Rlhf Alignment | 1046 |
-| 8 | Reinforcement | 916 |
+| 8 | Reinforcement | 983 |
 
 **Time span:** 1991–2026 (median year 2017)
-**Dominant aspects:** Algorithm (10518),  (3178), Theory (3013)
+**Dominant aspects:** Algorithm (10834), Theory (3296),  (3178)
 
 ---
 
@@ -34,13 +34,13 @@
 | Neurosymbolic | 817 | 382 | 294 | +30% | 47% | 31.8 |
 | Curriculum | 649 | 255 | 202 | +26% | 39% | 21.2 |
 | Causal | 1314 | 619 | 545 | +14% | 47% | 51.6 |
-| Multi Agent | 396 | 138 | 113 | +22% | 35% | 11.5 |
-| Online | 617 | 231 | 196 | +18% | 37% | 19.2 |
-| Continual | 664 | 261 | 245 | +6% | 39% | 21.8 |
 | Diffusion | 1700 | 768 | 769 | -0% | 45% | 64.0 |
-| Active | 541 | 179 | 162 | +10% | 33% | 14.9 |
-| Reinforcement | 916 | 355 | 372 | -5% | 39% | 29.6 |
-| Transfer | 821 | 294 | 326 | -10% | 36% | 24.5 |
+| Continual | 718 | 269 | 291 | -8% | 38% | 22.4 |
+| Reinforcement | 983 | 360 | 434 | -17% | 37% | 30.0 |
+| Federated | 1237 | 451 | 546 | -17% | 36% | 37.6 |
+| Multi Agent | 445 | 140 | 160 | -12% | 32% | 11.7 |
+| Online | 708 | 235 | 283 | -17% | 33% | 19.6 |
+| Transfer | 889 | 307 | 381 | -19% | 34% | 25.6 |
 
 ---
 
@@ -49,13 +49,13 @@
 | Cell | Papers |
 |------|--------:|
 | `unsupervised/optimization` | 1 |
-| `self-supervised/optimization` | 1 |
 | `neurosymbolic/optimization` | 1 |
 | `causal/scaling` | 1 |
 | `world-model/optimization` | 1 |
 | `curriculum/optimization` | 1 |
 | `retrieval-augmented/scaling` | 1 |
 | `retrieval-augmented/efficient` | 1 |
+| `imitation/scaling` | 1 |
 
 ---
 
@@ -112,13 +112,13 @@
 
 ### Supervised (`supervised`)
 
-**Corpus size:** 1121 papers
+**Corpus size:** 1186 papers
 
 **Recent papers:**
 
+- [2026-08] Maya-Vaidya P2: A Four-Head SoftLIF Spiking Neural Network for Wearable Pain Chronification Sta — https://doi.org/10.5281/zenodo.20522091
 - [2026-07] XMix: Combating Extremely Noisy Labels via Local Smoothness in Self-Supervised Feature Space — https://arxiv.org/abs/2607.23865
 - [2026-07] On Preserving Geometrical Invariance for Superpixel Image Classification using Graph Transforme — https://arxiv.org/abs/2607.04262
-- [2026-07] Benign Overfitting Does Not Occur in Diffusion Models — https://arxiv.org/abs/2607.02671
 
 ---
 
@@ -148,7 +148,7 @@
 
 ### Reinforcement (`reinforcement`)
 
-**Corpus size:** 916 papers
+**Corpus size:** 983 papers
 
 **Recent papers:**
 
@@ -160,7 +160,7 @@
 
 ### Transfer (`transfer`)
 
-**Corpus size:** 821 papers
+**Corpus size:** 889 papers
 
 **Recent papers:**
 
@@ -184,7 +184,7 @@
 
 ### Unsupervised (`unsupervised`)
 
-**Corpus size:** 722 papers
+**Corpus size:** 790 papers
 
 **Recent papers:**
 
@@ -196,7 +196,7 @@
 
 ### Meta Learning (`meta-learning`)
 
-**Corpus size:** 681 papers
+**Corpus size:** 753 papers
 
 **Recent papers:**
 
@@ -208,7 +208,7 @@
 
 ### Self Supervised (`self-supervised`)
 
-**Corpus size:** 674 papers
+**Corpus size:** 749 papers
 
 **Recent papers:**
 
@@ -220,13 +220,25 @@
 
 ### Continual (`continual`)
 
-**Corpus size:** 664 papers
+**Corpus size:** 718 papers
 
 **Recent papers:**
 
 - [2026-08] Antahkarana in the Age of Transformers: Continual Fine-Tuning of Large Language Models via Veda — https://doi.org/10.5281/zenodo.19522347
+- [2026-08] Maya-Manas: Oscillatory Thalamo-Cortical Gating for Class-Incremental Learning in Affective Spi — https://github.com/venky2099/Maya-Manas
 - [2026-07] PIcsC: Partitioning-Induced Covariate Shift Correction — https://arxiv.org/abs/2607.25441
-- [2026-07] Breaking the Synthetic-Real Domain Shortcut for Training-Free Generative Replay-based Class Inc — https://arxiv.org/abs/2607.22994
+
+---
+
+### Online (`online`)
+
+**Corpus size:** 708 papers
+
+**Recent papers:**
+
+- [2026-07] Adaptive Bayesian Online Learning via Expert Aggregation — https://arxiv.org/abs/2607.20239
+- [2026-07] Adaptive Two-Stage Online Learning for Service-Affecting Failure Detection in Mobile Core Netwo — https://arxiv.org/abs/2607.18522
+- [2026-07] Dynamic Regret for Non-Stationary Linear Bandits via Misspecification Reductions — https://arxiv.org/abs/2607.02891
 
 ---
 
@@ -242,21 +254,9 @@
 
 ---
 
-### Online (`online`)
-
-**Corpus size:** 617 papers
-
-**Recent papers:**
-
-- [2026-07] Adaptive Bayesian Online Learning via Expert Aggregation — https://arxiv.org/abs/2607.20239
-- [2026-07] Adaptive Two-Stage Online Learning for Service-Affecting Failure Detection in Mobile Core Netwo — https://arxiv.org/abs/2607.18522
-- [2026-07] Dynamic Regret for Non-Stationary Linear Bandits via Misspecification Reductions — https://arxiv.org/abs/2607.02891
-
----
-
 ### Active (`active`)
 
-**Corpus size:** 541 papers
+**Corpus size:** 627 papers
 
 **Recent papers:**
 
@@ -268,7 +268,7 @@
 
 ### Multi Agent (`multi-agent`)
 
-**Corpus size:** 396 papers
+**Corpus size:** 445 papers
 
 **Recent papers:**
 

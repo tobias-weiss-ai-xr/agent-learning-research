@@ -24,7 +24,7 @@
   {
    "id": "active",
    "name": "Active",
-   "count": 541,
+   "count": 627,
    "trajectory": {
     "2004": 1,
     "2009": 1,
@@ -35,20 +35,20 @@
     "2021": 20,
     "2022": 85,
     "2023": 49,
-    "2024": 101,
-    "2025": 186,
-    "2026": 93
+    "2024": 139,
+    "2025": 233,
+    "2026": 94
    },
    "momentum": {
     "id": "active",
     "name": "Active",
-    "total": 541,
-    "recent": 179,
-    "prior": 162,
-    "growth_pct": 10.5,
-    "recent_share": 0.331,
-    "papers_per_month": 14.9,
-    "score": 43.6
+    "total": 627,
+    "recent": 190,
+    "prior": 237,
+    "growth_pct": -19.8,
+    "recent_share": 0.303,
+    "papers_per_month": 15.8,
+    "score": 10.5
    }
   },
   {
@@ -78,7 +78,7 @@
   {
    "id": "continual",
    "name": "Continual",
-   "count": 664,
+   "count": 718,
    "trajectory": {
     "1995": 1,
     "2017": 1,
@@ -87,20 +87,20 @@
     "2021": 14,
     "2022": 51,
     "2023": 47,
-    "2024": 125,
-    "2025": 253,
-    "2026": 162
+    "2024": 145,
+    "2025": 284,
+    "2026": 165
    },
    "momentum": {
     "id": "continual",
     "name": "Continual",
-    "total": 664,
-    "recent": 261,
-    "prior": 245,
-    "growth_pct": 6.5,
-    "recent_share": 0.393,
-    "papers_per_month": 21.8,
-    "score": 45.8
+    "total": 718,
+    "recent": 269,
+    "prior": 291,
+    "growth_pct": -7.6,
+    "recent_share": 0.375,
+    "papers_per_month": 22.4,
+    "score": 29.9
    }
   },
   {
@@ -209,52 +209,52 @@
   {
    "id": "meta-learning",
    "name": "Meta Learning",
-   "count": 681,
+   "count": 753,
    "trajectory": {
     "2020": 1,
     "2021": 18,
     "2022": 58,
     "2023": 59,
-    "2024": 187,
-    "2025": 239,
-    "2026": 115
+    "2024": 207,
+    "2025": 287,
+    "2026": 119
    },
    "momentum": {
     "id": "meta-learning",
     "name": "Meta Learning",
-    "total": 681,
-    "recent": 204,
-    "prior": 285,
-    "growth_pct": -28.4,
-    "recent_share": 0.3,
-    "papers_per_month": 17.0,
-    "score": 1.6
+    "total": 753,
+    "recent": 225,
+    "prior": 336,
+    "growth_pct": -33.0,
+    "recent_share": 0.299,
+    "papers_per_month": 18.8,
+    "score": -3.1
    }
   },
   {
    "id": "multi-agent",
    "name": "Multi Agent",
-   "count": 396,
+   "count": 445,
    "trajectory": {
     "1991": 1,
     "2019": 1,
     "2021": 10,
     "2022": 44,
     "2023": 50,
-    "2024": 67,
-    "2025": 150,
+    "2024": 92,
+    "2025": 174,
     "2026": 66
    },
    "momentum": {
     "id": "multi-agent",
     "name": "Multi Agent",
-    "total": 396,
-    "recent": 138,
-    "prior": 113,
-    "growth_pct": 22.1,
-    "recent_share": 0.348,
-    "papers_per_month": 11.5,
-    "score": 56.9
+    "total": 445,
+    "recent": 140,
+    "prior": 160,
+    "growth_pct": -12.5,
+    "recent_share": 0.315,
+    "papers_per_month": 11.7,
+    "score": 19.0
    }
   },
   {
@@ -311,25 +311,25 @@
   {
    "id": "online",
    "name": "Online",
-   "count": 617,
+   "count": 708,
    "trajectory": {
     "2021": 42,
     "2022": 103,
     "2023": 28,
-    "2024": 88,
-    "2025": 209,
-    "2026": 147
+    "2024": 134,
+    "2025": 253,
+    "2026": 148
    },
    "momentum": {
     "id": "online",
     "name": "Online",
-    "total": 617,
-    "recent": 231,
-    "prior": 196,
-    "growth_pct": 17.9,
-    "recent_share": 0.374,
-    "papers_per_month": 19.2,
-    "score": 55.3
+    "total": 708,
+    "recent": 235,
+    "prior": 283,
+    "growth_pct": -17.0,
+    "recent_share": 0.332,
+    "papers_per_month": 19.6,
+    "score": 16.2
    }
   },
   {
@@ -359,25 +359,25 @@
   {
    "id": "reinforcement",
    "name": "Reinforcement",
-   "count": 916,
+   "count": 983,
    "trajectory": {
     "2021": 21,
     "2022": 60,
     "2023": 55,
-    "2024": 189,
-    "2025": 394,
+    "2024": 211,
+    "2025": 439,
     "2026": 197
    },
    "momentum": {
     "id": "reinforcement",
     "name": "Reinforcement",
-    "total": 916,
-    "recent": 355,
-    "prior": 372,
-    "growth_pct": -4.6,
-    "recent_share": 0.388,
-    "papers_per_month": 29.6,
-    "score": 34.2
+    "total": 983,
+    "recent": 360,
+    "prior": 434,
+    "growth_pct": -17.1,
+    "recent_share": 0.366,
+    "papers_per_month": 30.0,
+    "score": 19.5
    }
   },
   {
@@ -452,99 +452,99 @@
   {
    "id": "self-supervised",
    "name": "Self Supervised",
-   "count": 674,
+   "count": 749,
    "trajectory": {
     "2021": 15,
     "2022": 72,
     "2023": 48,
-    "2024": 166,
-    "2025": 247,
-    "2026": 126
+    "2024": 198,
+    "2025": 288,
+    "2026": 128
    },
    "momentum": {
     "id": "self-supervised",
     "name": "Self Supervised",
-    "total": 674,
-    "recent": 212,
-    "prior": 286,
-    "growth_pct": -25.9,
-    "recent_share": 0.315,
-    "papers_per_month": 17.7,
-    "score": 5.6
+    "total": 749,
+    "recent": 222,
+    "prior": 351,
+    "growth_pct": -36.8,
+    "recent_share": 0.296,
+    "papers_per_month": 18.5,
+    "score": -7.2
    }
   },
   {
    "id": "supervised",
    "name": "Supervised",
-   "count": 1121,
+   "count": 1186,
    "trajectory": {
     "2021": 34,
     "2022": 127,
     "2023": 117,
-    "2024": 288,
-    "2025": 381,
-    "2026": 174
+    "2024": 315,
+    "2025": 411,
+    "2026": 182
    },
    "momentum": {
     "id": "supervised",
     "name": "Supervised",
-    "total": 1121,
-    "recent": 317,
-    "prior": 460,
-    "growth_pct": -31.1,
-    "recent_share": 0.283,
-    "papers_per_month": 26.4,
-    "score": -2.8
+    "total": 1186,
+    "recent": 330,
+    "prior": 512,
+    "growth_pct": -35.5,
+    "recent_share": 0.278,
+    "papers_per_month": 27.5,
+    "score": -7.7
    }
   },
   {
    "id": "transfer",
    "name": "Transfer",
-   "count": 821,
+   "count": 889,
    "trajectory": {
     "2012": 1,
     "2017": 2,
     "2021": 28,
     "2022": 74,
     "2023": 44,
-    "2024": 178,
-    "2025": 323,
-    "2026": 169
+    "2024": 207,
+    "2025": 357,
+    "2026": 174
    },
    "momentum": {
     "id": "transfer",
     "name": "Transfer",
-    "total": 821,
-    "recent": 294,
-    "prior": 326,
-    "growth_pct": -9.8,
-    "recent_share": 0.358,
-    "papers_per_month": 24.5,
-    "score": 26.0
+    "total": 889,
+    "recent": 307,
+    "prior": 381,
+    "growth_pct": -19.4,
+    "recent_share": 0.345,
+    "papers_per_month": 25.6,
+    "score": 15.1
    }
   },
   {
    "id": "unsupervised",
    "name": "Unsupervised",
-   "count": 722,
+   "count": 790,
    "trajectory": {
     "2021": 13,
     "2022": 63,
     "2023": 36,
-    "2024": 181,
-    "2025": 309,
-    "2026": 120
+    "2024": 204,
+    "2025": 348,
+    "2026": 126
    },
    "momentum": {
     "id": "unsupervised",
     "name": "Unsupervised",
-    "total": 722,
-    "recent": 244,
-    "prior": 319,
-    "growth_pct": -23.5,
-    "recent_share": 0.338,
-    "papers_per_month": 20.3,
-    "score": 10.3
+    "total": 790,
+    "recent": 256,
+    "prior": 375,
+    "growth_pct": -31.7,
+    "recent_share": 0.324,
+    "papers_per_month": 21.3,
+    "score": 0.7
    }
   },
   {
@@ -583,22 +583,22 @@
   {
    "id": "algorithm",
    "name": "Algorithm",
-   "count": 10518
+   "count": 10834
   },
   {
    "id": "application",
    "name": "Application",
-   "count": 311
+   "count": 336
   },
   {
    "id": "architecture",
    "name": "Architecture",
-   "count": 833
+   "count": 882
   },
   {
    "id": "efficient",
    "name": "Efficient",
-   "count": 183
+   "count": 190
   },
   {
    "id": "mechanism",
@@ -613,7 +613,7 @@
   {
    "id": "optimization",
    "name": "Optimization",
-   "count": 85
+   "count": 91
   },
   {
    "id": "review",
@@ -623,7 +623,7 @@
   {
    "id": "robust",
    "name": "Robust",
-   "count": 302
+   "count": 311
   },
   {
    "id": "scaling",
@@ -633,7 +633,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 3013
+   "count": 3296
   }
  ],
  "timeline": [
@@ -18794,6 +18794,16 @@
   ],
   [
    "2024-08",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-08",
    "causal",
    "algorithm"
   ],
@@ -18996,6 +19006,21 @@
    "2024-08",
    "causal",
    "theory"
+  ],
+  [
+   "2024-08",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "continual",
+   "algorithm"
   ],
   [
    "2024-08",
@@ -19540,6 +19565,11 @@
   [
    "2024-08",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "meta-learning",
    "architecture"
   ],
   [
@@ -19566,6 +19596,11 @@
    "2024-08",
    "meta-learning",
    "theory"
+  ],
+  [
+   "2024-08",
+   "multi-agent",
+   "algorithm"
   ],
   [
    "2024-08",
@@ -19765,7 +19800,37 @@
   [
    "2024-08",
    "online",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "online",
    "robust"
+  ],
+  [
+   "2024-08",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "online",
+   "theory"
   ],
   [
    "2024-08",
@@ -19850,6 +19915,16 @@
   [
    "2024-08",
    "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2024-08",
+   "reinforcement",
    "theory"
   ],
   [
@@ -20115,6 +20190,16 @@
   [
    "2024-08",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -20250,6 +20335,11 @@
   [
    "2024-08",
    "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "supervised",
    "architecture"
   ],
   [
@@ -20286,6 +20376,26 @@
    "2024-08",
    "supervised",
    "theory"
+  ],
+  [
+   "2024-08",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-08",
+   "transfer",
+   "algorithm"
   ],
   [
    "2024-08",
@@ -20325,6 +20435,16 @@
   [
    "2024-08",
    "transfer",
+   "architecture"
+  ],
+  [
+   "2024-08",
+   "transfer",
+   "architecture"
+  ],
+  [
+   "2024-08",
+   "transfer",
    "review"
   ],
   [
@@ -20344,6 +20464,11 @@
   ],
   [
    "2024-08",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-08",
    "unsupervised",
    "algorithm"
   ],
@@ -20464,6 +20589,11 @@
   ],
   [
    "2024-08",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-08",
    "world-model",
    "algorithm"
   ],
@@ -20801,6 +20931,31 @@
    "2024-09",
    "",
    ""
+  ],
+  [
+   "2024-09",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "active",
+   "algorithm"
   ],
   [
    "2024-09",
@@ -20844,6 +20999,46 @@
   ],
   [
    "2024-09",
+   "active",
+   "optimization"
+  ],
+  [
+   "2024-09",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-09",
    "causal",
    "algorithm"
   ],
@@ -21045,12 +21240,37 @@
   [
    "2024-09",
    "continual",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "continual",
    "architecture"
   ],
   [
    "2024-09",
    "continual",
    "efficient"
+  ],
+  [
+   "2024-09",
+   "continual",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "continual",
+   "theory"
   ],
   [
    "2024-09",
@@ -21710,6 +21930,16 @@
   [
    "2024-09",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "meta-learning",
    "application"
   ],
   [
@@ -21739,6 +21969,41 @@
   ],
   [
    "2024-09",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-09",
    "multi-agent",
    "algorithm"
   ],
@@ -21764,6 +22029,11 @@
   ],
   [
    "2024-09",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2024-09",
    "multimodal",
    "algorithm"
   ],
@@ -21846,6 +22116,21 @@
    "2024-09",
    "neurosymbolic",
    "architecture"
+  ],
+  [
+   "2024-09",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "online",
+   "algorithm"
   ],
   [
    "2024-09",
@@ -21919,7 +22204,32 @@
   ],
   [
    "2024-09",
-   "reasoning",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "online",
    "theory"
   ],
   [
@@ -21931,6 +22241,36 @@
    "2024-09",
    "reasoning",
    "theory"
+  ],
+  [
+   "2024-09",
+   "reasoning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "reinforcement",
+   "algorithm"
   ],
   [
    "2024-09",
@@ -22079,6 +22419,11 @@
   ],
   [
    "2024-09",
+   "reinforcement",
+   "theory"
+  ],
+  [
+   "2024-09",
    "retrieval-augmented",
    "application"
   ],
@@ -22360,7 +22705,12 @@
   [
    "2024-09",
    "self-supervised",
-   "application"
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "self-supervised",
+   "algorithm"
   ],
   [
    "2024-09",
@@ -22371,6 +22721,16 @@
    "2024-09",
    "self-supervised",
    "application"
+  ],
+  [
+   "2024-09",
+   "self-supervised",
+   "application"
+  ],
+  [
+   "2024-09",
+   "self-supervised",
+   "architecture"
   ],
   [
    "2024-09",
@@ -22429,6 +22789,41 @@
   ],
   [
    "2024-09",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-09",
    "supervised",
    "algorithm"
   ],
@@ -22580,7 +22975,12 @@
   [
    "2024-09",
    "supervised",
-   "theory"
+   "architecture"
+  ],
+  [
+   "2024-09",
+   "supervised",
+   "architecture"
   ],
   [
    "2024-09",
@@ -22619,8 +23019,18 @@
   ],
   [
    "2024-09",
-   "transfer",
-   "algorithm"
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "supervised",
+   "theory"
   ],
   [
    "2024-09",
@@ -22686,6 +23096,26 @@
    "2024-09",
    "transfer",
    "algorithm"
+  ],
+  [
+   "2024-09",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "transfer",
+   "application"
+  ],
+  [
+   "2024-09",
+   "transfer",
+   "robust"
   ],
   [
    "2024-09",
@@ -22825,11 +23255,31 @@
   [
    "2024-09",
    "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-09",
+   "unsupervised",
    "application"
   ],
   [
    "2024-09",
    "unsupervised",
+   "robust"
+  ],
+  [
+   "2024-09",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "unsupervised",
    "theory"
   ],
   [
@@ -23391,6 +23841,31 @@
    "2024-10",
    "",
    ""
+  ],
+  [
+   "2024-10",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "active",
+   "algorithm"
   ],
   [
    "2024-10",
@@ -23446,6 +23921,46 @@
    "2024-10",
    "active",
    "efficient"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "active",
+   "theory"
   ],
   [
    "2024-10",
@@ -23881,6 +24396,46 @@
    "2024-10",
    "continual",
    "algorithm"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "architecture"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "continual",
+   "theory"
   ],
   [
    "2024-10",
@@ -24995,6 +25550,21 @@
   [
    "2024-10",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "meta-learning",
    "application"
   ],
   [
@@ -25090,12 +25660,42 @@
   [
    "2024-10",
    "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "multi-agent",
    "application"
   ],
   [
    "2024-10",
    "multi-agent",
    "architecture"
+  ],
+  [
+   "2024-10",
+   "multi-agent",
+   "theory"
   ],
   [
    "2024-10",
@@ -25325,7 +25925,42 @@
   [
    "2024-10",
    "online",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "online",
    "scaling"
+  ],
+  [
+   "2024-10",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "online",
+   "theory"
   ],
   [
    "2024-10",
@@ -25551,6 +26186,21 @@
    "2024-10",
    "reinforcement",
    "algorithm"
+  ],
+  [
+   "2024-10",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "reinforcement",
+   "application"
   ],
   [
    "2024-10",
@@ -26105,6 +26755,16 @@
   [
    "2024-10",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -26151,6 +26811,51 @@
    "2024-10",
    "self-supervised",
    "theory"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "supervised",
+   "algorithm"
   ],
   [
    "2024-10",
@@ -26441,6 +27146,41 @@
    "2024-10",
    "supervised",
    "theory"
+  ],
+  [
+   "2024-10",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "transfer",
+   "algorithm"
   ],
   [
    "2024-10",
@@ -26629,8 +27369,18 @@
   ],
   [
    "2024-10",
-   "unsupervised",
-   "algorithm"
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "transfer",
+   "theory"
   ],
   [
    "2024-10",
@@ -26771,6 +27521,21 @@
    "2024-10",
    "unsupervised",
    "algorithm"
+  ],
+  [
+   "2024-10",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-10",
+   "unsupervised",
+   "architecture"
   ],
   [
    "2024-10",
@@ -26799,6 +27564,11 @@
   ],
   [
    "2024-10",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-10",
    "world-model",
    "algorithm"
   ],
@@ -27420,12 +28190,32 @@
   [
    "2024-11",
    "active",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "active",
    "application"
   ],
   [
    "2024-11",
    "active",
    "architecture"
+  ],
+  [
+   "2024-11",
+   "active",
+   "optimization"
+  ],
+  [
+   "2024-11",
+   "active",
+   "theory"
   ],
   [
    "2024-11",
@@ -27706,6 +28496,16 @@
    "2024-11",
    "continual",
    "architecture"
+  ],
+  [
+   "2024-11",
+   "continual",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "continual",
+   "theory"
   ],
   [
    "2024-11",
@@ -28275,6 +29075,26 @@
   [
    "2024-11",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2024-11",
+   "meta-learning",
    "architecture"
   ],
   [
@@ -28316,6 +29136,31 @@
    "2024-11",
    "multi-agent",
    "algorithm"
+  ],
+  [
+   "2024-11",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "multi-agent",
+   "architecture"
   ],
   [
    "2024-11",
@@ -28540,6 +29385,61 @@
   [
    "2024-11",
    "online",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "online",
+   "architecture"
+  ],
+  [
+   "2024-11",
+   "online",
+   "robust"
+  ],
+  [
+   "2024-11",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "online",
    "theory"
   ],
   [
@@ -28626,11 +29526,36 @@
    "2024-11",
    "reinforcement",
    "algorithm"
+  ],
+  [
+   "2024-11",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "reinforcement",
+   "application"
   ],
   [
    "2024-11",
    "reinforcement",
    "architecture"
+  ],
+  [
+   "2024-11",
+   "reinforcement",
+   "theory"
   ],
   [
    "2024-11",
@@ -28895,6 +29820,16 @@
   [
    "2024-11",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
    "application"
   ],
   [
@@ -28911,6 +29846,16 @@
    "2024-11",
    "self-supervised",
    "architecture"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "architecture"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "efficient"
   ],
   [
    "2024-11",
@@ -28984,6 +29929,56 @@
   ],
   [
    "2024-11",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
    "supervised",
    "algorithm"
   ],
@@ -29156,6 +30151,11 @@
    "2024-11",
    "supervised",
    "application"
+  ],
+  [
+   "2024-11",
+   "supervised",
+   "architecture"
   ],
   [
    "2024-11",
@@ -29224,6 +30224,26 @@
   ],
   [
    "2024-11",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-11",
    "transfer",
    "algorithm"
   ],
@@ -29374,6 +30394,21 @@
   ],
   [
    "2024-11",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-11",
    "unsupervised",
    "algorithm"
   ],
@@ -29486,6 +30521,31 @@
    "2024-11",
    "unsupervised",
    "architecture"
+  ],
+  [
+   "2024-11",
+   "unsupervised",
+   "efficient"
+  ],
+  [
+   "2024-11",
+   "unsupervised",
+   "efficient"
+  ],
+  [
+   "2024-11",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "unsupervised",
+   "theory"
   ],
   [
    "2024-11",
@@ -29975,7 +31035,27 @@
   [
    "2024-12",
    "active",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "active",
    "application"
+  ],
+  [
+   "2024-12",
+   "active",
+   "optimization"
   ],
   [
    "2024-12",
@@ -29994,6 +31074,16 @@
   ],
   [
    "2024-12",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "active",
+   "theory"
+  ],
+  [
+   "2024-12",
    "causal",
    "algorithm"
   ],
@@ -30161,6 +31251,11 @@
    "2024-12",
    "causal",
    "theory"
+  ],
+  [
+   "2024-12",
+   "continual",
+   "algorithm"
   ],
   [
    "2024-12",
@@ -30246,6 +31341,11 @@
    "2024-12",
    "continual",
    "efficient"
+  ],
+  [
+   "2024-12",
+   "continual",
+   "theory"
   ],
   [
    "2024-12",
@@ -31130,12 +32230,27 @@
   [
    "2024-12",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "meta-learning",
    "application"
   ],
   [
    "2024-12",
    "meta-learning",
    "efficient"
+  ],
+  [
+   "2024-12",
+   "meta-learning",
+   "robust"
   ],
   [
    "2024-12",
@@ -31159,6 +32274,46 @@
   ],
   [
    "2024-12",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2024-12",
    "multi-agent",
    "algorithm"
   ],
@@ -31180,6 +32335,26 @@
   [
    "2024-12",
    "multi-agent",
+   "application"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "application"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "application"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
+   "architecture"
+  ],
+  [
+   "2024-12",
+   "multi-agent",
    "theory"
   ],
   [
@@ -31351,6 +32526,16 @@
    "2024-12",
    "online",
    "algorithm"
+  ],
+  [
+   "2024-12",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "online",
+   "architecture"
   ],
   [
    "2024-12",
@@ -31359,6 +32544,61 @@
   ],
   [
    "2024-12",
+   "online",
+   "robust"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2024-12",
    "reasoning",
    "application"
   ],
@@ -31501,6 +32741,36 @@
    "2024-12",
    "reinforcement",
    "algorithm"
+  ],
+  [
+   "2024-12",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2024-12",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2024-12",
+   "reinforcement",
+   "application"
   ],
   [
    "2024-12",
@@ -31840,6 +33110,16 @@
   [
    "2024-12",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "self-supervised",
+   "architecture"
+  ],
+  [
+   "2024-12",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -31864,8 +33144,18 @@
   ],
   [
    "2024-12",
-   "supervised",
-   "algorithm"
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "self-supervised",
+   "theory"
   ],
   [
    "2024-12",
@@ -32026,6 +33316,36 @@
    "2024-12",
    "supervised",
    "algorithm"
+  ],
+  [
+   "2024-12",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "supervised",
+   "architecture"
   ],
   [
    "2024-12",
@@ -32111,6 +33431,26 @@
    "2024-12",
    "supervised",
    "theory"
+  ],
+  [
+   "2024-12",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "algorithm"
   ],
   [
    "2024-12",
@@ -32264,6 +33604,51 @@
   ],
   [
    "2024-12",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2024-12",
    "unsupervised",
    "algorithm"
   ],
@@ -32379,6 +33764,31 @@
   ],
   [
    "2024-12",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2024-12",
    "world-model",
    "algorithm"
   ],
@@ -32860,6 +34270,46 @@
   [
    "2025-01",
    "active",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "active",
+   "efficient"
+  ],
+  [
+   "2025-01",
+   "active",
    "method"
   ],
   [
@@ -32899,6 +34349,51 @@
   ],
   [
    "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-01",
    "causal",
    "algorithm"
   ],
@@ -33121,6 +34616,16 @@
    "2025-01",
    "causal",
    "theory"
+  ],
+  [
+   "2025-01",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "continual",
+   "algorithm"
   ],
   [
    "2025-01",
@@ -33241,6 +34746,21 @@
    "2025-01",
    "continual",
    "scaling"
+  ],
+  [
+   "2025-01",
+   "continual",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "continual",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "continual",
+   "theory"
   ],
   [
    "2025-01",
@@ -33945,6 +35465,26 @@
   [
    "2025-01",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "meta-learning",
    "application"
   ],
   [
@@ -33984,8 +35524,13 @@
   ],
   [
    "2025-01",
-   "multi-agent",
-   "algorithm"
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "meta-learning",
+   "theory"
   ],
   [
    "2025-01",
@@ -34011,6 +35556,26 @@
    "2025-01",
    "multi-agent",
    "algorithm"
+  ],
+  [
+   "2025-01",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "multi-agent",
+   "application"
   ],
   [
    "2025-01",
@@ -34410,6 +35975,21 @@
   [
    "2025-01",
    "online",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "online",
    "optimization"
   ],
   [
@@ -34429,6 +36009,26 @@
   ],
   [
    "2025-01",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-01",
    "reasoning",
    "algorithm"
   ],
@@ -34551,6 +36151,56 @@
    "2025-01",
    "reinforcement",
    "algorithm"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "architecture"
   ],
   [
    "2025-01",
@@ -34565,6 +36215,16 @@
   [
    "2025-01",
    "reinforcement",
+   "optimization"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
+   "optimization"
+  ],
+  [
+   "2025-01",
+   "reinforcement",
    "theory"
   ],
   [
@@ -35015,6 +36675,36 @@
   [
    "2025-01",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
    "application"
   ],
   [
@@ -35026,6 +36716,11 @@
    "2025-01",
    "self-supervised",
    "architecture"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "optimization"
   ],
   [
    "2025-01",
@@ -35094,6 +36789,56 @@
   ],
   [
    "2025-01",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
    "supervised",
    "algorithm"
   ],
@@ -35221,6 +36966,16 @@
    "2025-01",
    "supervised",
    "application"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "architecture"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "architecture"
   ],
   [
    "2025-01",
@@ -35271,6 +37026,26 @@
    "2025-01",
    "supervised",
    "theory"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "transfer",
+   "algorithm"
   ],
   [
    "2025-01",
@@ -35394,8 +37169,33 @@
   ],
   [
    "2025-01",
-   "unsupervised",
-   "algorithm"
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "transfer",
+   "theory"
   ],
   [
    "2025-01",
@@ -35486,6 +37286,66 @@
    "2025-01",
    "unsupervised",
    "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "application"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "application"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "architecture"
   ],
   [
    "2025-01",
@@ -35510,6 +37370,36 @@
   [
    "2025-01",
    "unsupervised",
+   "robust"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "unsupervised",
    "theory"
   ],
   [
@@ -36016,6 +37906,11 @@
    "2025-02",
    "",
    ""
+  ],
+  [
+   "2025-02",
+   "active",
+   "algorithm"
   ],
   [
    "2025-02",
@@ -36066,6 +37961,11 @@
    "2025-02",
    "active",
    "architecture"
+  ],
+  [
+   "2025-02",
+   "active",
+   "theory"
   ],
   [
    "2025-02",
@@ -36415,7 +38315,42 @@
   [
    "2025-02",
    "continual",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "continual",
    "architecture"
+  ],
+  [
+   "2025-02",
+   "continual",
+   "efficient"
+  ],
+  [
+   "2025-02",
+   "continual",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "continual",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "continual",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "continual",
+   "theory"
   ],
   [
    "2025-02",
@@ -37160,7 +39095,12 @@
   [
    "2025-02",
    "meta-learning",
-   "architecture"
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "meta-learning",
+   "algorithm"
   ],
   [
    "2025-02",
@@ -37170,7 +39110,7 @@
   [
    "2025-02",
    "meta-learning",
-   "theory"
+   "architecture"
   ],
   [
    "2025-02",
@@ -37186,6 +39126,21 @@
    "2025-02",
    "meta-learning",
    "theory"
+  ],
+  [
+   "2025-02",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "multi-agent",
+   "algorithm"
   ],
   [
    "2025-02",
@@ -37530,7 +39485,62 @@
   [
    "2025-02",
    "online",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "online",
    "robust"
+  ],
+  [
+   "2025-02",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "online",
+   "theory"
   ],
   [
    "2025-02",
@@ -37660,6 +39670,36 @@
   [
    "2025-02",
    "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2025-02",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2025-02",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2025-02",
+   "reinforcement",
    "architecture"
   ],
   [
@@ -37671,6 +39711,11 @@
    "2025-02",
    "reinforcement",
    "optimization"
+  ],
+  [
+   "2025-02",
+   "reinforcement",
+   "theory"
   ],
   [
    "2025-02",
@@ -38085,6 +40130,21 @@
   [
    "2025-02",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-02",
+   "self-supervised",
+   "architecture"
+  ],
+  [
+   "2025-02",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -38096,6 +40156,16 @@
    "2025-02",
    "self-supervised",
    "efficient"
+  ],
+  [
+   "2025-02",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "self-supervised",
+   "theory"
   ],
   [
    "2025-02",
@@ -38226,6 +40296,21 @@
    "2025-02",
    "supervised",
    "application"
+  ],
+  [
+   "2025-02",
+   "supervised",
+   "architecture"
+  ],
+  [
+   "2025-02",
+   "supervised",
+   "architecture"
+  ],
+  [
+   "2025-02",
+   "supervised",
+   "architecture"
   ],
   [
    "2025-02",
@@ -38390,12 +40475,27 @@
   [
    "2025-02",
    "transfer",
+   "robust"
+  ],
+  [
+   "2025-02",
+   "transfer",
    "scaling"
   ],
   [
    "2025-02",
    "transfer",
    "scaling"
+  ],
+  [
+   "2025-02",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "transfer",
+   "theory"
   ],
   [
    "2025-02",
@@ -39105,7 +41205,17 @@
   [
    "2025-03",
    "active",
-   "application"
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "active",
+   "algorithm"
   ],
   [
    "2025-03",
@@ -39116,6 +41226,16 @@
    "2025-03",
    "active",
    "application"
+  ],
+  [
+   "2025-03",
+   "active",
+   "application"
+  ],
+  [
+   "2025-03",
+   "active",
+   "architecture"
   ],
   [
    "2025-03",
@@ -39124,6 +41244,41 @@
   ],
   [
    "2025-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-03",
    "causal",
    "algorithm"
   ],
@@ -39346,6 +41501,11 @@
    "2025-03",
    "causal",
    "theory"
+  ],
+  [
+   "2025-03",
+   "continual",
+   "algorithm"
   ],
   [
    "2025-03",
@@ -39450,7 +41610,17 @@
   [
    "2025-03",
    "continual",
+   "architecture"
+  ],
+  [
+   "2025-03",
+   "continual",
    "robust"
+  ],
+  [
+   "2025-03",
+   "continual",
+   "theory"
   ],
   [
    "2025-03",
@@ -40330,6 +42500,21 @@
   [
    "2025-03",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2025-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "meta-learning",
    "theory"
   ],
   [
@@ -40356,11 +42541,41 @@
    "2025-03",
    "multi-agent",
    "algorithm"
+  ],
+  [
+   "2025-03",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "multi-agent",
+   "application"
   ],
   [
    "2025-03",
    "multi-agent",
    "robust"
+  ],
+  [
+   "2025-03",
+   "multi-agent",
+   "theory"
   ],
   [
    "2025-03",
@@ -40565,6 +42780,36 @@
   [
    "2025-03",
    "online",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "online",
    "theory"
   ],
   [
@@ -40781,11 +43026,41 @@
    "2025-03",
    "reinforcement",
    "algorithm"
+  ],
+  [
+   "2025-03",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "reinforcement",
+   "application"
   ],
   [
    "2025-03",
    "reinforcement",
    "architecture"
+  ],
+  [
+   "2025-03",
+   "reinforcement",
+   "theory"
   ],
   [
    "2025-03",
@@ -41196,6 +43471,21 @@
    "2025-03",
    "self-supervised",
    "algorithm"
+  ],
+  [
+   "2025-03",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "self-supervised",
+   "architecture"
+  ],
+  [
+   "2025-03",
+   "self-supervised",
+   "architecture"
   ],
   [
    "2025-03",
@@ -41229,6 +43519,36 @@
   ],
   [
    "2025-03",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-03",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-03",
    "supervised",
    "algorithm"
   ],
@@ -41409,6 +43729,16 @@
   ],
   [
    "2025-03",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-03",
    "transfer",
    "algorithm"
   ],
@@ -41496,6 +43826,21 @@
    "2025-03",
    "transfer",
    "application"
+  ],
+  [
+   "2025-03",
+   "transfer",
+   "application"
+  ],
+  [
+   "2025-03",
+   "transfer",
+   "architecture"
+  ],
+  [
+   "2025-03",
+   "transfer",
+   "architecture"
   ],
   [
    "2025-03",
@@ -41549,6 +43894,21 @@
   ],
   [
    "2025-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-03",
    "unsupervised",
    "algorithm"
   ],
@@ -41656,6 +44016,26 @@
    "2025-03",
    "unsupervised",
    "robust"
+  ],
+  [
+   "2025-03",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "unsupervised",
+   "theory"
   ],
   [
    "2025-03",
@@ -42095,10 +44475,25 @@
   [
    "2025-04",
    "active",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "active",
    "application"
   ],
   [
    "2025-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-04",
    "causal",
    "algorithm"
   ],
@@ -42321,6 +44716,31 @@
    "2025-04",
    "continual",
    "algorithm"
+  ],
+  [
+   "2025-04",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "continual",
+   "architecture"
   ],
   [
    "2025-04",
@@ -42890,6 +45310,26 @@
   [
    "2025-04",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "meta-learning",
    "application"
   ],
   [
@@ -42901,6 +45341,11 @@
    "2025-04",
    "meta-learning",
    "architecture"
+  ],
+  [
+   "2025-04",
+   "meta-learning",
+   "robust"
   ],
   [
    "2025-04",
@@ -42924,6 +45369,11 @@
   ],
   [
    "2025-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-04",
    "multi-agent",
    "algorithm"
   ],
@@ -42931,6 +45381,26 @@
    "2025-04",
    "multi-agent",
    "algorithm"
+  ],
+  [
+   "2025-04",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "multi-agent",
+   "application"
   ],
   [
    "2025-04",
@@ -43051,6 +45521,16 @@
    "2025-04",
    "neurosymbolic",
    "theory"
+  ],
+  [
+   "2025-04",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "online",
+   "algorithm"
   ],
   [
    "2025-04",
@@ -43119,6 +45599,41 @@
   ],
   [
    "2025-04",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-04",
    "reasoning",
    "algorithm"
   ],
@@ -43265,6 +45780,21 @@
   [
    "2025-04",
    "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "reinforcement",
+   "application"
+  ],
+  [
+   "2025-04",
+   "reinforcement",
    "architecture"
   ],
   [
@@ -43294,6 +45824,11 @@
   ],
   [
    "2025-04",
+   "reinforcement",
+   "theory"
+  ],
+  [
+   "2025-04",
    "retrieval-augmented",
    "algorithm"
   ],
@@ -43496,6 +46031,11 @@
    "2025-04",
    "rlhf-alignment",
    "theory"
+  ],
+  [
+   "2025-04",
+   "self-supervised",
+   "algorithm"
   ],
   [
    "2025-04",
@@ -43606,6 +46146,16 @@
    "2025-04",
    "self-supervised",
    "theory"
+  ],
+  [
+   "2025-04",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "supervised",
+   "algorithm"
   ],
   [
    "2025-04",
@@ -43764,6 +46314,46 @@
   ],
   [
    "2025-04",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-04",
    "transfer",
    "algorithm"
   ],
@@ -44030,6 +46620,21 @@
   [
    "2025-04",
    "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-04",
+   "unsupervised",
    "architecture"
   ],
   [
@@ -44680,6 +47285,11 @@
   [
    "2025-05",
    "active",
+   "efficient"
+  ],
+  [
+   "2025-05",
+   "active",
    "scaling"
   ],
   [
@@ -44689,6 +47299,16 @@
   ],
   [
    "2025-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-05",
    "causal",
    "algorithm"
   ],
@@ -44996,6 +47616,11 @@
    "2025-05",
    "causal",
    "theory"
+  ],
+  [
+   "2025-05",
+   "continual",
+   "algorithm"
   ],
   [
    "2025-05",
@@ -45096,6 +47721,11 @@
    "2025-05",
    "continual",
    "efficient"
+  ],
+  [
+   "2025-05",
+   "continual",
+   "theory"
   ],
   [
    "2025-05",
@@ -45930,12 +48560,42 @@
   [
    "2025-05",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "meta-learning",
    "architecture"
   ],
   [
    "2025-05",
    "meta-learning",
    "architecture"
+  ],
+  [
+   "2025-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "meta-learning",
+   "theory"
   ],
   [
    "2025-05",
@@ -46255,7 +48915,22 @@
   [
    "2025-05",
    "online",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "online",
    "efficient"
+  ],
+  [
+   "2025-05",
+   "online",
+   "theory"
   ],
   [
    "2025-05",
@@ -46281,6 +48956,16 @@
    "2025-05",
    "reasoning",
    "theory"
+  ],
+  [
+   "2025-05",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "reinforcement",
+   "algorithm"
   ],
   [
    "2025-05",
@@ -46960,6 +49645,16 @@
   [
    "2025-05",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "self-supervised",
    "application"
   ],
   [
@@ -46976,6 +49671,11 @@
    "2025-05",
    "self-supervised",
    "scaling"
+  ],
+  [
+   "2025-05",
+   "self-supervised",
+   "theory"
   ],
   [
    "2025-05",
@@ -47290,6 +49990,11 @@
   [
    "2025-05",
    "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "transfer",
    "application"
   ],
   [
@@ -47364,8 +50069,8 @@
   ],
   [
    "2025-05",
-   "unsupervised",
-   "algorithm"
+   "transfer",
+   "theory"
   ],
   [
    "2025-05",
@@ -47476,6 +50181,26 @@
    "2025-05",
    "unsupervised",
    "algorithm"
+  ],
+  [
+   "2025-05",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-05",
+   "unsupervised",
+   "theory"
   ],
   [
    "2025-05",
@@ -49285,6 +52010,11 @@
   [
    "2025-06",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "meta-learning",
    "application"
   ],
   [
@@ -49335,6 +52065,21 @@
   [
    "2025-06",
    "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "multi-agent",
    "application"
   ],
   [
@@ -49346,6 +52091,16 @@
    "2025-06",
    "multi-agent",
    "efficient"
+  ],
+  [
+   "2025-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "multi-agent",
+   "theory"
   ],
   [
    "2025-06",
@@ -49611,6 +52366,11 @@
    "2025-06",
    "online",
    "algorithm"
+  ],
+  [
+   "2025-06",
+   "online",
+   "architecture"
   ],
   [
    "2025-06",
@@ -49621,6 +52381,11 @@
    "2025-06",
    "online",
    "optimization"
+  ],
+  [
+   "2025-06",
+   "online",
+   "theory"
   ],
   [
    "2025-06",
@@ -49790,6 +52555,21 @@
   [
    "2025-06",
    "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "reinforcement",
    "architecture"
   ],
   [
@@ -49806,6 +52586,21 @@
    "2025-06",
    "reinforcement",
    "robust"
+  ],
+  [
+   "2025-06",
+   "reinforcement",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "reinforcement",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "reinforcement",
+   "theory"
   ],
   [
    "2025-06",
@@ -50249,6 +53044,31 @@
   ],
   [
    "2025-06",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-06",
    "supervised",
    "algorithm"
   ],
@@ -50406,6 +53226,21 @@
    "2025-06",
    "supervised",
    "theory"
+  ],
+  [
+   "2025-06",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-06",
+   "transfer",
+   "algorithm"
   ],
   [
    "2025-06",
@@ -50669,6 +53504,11 @@
   ],
   [
    "2025-06",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-06",
    "world-model",
    "algorithm"
   ],
@@ -51189,6 +54029,11 @@
   ],
   [
    "2025-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-07",
    "causal",
    "algorithm"
   ],
@@ -51446,6 +54291,16 @@
    "2025-07",
    "causal",
    "theory"
+  ],
+  [
+   "2025-07",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "continual",
+   "algorithm"
   ],
   [
    "2025-07",
@@ -51536,6 +54391,16 @@
    "2025-07",
    "continual",
    "optimization"
+  ],
+  [
+   "2025-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "continual",
+   "theory"
   ],
   [
    "2025-07",
@@ -52185,7 +55050,32 @@
   [
    "2025-07",
    "meta-learning",
-   "theory"
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2025-07",
+   "meta-learning",
+   "robust"
   ],
   [
    "2025-07",
@@ -52209,8 +55099,13 @@
   ],
   [
    "2025-07",
-   "multi-agent",
-   "algorithm"
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "meta-learning",
+   "theory"
   ],
   [
    "2025-07",
@@ -52236,6 +55131,21 @@
    "2025-07",
    "multi-agent",
    "algorithm"
+  ],
+  [
+   "2025-07",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "multi-agent",
+   "application"
   ],
   [
    "2025-07",
@@ -52506,6 +55416,21 @@
    "2025-07",
    "online",
    "algorithm"
+  ],
+  [
+   "2025-07",
+   "online",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "online",
+   "theory"
   ],
   [
    "2025-07",
@@ -52600,7 +55525,17 @@
   [
    "2025-07",
    "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "reinforcement",
    "application"
+  ],
+  [
+   "2025-07",
+   "reinforcement",
+   "architecture"
   ],
   [
    "2025-07",
@@ -52616,6 +55551,11 @@
    "2025-07",
    "reinforcement",
    "scaling"
+  ],
+  [
+   "2025-07",
+   "reinforcement",
+   "theory"
   ],
   [
    "2025-07",
@@ -52825,6 +55765,11 @@
   [
    "2025-07",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -52841,6 +55786,16 @@
    "2025-07",
    "self-supervised",
    "scaling"
+  ],
+  [
+   "2025-07",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "self-supervised",
+   "theory"
   ],
   [
    "2025-07",
@@ -53154,6 +56109,21 @@
   ],
   [
    "2025-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-07",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-07",
    "unsupervised",
    "algorithm"
   ],
@@ -53264,6 +56234,16 @@
   ],
   [
    "2025-07",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2025-07",
    "world-model",
    "algorithm"
   ],
@@ -53821,6 +56801,11 @@
    "2025-08",
    "",
    ""
+  ],
+  [
+   "2025-08",
+   "active",
+   "algorithm"
   ],
   [
    "2025-08",
@@ -53904,6 +56889,16 @@
   ],
   [
    "2025-08",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-08",
    "causal",
    "algorithm"
   ],
@@ -54260,6 +57255,11 @@
   [
    "2025-08",
    "continual",
+   "architecture"
+  ],
+  [
+   "2025-08",
+   "continual",
    "efficient"
   ],
   [
@@ -54271,6 +57271,11 @@
    "2025-08",
    "continual",
    "robust"
+  ],
+  [
+   "2025-08",
+   "continual",
+   "theory"
   ],
   [
    "2025-08",
@@ -54950,7 +57955,32 @@
   [
    "2025-08",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2025-08",
+   "meta-learning",
    "scaling"
+  ],
+  [
+   "2025-08",
+   "meta-learning",
+   "theory"
   ],
   [
    "2025-08",
@@ -55270,6 +58300,11 @@
   [
    "2025-08",
    "online",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "online",
    "theory"
   ],
   [
@@ -55296,6 +58331,11 @@
    "2025-08",
    "reasoning",
    "theory"
+  ],
+  [
+   "2025-08",
+   "reinforcement",
+   "algorithm"
   ],
   [
    "2025-08",
@@ -55615,6 +58655,11 @@
   [
    "2025-08",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -55639,8 +58684,8 @@
   ],
   [
    "2025-08",
-   "supervised",
-   "algorithm"
+   "self-supervised",
+   "theory"
   ],
   [
    "2025-08",
@@ -55751,6 +58796,21 @@
    "2025-08",
    "supervised",
    "algorithm"
+  ],
+  [
+   "2025-08",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "supervised",
+   "architecture"
   ],
   [
    "2025-08",
@@ -55836,6 +58896,11 @@
    "2025-08",
    "transfer",
    "algorithm"
+  ],
+  [
+   "2025-08",
+   "transfer",
+   "architecture"
   ],
   [
    "2025-08",
@@ -55904,8 +58969,8 @@
   ],
   [
    "2025-08",
-   "unsupervised",
-   "algorithm"
+   "transfer",
+   "theory"
   ],
   [
    "2025-08",
@@ -55961,6 +59026,21 @@
    "2025-08",
    "unsupervised",
    "algorithm"
+  ],
+  [
+   "2025-08",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-08",
+   "unsupervised",
+   "architecture"
   ],
   [
    "2025-08",
@@ -56981,6 +60061,16 @@
    "2025-09",
    "",
    ""
+  ],
+  [
+   "2025-09",
+   "active",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "active",
+   "algorithm"
   ],
   [
    "2025-09",
@@ -57086,6 +60176,11 @@
    "2025-09",
    "active",
    "scaling"
+  ],
+  [
+   "2025-09",
+   "active",
+   "theory"
   ],
   [
    "2025-09",
@@ -58235,6 +61330,21 @@
   [
    "2025-09",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "meta-learning",
    "architecture"
   ],
   [
@@ -58261,6 +61371,21 @@
    "2025-09",
    "meta-learning",
    "theory"
+  ],
+  [
+   "2025-09",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "multi-agent",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "multi-agent",
+   "algorithm"
   ],
   [
    "2025-09",
@@ -58566,6 +61691,11 @@
    "2025-09",
    "online",
    "robust"
+  ],
+  [
+   "2025-09",
+   "online",
+   "theory"
   ],
   [
    "2025-09",
@@ -58746,6 +61876,16 @@
    "2025-09",
    "reinforcement",
    "algorithm"
+  ],
+  [
+   "2025-09",
+   "reinforcement",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "reinforcement",
+   "theory"
   ],
   [
    "2025-09",
@@ -59065,6 +62205,16 @@
   [
    "2025-09",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -59091,6 +62241,21 @@
    "2025-09",
    "self-supervised",
    "theory"
+  ],
+  [
+   "2025-09",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "supervised",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "supervised",
+   "algorithm"
   ],
   [
    "2025-09",
@@ -59256,6 +62421,16 @@
    "2025-09",
    "supervised",
    "theory"
+  ],
+  [
+   "2025-09",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-09",
+   "transfer",
+   "algorithm"
   ],
   [
    "2025-09",
@@ -59571,6 +62746,11 @@
    "2025-09",
    "unsupervised",
    "robust"
+  ],
+  [
+   "2025-09",
+   "unsupervised",
+   "theory"
   ],
   [
    "2025-09",
@@ -60745,6 +63925,11 @@
   [
    "2025-10",
    "active",
+   "algorithm"
+  ],
+  [
+   "2025-10",
+   "active",
    "architecture"
   ],
   [
@@ -60774,6 +63959,11 @@
   ],
   [
    "2025-10",
+   "active",
+   "theory"
+  ],
+  [
+   "2025-10",
    "causal",
    "algorithm"
   ],
@@ -61190,12 +64380,22 @@
   [
    "2025-10",
    "continual",
+   "algorithm"
+  ],
+  [
+   "2025-10",
+   "continual",
    "architecture"
   ],
   [
    "2025-10",
    "continual",
    "robust"
+  ],
+  [
+   "2025-10",
+   "continual",
+   "theory"
   ],
   [
    "2025-10",
@@ -62046,6 +65246,26 @@
    "2025-10",
    "meta-learning",
    "algorithm"
+  ],
+  [
+   "2025-10",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-10",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2025-10",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "meta-learning",
+   "theory"
   ],
   [
    "2025-10",
@@ -62606,6 +65826,11 @@
    "2025-10",
    "reinforcement",
    "scaling"
+  ],
+  [
+   "2025-10",
+   "reinforcement",
+   "theory"
   ],
   [
    "2025-10",
@@ -62940,6 +66165,11 @@
   [
    "2025-10",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-10",
+   "self-supervised",
    "application"
   ],
   [
@@ -63106,6 +66336,11 @@
    "2025-10",
    "supervised",
    "algorithm"
+  ],
+  [
+   "2025-10",
+   "supervised",
+   "architecture"
   ],
   [
    "2025-10",
@@ -63245,6 +66480,11 @@
   [
    "2025-10",
    "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-10",
+   "transfer",
    "application"
   ],
   [
@@ -64436,6 +67676,11 @@
    "2025-11",
    "active",
    "architecture"
+  ],
+  [
+   "2025-11",
+   "active",
+   "theory"
   ],
   [
    "2025-11",
@@ -65405,6 +68650,16 @@
   [
    "2025-11",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-11",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2025-11",
+   "meta-learning",
    "application"
   ],
   [
@@ -65421,6 +68676,11 @@
    "2025-11",
    "meta-learning",
    "architecture"
+  ],
+  [
+   "2025-11",
+   "meta-learning",
+   "theory"
   ],
   [
    "2025-11",
@@ -66095,6 +69355,11 @@
   [
    "2025-11",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2025-11",
+   "self-supervised",
    "application"
   ],
   [
@@ -66111,6 +69376,11 @@
    "2025-11",
    "self-supervised",
    "scaling"
+  ],
+  [
+   "2025-11",
+   "self-supervised",
+   "theory"
   ],
   [
    "2025-11",
@@ -66191,6 +69461,16 @@
    "2025-11",
    "supervised",
    "theory"
+  ],
+  [
+   "2025-11",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2025-11",
+   "transfer",
+   "algorithm"
   ],
   [
    "2025-11",
@@ -66390,6 +69670,11 @@
   [
    "2025-11",
    "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-11",
+   "unsupervised",
    "architecture"
   ],
   [
@@ -67221,6 +70506,11 @@
    "2025-12",
    "",
    ""
+  ],
+  [
+   "2025-12",
+   "active",
+   "algorithm"
   ],
   [
    "2025-12",
@@ -67539,6 +70829,11 @@
   ],
   [
    "2025-12",
+   "continual",
+   "theory"
+  ],
+  [
+   "2025-12",
    "curriculum",
    "algorithm"
   ],
@@ -68076,6 +71371,11 @@
    "2025-12",
    "federated",
    "theory"
+  ],
+  [
+   "2025-12",
+   "meta-learning",
+   "algorithm"
   ],
   [
    "2025-12",
@@ -68396,6 +71696,16 @@
    "2025-12",
    "online",
    "theory"
+  ],
+  [
+   "2025-12",
+   "online",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "reinforcement",
+   "algorithm"
   ],
   [
    "2025-12",
@@ -68929,6 +72239,16 @@
   ],
   [
    "2025-12",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2025-12",
    "unsupervised",
    "algorithm"
   ],
@@ -69011,6 +72331,11 @@
    "2025-12",
    "unsupervised",
    "robust"
+  ],
+  [
+   "2025-12",
+   "unsupervised",
+   "theory"
   ],
   [
    "2025-12",
@@ -70251,6 +73576,16 @@
    "2026-01",
    "continual",
    "algorithm"
+  ],
+  [
+   "2026-01",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "continual",
+   "theory"
   ],
   [
    "2026-01",
@@ -70940,6 +74275,26 @@
   [
    "2026-01",
    "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "meta-learning",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2026-01",
+   "meta-learning",
    "architecture"
   ],
   [
@@ -71700,6 +75055,16 @@
   [
    "2026-01",
    "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "self-supervised",
    "application"
   ],
   [
@@ -71905,6 +75270,21 @@
   [
    "2026-01",
    "supervised",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "supervised",
+   "architecture"
+  ],
+  [
+   "2026-01",
+   "supervised",
+   "architecture"
+  ],
+  [
+   "2026-01",
+   "supervised",
    "architecture"
   ],
   [
@@ -71941,6 +75321,21 @@
    "2026-01",
    "supervised",
    "theory"
+  ],
+  [
+   "2026-01",
+   "supervised",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "transfer",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "transfer",
+   "algorithm"
   ],
   [
    "2026-01",
@@ -72079,8 +75474,8 @@
   ],
   [
    "2026-01",
-   "unsupervised",
-   "algorithm"
+   "transfer",
+   "theory"
   ],
   [
    "2026-01",
@@ -72146,6 +75541,31 @@
    "2026-01",
    "unsupervised",
    "algorithm"
+  ],
+  [
+   "2026-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "unsupervised",
+   "algorithm"
+  ],
+  [
+   "2026-01",
+   "unsupervised",
+   "efficient"
+  ],
+  [
+   "2026-01",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "unsupervised",
+   "theory"
   ],
   [
    "2026-01",
@@ -73526,6 +76946,11 @@
    "2026-02",
    "active",
    "application"
+  ],
+  [
+   "2026-02",
+   "active",
+   "theory"
   ],
   [
    "2026-02",
@@ -75495,6 +78920,11 @@
   [
    "2026-02",
    "supervised",
+   "architecture"
+  ],
+  [
+   "2026-02",
+   "supervised",
    "scaling"
   ],
   [
@@ -75595,6 +79025,11 @@
   [
    "2026-02",
    "transfer",
+   "architecture"
+  ],
+  [
+   "2026-02",
+   "transfer",
    "efficient"
   ],
   [
@@ -75626,6 +79061,11 @@
    "2026-02",
    "transfer",
    "theory"
+  ],
+  [
+   "2026-02",
+   "unsupervised",
+   "algorithm"
   ],
   [
    "2026-02",
@@ -79330,6 +82770,11 @@
   [
    "2026-03",
    "supervised",
+   "architecture"
+  ],
+  [
+   "2026-03",
+   "supervised",
    "efficient"
   ],
   [
@@ -79466,6 +82911,11 @@
    "2026-03",
    "transfer",
    "scaling"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
   ],
   [
    "2026-03",
@@ -82739,6 +86189,11 @@
   ],
   [
    "2026-04",
+   "unsupervised",
+   "theory"
+  ],
+  [
+   "2026-04",
    "world-model",
    "algorithm"
   ],
@@ -87221,6 +90676,11 @@
    "2026-05",
    "self-supervised",
    "theory"
+  ],
+  [
+   "2026-05",
+   "supervised",
+   "algorithm"
   ],
   [
    "2026-05",
@@ -93764,6 +97224,11 @@
   ],
   [
    "2026-07",
+   "online",
+   "theory"
+  ],
+  [
+   "2026-07",
    "reinforcement",
    "algorithm"
   ],
@@ -95064,6 +98529,11 @@
   ],
   [
    "2026-08",
+   "continual",
+   "architecture"
+  ],
+  [
+   "2026-08",
    "neurosymbolic",
    "algorithm"
   ],
@@ -95075,69 +98545,74 @@
   [
    "2026-08",
    "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "supervised",
    "theory"
   ]
  ],
  "venues": [
   {
    "name": "arXiv (Cornell University)",
-   "papers": 395
+   "papers": 396
   },
   {
    "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
-   "papers": 90
+   "papers": 93
   },
   {
    "name": "Lecture notes in computer science",
-   "papers": 78
+   "papers": 88
   },
   {
    "name": "IEEE Transactions on Neural Networks and Learning Systems",
-   "papers": 59
+   "papers": 74
+  },
+  {
+   "name": "IEEE Access",
+   "papers": 60
   },
   {
    "name": "CoRR",
    "papers": 58
   },
   {
-   "name": "IEEE Access",
+   "name": "Expert Systems with Applications",
+   "papers": 58
+  },
+  {
+   "name": "Knowledge-Based Systems",
+   "papers": 56
+  },
+  {
+   "name": "Neurocomputing",
    "papers": 54
   },
   {
    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-   "papers": 49
-  },
-  {
-   "name": "Knowledge-Based Systems",
-   "papers": 43
-  },
-  {
-   "name": "Expert Systems with Applications",
-   "papers": 42
-  },
-  {
-   "name": "Neurocomputing",
-   "papers": 39
+   "papers": 54
   },
   {
    "name": "Applied Energy",
-   "papers": 37
-  },
-  {
-   "name": "IEEE Internet of Things Journal",
-   "papers": 31
-  },
-  {
-   "name": "Neural Networks",
-   "papers": 30
+   "papers": 44
   },
   {
    "name": "Pattern Recognition",
-   "papers": 28
+   "papers": 40
   },
   {
    "name": "Engineering Applications of Artificial Intelligence",
-   "papers": 28
+   "papers": 39
+  },
+  {
+   "name": "Scientific Reports",
+   "papers": 38
+  },
+  {
+   "name": "Nature Communications",
+   "papers": 36
   }
  ],
  "keyword_bursts": [
@@ -95145,106 +98620,106 @@
    "keyword": "opponent",
    "recent": 22,
    "total": 27,
-   "burst_score": 1.85,
+   "burst_score": 1.9,
    "recent_share": 0.0026
   },
   {
    "keyword": "agentic",
    "recent": 111,
-   "total": 142,
-   "burst_score": 1.77,
-   "recent_share": 0.0133
+   "total": 143,
+   "burst_score": 1.81,
+   "recent_share": 0.0132
   },
   {
    "keyword": "world model",
    "recent": 383,
    "total": 574,
-   "burst_score": 1.51,
-   "recent_share": 0.0459
+   "burst_score": 1.55,
+   "recent_share": 0.0454
   },
   {
    "keyword": "scalable",
    "recent": 651,
-   "total": 1032,
-   "burst_score": 1.43,
-   "recent_share": 0.0781
+   "total": 1040,
+   "burst_score": 1.46,
+   "recent_share": 0.0772
   },
   {
    "keyword": "uncertainty",
    "recent": 499,
-   "total": 798,
-   "burst_score": 1.42,
-   "recent_share": 0.0599
+   "total": 806,
+   "burst_score": 1.44,
+   "recent_share": 0.0592
   },
   {
    "keyword": "benchmark",
    "recent": 2103,
-   "total": 3455,
-   "burst_score": 1.38,
-   "recent_share": 0.2522
+   "total": 3456,
+   "burst_score": 1.42,
+   "recent_share": 0.2493
   },
   {
    "keyword": "policy",
    "recent": 1110,
-   "total": 1841,
-   "burst_score": 1.37,
-   "recent_share": 0.1331
-  },
-  {
-   "keyword": "hierarchical",
-   "recent": 353,
-   "total": 588,
-   "burst_score": 1.36,
-   "recent_share": 0.0423
+   "total": 1854,
+   "burst_score": 1.39,
+   "recent_share": 0.1316
   },
   {
    "keyword": "memory",
    "recent": 492,
-   "total": 827,
-   "burst_score": 1.35,
-   "recent_share": 0.059
+   "total": 831,
+   "burst_score": 1.38,
+   "recent_share": 0.0583
   },
   {
-   "keyword": "simulation",
-   "recent": 599,
-   "total": 1024,
-   "burst_score": 1.33,
-   "recent_share": 0.0718
+   "keyword": "hierarchical",
+   "recent": 353,
+   "total": 594,
+   "burst_score": 1.38,
+   "recent_share": 0.0418
   },
   {
    "keyword": "teaming",
    "recent": 14,
    "total": 24,
-   "burst_score": 1.32,
+   "burst_score": 1.36,
    "recent_share": 0.0017
   },
   {
-   "keyword": "bayesian",
-   "recent": 262,
-   "total": 459,
-   "burst_score": 1.3,
-   "recent_share": 0.0314
+   "keyword": "simulation",
+   "recent": 600,
+   "total": 1034,
+   "burst_score": 1.35,
+   "recent_share": 0.0711
   },
   {
    "keyword": "planning",
-   "recent": 363,
-   "total": 639,
-   "burst_score": 1.29,
-   "recent_share": 0.0435
-  },
-  {
-   "keyword": "embodied",
-   "recent": 74,
-   "total": 130,
-   "burst_score": 1.29,
-   "recent_share": 0.0089
+   "recent": 365,
+   "total": 650,
+   "burst_score": 1.31,
+   "recent_share": 0.0433
   },
   {
    "keyword": "offline",
    "recent": 352,
-   "total": 626,
-   "burst_score": 1.28,
-   "recent_share": 0.0422
+   "total": 627,
+   "burst_score": 1.31,
+   "recent_share": 0.0417
+  },
+  {
+   "keyword": "embodied",
+   "recent": 75,
+   "total": 133,
+   "burst_score": 1.31,
+   "recent_share": 0.0089
+  },
+  {
+   "keyword": "bayesian",
+   "recent": 262,
+   "total": 470,
+   "burst_score": 1.3,
+   "recent_share": 0.0311
   }
  ]
 }

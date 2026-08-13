@@ -1,27 +1,27 @@
 # Trends (12-Month View)
 
 **Generated:** 2026-08-13  
-**Window:** since 2025-08 — 8337 of 18926 papers
+**Window:** since 2025-08 — 8436 of 19621 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| agentic | 111 | 142 | 1.8× |
-| opponent | 22 | 27 | 1.8× |
-| world model | 383 | 574 | 1.5× |
-| simulator | 133 | 196 | 1.5× |
-| benchmark | 2103 | 3455 | 1.4× |
-| policy | 1110 | 1841 | 1.4× |
-| scalable | 651 | 1032 | 1.4× |
-| uncertainty | 499 | 798 | 1.4× |
-| memory | 492 | 827 | 1.4× |
-| hierarchical | 353 | 588 | 1.4× |
-| decision | 838 | 1504 | 1.3× |
-| simulation | 599 | 1024 | 1.3× |
-| stochastic | 443 | 759 | 1.3× |
-| planning | 363 | 639 | 1.3× |
-| offline | 352 | 626 | 1.3× |
+| opponent | 22 | 27 | 1.9× |
+| agentic | 111 | 143 | 1.8× |
+| world model | 383 | 574 | 1.6× |
+| simulator | 133 | 196 | 1.6× |
+| scalable | 651 | 1040 | 1.5× |
+| benchmark | 2103 | 3456 | 1.4× |
+| policy | 1110 | 1854 | 1.4× |
+| uncertainty | 499 | 806 | 1.4× |
+| memory | 492 | 831 | 1.4× |
+| stochastic | 443 | 763 | 1.4× |
+| hierarchical | 353 | 594 | 1.4× |
+| teaming | 14 | 24 | 1.4× |
+| optimization | 1430 | 2628 | 1.3× |
+| reward | 946 | 1739 | 1.3× |
+| decision | 839 | 1515 | 1.3× |
 
 ## 📈 Fastest-Growing Cells
 
