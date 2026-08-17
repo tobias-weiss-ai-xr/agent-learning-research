@@ -3,12 +3,16 @@
 </h1>
 <h3 align="center">A Living Survey of Learning in AI Agents</h3>
 
-<div align="center">
-  [**GitHub**](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
-  [**License**](LICENSE)
-  [**CI**](https://github.com/tobias-weiss-ai-xr/agent-learning-research/actions/workflows/validate.yml)
-  [**Agent Memory**](https://github.com/tobias-weiss-ai-xr/agent-memory-research) [**Agent Skill**](https://github.com/tobias-weiss-ai-xr/agent-skill-research) [**Agentic VR**](https://github.com/tobias-weiss-ai-xr/agentic-vr-research) [**Learning**](https://github.com/tobias-weiss-ai-xr/learning-research)
-</div>
+### 🔗 Links
+
+- **GitHub**: https://github.com/tobias-weiss-ai-xr/agent-learning-research
+- **License**: https://github.com/tobias-weiss-ai-xr/agent-learning-research/blob/main/LICENSE
+- **CI**: https://github.com/tobias-weiss-ai-xr/agent-learning-research/actions/workflows/validate.yml
+- **Agent Memory**: https://github.com/tobias-weiss-ai-xr/agent-memory-research
+- **Agent Skill**: https://github.com/tobias-weiss-ai-xr/agent-skill-research
+- **Agentic VR**: https://github.com/tobias-weiss-ai-xr/agentic-vr-research
+- **Learning**: https://github.com/tobias-weiss-ai-xr/learning-research
+
 
 > 🧠 **Agent learning research corpus:** supervised, unsupervised, reinforcement,
 > meta-learning, and continual learning in AI agents — part of the family of
@@ -83,7 +87,7 @@ Papers are stored in [`papers.yaml`](papers.yaml) as structured data. The README
 
 ## 📊 Corpus Statistics
 
-**19,944 papers** across **23 categories**.  
+**19,944 papers** across **22 categories**.  
 Sources: **arXiv** 15,355 (76%) · **DOI** 4,326 (21%) · **Other** 263 (1%).  
 Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/agent-learning-research).
 
@@ -91,17 +95,17 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/agent-
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-|  | **3,178** | 0 | ████████████ |
-| diffusion | **1,751** | 0 | ██████░░░░░░ |
-| causal | **1,334** | 0 | █████░░░░░░░ |
-| federated | **1,237** | 0 | ████░░░░░░░░ |
-| supervised | **1,186** | 0 | ████░░░░░░░░ |
-| world-model | **1,115** | 0 | ████░░░░░░░░ |
-| rlhf-alignment | **1,048** | 0 | ███░░░░░░░░░ |
-| reinforcement | **983** | 0 | ███░░░░░░░░░ |
-| transfer | **889** | 0 | ███░░░░░░░░░ |
-| neurosymbolic | **817** | 0 | ███░░░░░░░░░ |
-| *other* | **6,406** | | |
+| supervised | **2,529** | 0 | ████████████ |
+| diffusion | **1,812** | 0 | ████████░░░░ |
+| causal | **1,469** | 0 | ██████░░░░░░ |
+| reinforcement | **1,369** | 0 | ██████░░░░░░ |
+| federated | **1,293** | 0 | ██████░░░░░░ |
+| rlhf-alignment | **1,201** | 0 | █████░░░░░░░ |
+| world-model | **1,179** | 0 | █████░░░░░░░ |
+| transfer | **1,133** | 0 | █████░░░░░░░ |
+| unsupervised | **945** | 0 | ████░░░░░░░░ |
+| continual | **822** | 0 | ███░░░░░░░░░ |
+| *other* | **6,192** | | |
 
 
 ### By year
@@ -117,11 +121,11 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/agent-
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-|  | 3,178 | 205.3/mo | 78% | 323 |
-| World Model | 1,115 | 44.5/mo | 48% | 79 |
+| Reasoning | 550 | 23.7/mo | 52% | 142 |
+| Supervised | 2,529 | 110.2/mo | 52% | 106 |
+| World Model | 1,179 | 48.7/mo | 50% | 88 |
+| Reinforcement | 1,369 | 56.7/mo | 50% | 86 |
 | Neurosymbolic | 817 | 31.8/mo | 47% | 77 |
-| Causal | 1,334 | 52.2/mo | 47% | 59 |
-| Curriculum | 722 | 22.7/mo | 38% | 43 |
 
 
 ### Trending keywords
@@ -156,15 +160,16 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/agent-
 
 | Cell | Papers |
 |------|--------|
-| `unsupervised/optimization` | 1 |
 | `neurosymbolic/optimization` | 1 |
-| `causal/scaling` | 1 |
+| `causal/optimization` | 1 |
 | `retrieval-augmented/scaling` | 1 |
 | `retrieval-augmented/efficient` | 1 |
+| `imitation/scaling` | 1 |
 
 
 
 *Generated 2026-08 by `scripts/standard_stats.py`.*
+
 
 ## Related Projects
 
