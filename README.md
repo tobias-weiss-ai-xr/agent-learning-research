@@ -4,10 +4,10 @@
 <h3 align="center">A Living Survey of Learning in AI Agents</h3>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/agent--learning--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/agent--learning--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/agent-learning-research/actions/workflows/validate.yml)
-  [![Agent Memory](https://img.shields.io/badge/Agent Memory-agent--memory--research-b31b1b.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agent-memory-research) [![Agent Skill](https://img.shields.io/badge/Agent Skill-agent--skill--research-004D40.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agent-skill-research) [![Agentic VR](https://img.shields.io/badge/Agentic VR-agentic--vr--research-004D40.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agentic-vr-research) [![Learning](https://img.shields.io/badge/Learning-learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research)
+  [**GitHub**](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
+  [**License**](LICENSE)
+  [**CI**](https://github.com/tobias-weiss-ai-xr/agent-learning-research/actions/workflows/validate.yml)
+  [**Agent Memory**](https://github.com/tobias-weiss-ai-xr/agent-memory-research) [**Agent Skill**](https://github.com/tobias-weiss-ai-xr/agent-skill-research) [**Agentic VR**](https://github.com/tobias-weiss-ai-xr/agentic-vr-research) [**Learning**](https://github.com/tobias-weiss-ai-xr/learning-research)
 </div>
 
 > 🧠 **Agent learning research corpus:** supervised, unsupervised, reinforcement,
