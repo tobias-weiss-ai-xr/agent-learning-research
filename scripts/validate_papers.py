@@ -4,7 +4,10 @@
 import argparse
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
+
+TODAY = datetime.now()
 
 import yaml
 
@@ -110,6 +113,13 @@ def validate_papers(data, fix=False):
             errors.append(
                 f"{prefix}invalid date '{date}' — must be YYYY-MM format with month 01-12"
             )
+        elif date:
+            # QUALITY GATE: papers must not be dated in the future
+            _y, _m = int(date[:4]), int(date[5:7])
+            if (_y, _m) > (TODAY.year, TODAY.month):
+                errors.append(
+                    f"{prefix}future date '{date}' — papers cannot be dated after today ({TODAY:%Y-%m})"
+                )
 
         url = paper.get("url", "")
         if url:
