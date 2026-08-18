@@ -198,6 +198,7 @@ def main():
         "top_authors": top_authors,
     }
 
+    stats["last_openalex_fetch"] = datetime.now().isoformat()
     (REPO / "statistics.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
     print(f"Wrote statistics.json ({total} papers, {saturation}% saturation)")
 
