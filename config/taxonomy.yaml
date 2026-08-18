@@ -1,0 +1,450 @@
+topic:
+  name: Agent Learning
+  short: agent-learning
+  description: '- GitHub: https://github.com/tobias-weiss-ai-xr/agent-learning-research'
+  openalex_mailto: research@tobias-weiss-ai-xr.de
+taxonomy:
+  categories:
+  - id: diffusion
+    display: Diffusion
+  - id: causal
+    display: Causal
+  - id: federated
+    display: Federated
+  - id: rlhf-alignment
+    display: Rlhf Alignment
+  - id: world-model
+    display: World Model
+  - id: meta-learning
+    display: Meta Learning
+  - id: continual
+    display: Continual
+  - id: curriculum
+    display: Curriculum
+  - id: neurosymbolic
+    display: Neurosymbolic
+  - id: active
+    display: Active
+  - id: multi-agent
+    display: Multi Agent
+  - id: transfer
+    display: Transfer
+  - id: self-supervised
+    display: Self Supervised
+  - id: survey
+    display: Survey
+  - id: method
+    display: Method
+  subcategories:
+  - id: method
+    display: Method
+  - id: theory
+    display: Theory
+  - id: application
+    display: Application
+  - id: survey
+    display: Survey
+  - id: experiment
+    display: Experiment
+  - id: systems
+    display: Systems
+  - id: development
+    display: Development
+arxiv_queries:
+- query: abs:"diffusion model survey"
+  category: diffusion
+  subcategory_hint: review
+- query: abs:"diffusion generative model"
+  category: diffusion
+  subcategory_hint: method
+- query: abs:"diffusion model image generation"
+  category: diffusion
+  subcategory_hint: application
+- query: abs:"causal inference machine learning survey"
+  category: causal
+  subcategory_hint: review
+- query: abs:"causal discovery survey"
+  category: causal
+  subcategory_hint: review
+- query: abs:"federated learning survey"
+  category: federated
+  subcategory_hint: review
+- query: abs:"federated learning privacy"
+  category: federated
+  subcategory_hint: mechanism
+- query: abs:"reinforcement learning from human feedback"
+  category: rlhf-alignment
+  subcategory_hint: method
+- query: abs:"large language model alignment survey"
+  category: rlhf-alignment
+  subcategory_hint: review
+- query: abs:"world model reinforcement learning"
+  category: world-model
+  subcategory_hint: method
+- query: abs:"model-based reinforcement learning survey"
+  category: world-model
+  subcategory_hint: review
+- query: abs:"meta-learning survey"
+  category: meta-learning
+  subcategory_hint: review
+- query: abs:"few-shot learning meta"
+  category: meta-learning
+  subcategory_hint: method
+- query: abs:"continual learning survey"
+  category: continual
+  subcategory_hint: review
+- query: abs:"lifelong learning neural network"
+  category: continual
+  subcategory_hint: method
+- query: abs:"curriculum learning survey"
+  category: curriculum
+  subcategory_hint: review
+- query: abs:"self-paced learning"
+  category: curriculum
+  subcategory_hint: method
+- query: abs:"neurosymbolic AI survey"
+  category: neurosymbolic
+  subcategory_hint: review
+- query: abs:"neural symbolic reasoning"
+  category: neurosymbolic
+  subcategory_hint: method
+- query: abs:"active learning survey"
+  category: active
+  subcategory_hint: review
+- query: abs:"active learning deep"
+  category: active
+  subcategory_hint: method
+- query: abs:"multi-agent reinforcement learning survey"
+  category: multi-agent
+  subcategory_hint: review
+- query: abs:"multi-agent learning cooperation"
+  category: multi-agent
+  subcategory_hint: application
+- query: abs:"transfer learning survey"
+  category: transfer
+  subcategory_hint: review
+- query: abs:"domain adaptation survey"
+  category: transfer
+  subcategory_hint: review
+- query: abs:"self-supervised learning survey"
+  category: self-supervised
+  subcategory_hint: review
+other_sources_queries:
+- source: crossref
+  query: diffusion model survey
+  category: diffusion
+  subcategory_hint: review
+- source: crossref
+  query: diffusion generative model
+  category: diffusion
+  subcategory_hint: method
+- source: dblp
+  query: diffusion model image generation
+  category: diffusion
+  subcategory_hint: application
+- source: crossref
+  query: causal inference machine learning survey
+  category: causal
+  subcategory_hint: review
+- source: dblp
+  query: causal discovery survey
+  category: causal
+  subcategory_hint: review
+- source: crossref
+  query: federated learning survey
+  category: federated
+  subcategory_hint: review
+- source: dblp
+  query: federated learning privacy
+  category: federated
+  subcategory_hint: mechanism
+- source: dblp
+  query: reinforcement learning from human feedback
+  category: rlhf-alignment
+  subcategory_hint: method
+- source: crossref
+  query: large language model alignment survey
+  category: rlhf-alignment
+  subcategory_hint: review
+- source: dblp
+  query: world model reinforcement learning
+  category: world-model
+  subcategory_hint: method
+- source: dblp
+  query: model-based reinforcement learning survey
+  category: world-model
+  subcategory_hint: review
+- source: crossref
+  query: meta-learning survey
+  category: meta-learning
+  subcategory_hint: review
+- source: dblp
+  query: few-shot learning meta
+  category: meta-learning
+  subcategory_hint: method
+- source: crossref
+  query: continual learning survey
+  category: continual
+  subcategory_hint: review
+- source: dblp
+  query: lifelong learning neural network
+  category: continual
+  subcategory_hint: method
+- source: dblp
+  query: curriculum learning survey
+  category: curriculum
+  subcategory_hint: review
+- source: dblp
+  query: self-paced learning
+  category: curriculum
+  subcategory_hint: method
+- source: crossref
+  query: neurosymbolic AI survey
+  category: neurosymbolic
+  subcategory_hint: review
+- source: dblp
+  query: neural symbolic reasoning
+  category: neurosymbolic
+  subcategory_hint: method
+- source: crossref
+  query: active learning survey
+  category: active
+  subcategory_hint: review
+- source: dblp
+  query: active learning deep
+  category: active
+  subcategory_hint: method
+- source: dblp
+  query: multi-agent reinforcement learning survey
+  category: multi-agent
+  subcategory_hint: review
+- source: crossref
+  query: multi-agent learning cooperation
+  category: multi-agent
+  subcategory_hint: application
+- source: crossref
+  query: transfer learning survey
+  category: transfer
+  subcategory_hint: review
+- source: dblp
+  query: domain adaptation survey
+  category: transfer
+  subcategory_hint: review
+- source: dblp
+  query: self-supervised learning survey
+  category: self-supervised
+  subcategory_hint: review
+openalex_queries:
+- category: diffusion
+  query: diffusion model survey
+- category: diffusion
+  query: diffusion generative model
+- category: diffusion
+  query: diffusion model image generation
+- category: causal
+  query: causal inference machine learning survey
+- category: causal
+  query: causal discovery survey
+- category: federated
+  query: federated learning survey
+- category: federated
+  query: federated learning privacy
+- category: rlhf-alignment
+  query: reinforcement learning from human feedback
+- category: rlhf-alignment
+  query: large language model alignment survey
+- category: world-model
+  query: world model reinforcement learning
+- category: world-model
+  query: model-based reinforcement learning survey
+- category: meta-learning
+  query: meta-learning survey
+- category: meta-learning
+  query: few-shot learning meta
+- category: continual
+  query: continual learning survey
+- category: continual
+  query: lifelong learning neural network
+- category: curriculum
+  query: curriculum learning survey
+- category: curriculum
+  query: self-paced learning
+- category: neurosymbolic
+  query: neurosymbolic AI survey
+- category: neurosymbolic
+  query: neural symbolic reasoning
+- category: active
+  query: active learning survey
+- category: active
+  query: active learning deep
+- category: multi-agent
+  query: multi-agent reinforcement learning survey
+- category: multi-agent
+  query: multi-agent learning cooperation
+- category: transfer
+  query: transfer learning survey
+- category: transfer
+  query: domain adaptation survey
+- category: self-supervised
+  query: self-supervised learning survey
+subcategory_keywords:
+- id: theory
+  keywords:
+  - theory
+  - theoretical
+  - proof
+  - convergence
+  - bound
+  - consistency
+  - asymptotic
+- id: method
+  keywords:
+  - method
+  - algorithm
+  - approach
+  - technique
+  - framework
+  - novel
+  - scheme
+- id: application
+  keywords:
+  - application
+  - applied
+  - real-world
+  - case study
+  - empirical
+- id: evaluation
+  keywords:
+  - benchmark
+  - evaluation
+  - comparison
+  - baseline
+  - empirical study
+- id: development
+  keywords:
+  - implementation
+  - software
+  - package
+  - library
+  - toolkit
+  - open-source
+- id: systems
+  keywords:
+  - system
+  - framework
+  - platform
+  - scalable
+  - distributed
+  - GPU
+  - parallel
+- id: survey
+  keywords:
+  - survey
+  - review
+  - literature
+  - tutorial
+  - overview
+  - taxonomy
+- id: experiment
+  keywords:
+  - experiment
+  - experimental
+  - simulation study
+  - numerical study
+  - synthetic
+relevance_keywords:
+- active
+- adaptation
+- alignment
+- causal
+- continual
+- cooperation
+- curriculum
+- deep
+- diffusion
+- discovery
+- domain
+- federated
+- feedback
+- few-shot
+- from
+- generation
+- generative
+- human
+- image
+- inference
+- language
+- large
+- learning
+- lifelong
+- machine
+- meta
+- meta learning
+- meta-learning
+- model
+- model-based
+- multi agent
+- multi-agent
+- network
+- neural
+- neurosymbolic
+- privacy
+- reasoning
+- reinforcement
+- rlhf alignment
+- self supervised
+- self-paced
+- self-supervised
+- survey
+- symbolic
+- transfer
+- world
+- world model
+trend_keywords:
+- active
+- adaptation
+- alignment
+- causal
+- continual
+- cooperation
+- curriculum
+- deep
+- diffusion
+- discovery
+- domain
+- federated
+- feedback
+- few-shot
+- from
+- generation
+- generative
+- human
+- image
+- inference
+- language
+- large
+- learning
+- lifelong
+- machine
+- meta
+- meta learning
+- meta-learning
+- model
+- model-based
+- multi agent
+- multi-agent
+- network
+- neural
+- neurosymbolic
+- privacy
+- reasoning
+- reinforcement
+- rlhf alignment
+- self supervised
+- self-paced
+- self-supervised
+- survey
+- symbolic
+- transfer
+- world
+- world model
