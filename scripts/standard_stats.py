@@ -23,6 +23,8 @@ from pathlib import Path
 
 import yaml
 
+import research_config
+
 REPO = Path(__file__).resolve().parent.parent
 
 BURST_KEYWORDS = [
@@ -35,6 +37,9 @@ BURST_KEYWORDS = [
     "language model", "multimodal", "graph", "skill", "tool", "embodied",
     "causal", "attention",
 ]
+# Config-driven keywords override BURST_KEYWORDS when taxonomy.yaml defines them.
+_CFG = research_config.load_config()
+BURST_KEYWORDS = research_config.get_trend_keywords(_CFG) or BURST_KEYWORDS
 
 
 def _twelve_months_ago(now):
@@ -198,7 +203,6 @@ def main():
         "top_authors": top_authors,
     }
 
-    stats["last_openalex_fetch"] = datetime.now().isoformat()
     (REPO / "statistics.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
     print(f"Wrote statistics.json ({total} papers, {saturation}% saturation)")
 
@@ -214,12 +218,12 @@ def main():
                  for e in entries if e.get("date")]
     viz = {
         "categories": [{
-            "id": c, "name": c.replace("-", " ").title(),
+            "id": c, "name": research_config.category_display(_CFG, c),
             "count": cat_counter.get(c, 0),
             "trajectory": trajectory.get(c, {}),
             "momentum": next((m for m in momentum if m["id"] == c), None),
         } for c in cats],
-        "subcategories": [{"id": s, "name": s.replace("-", " ").title(), "count": sub_counter.get(s, 0)}
+        "subcategories": [{"id": s, "name": research_config.subcategory_display(_CFG, s), "count": sub_counter.get(s, 0)}
                           for s in subs],
         "timeline": sorted(pub_dates),
         "venues": top_venues,
