@@ -1,0 +1,2157 @@
+{
+  "count": 115,
+  "concepts": [
+    {
+      "term": "language models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 2983,
+      "match": {
+        "type": "text",
+        "forms": [
+          "language models"
+        ]
+      },
+      "papers": 2983,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "reasoning/algorithm",
+        "reasoning/theory",
+        "curriculum/algorithm"
+      ]
+    },
+    {
+      "term": "large language",
+      "kind": "emergent",
+      "seed": false,
+      "df": 2684,
+      "match": {
+        "type": "text",
+        "forms": [
+          "large language"
+        ]
+      },
+      "papers": 2684,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "reasoning/theory",
+        "reasoning/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "Diffusion",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1906,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "diffusion"
+      },
+      "top_cells": [
+        "diffusion/algorithm",
+        "diffusion/theory",
+        "diffusion/architecture",
+        "diffusion/application"
+      ],
+      "papers": 1906
+    },
+    {
+      "term": "Causal",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1545,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "causal"
+      },
+      "top_cells": [
+        "causal/algorithm",
+        "causal/theory",
+        "causal/architecture",
+        "causal/robust"
+      ],
+      "papers": 1545
+    },
+    {
+      "term": "extensive experiments",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1501,
+      "match": {
+        "type": "text",
+        "forms": [
+          "extensive experiments"
+        ]
+      },
+      "papers": 1501,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "federated/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "Federated",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1382,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "federated"
+      },
+      "top_cells": [
+        "federated/algorithm",
+        "federated/theory",
+        "federated/robust",
+        "federated/architecture"
+      ],
+      "papers": 1382
+    },
+    {
+      "term": "World Model",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1254,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "world-model"
+      },
+      "top_cells": [
+        "world-model/algorithm",
+        "world-model/theory",
+        "world-model/architecture",
+        "world-model/method"
+      ],
+      "papers": 1254
+    },
+    {
+      "term": "Rlhf Alignment",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1248,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "rlhf-alignment"
+      },
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "rlhf-alignment/theory",
+        "rlhf-alignment/architecture",
+        "rlhf-alignment/robust"
+      ],
+      "papers": 1248
+    },
+    {
+      "term": "Transfer",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1223,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "transfer"
+      },
+      "top_cells": [
+        "transfer/algorithm",
+        "transfer/theory",
+        "transfer/architecture",
+        "transfer/scaling"
+      ],
+      "papers": 1223
+    },
+    {
+      "term": "diffusion models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1203,
+      "match": {
+        "type": "text",
+        "forms": [
+          "diffusion models"
+        ]
+      },
+      "papers": 1203,
+      "top_cells": [
+        "diffusion/algorithm",
+        "diffusion/theory",
+        "diffusion/architecture",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "existing methods",
+      "kind": "emergent",
+      "seed": false,
+      "df": 953,
+      "match": {
+        "type": "text",
+        "forms": [
+          "existing methods"
+        ]
+      },
+      "papers": 953,
+      "top_cells": [
+        "causal/algorithm",
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "Continual",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 880,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "continual"
+      },
+      "top_cells": [
+        "continual/algorithm",
+        "continual/theory",
+        "continual/architecture",
+        "continual/efficient"
+      ],
+      "papers": 880
+    },
+    {
+      "term": "Neurosymbolic",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 858,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "neurosymbolic"
+      },
+      "top_cells": [
+        "neurosymbolic/algorithm",
+        "neurosymbolic/theory",
+        "neurosymbolic/architecture",
+        "neurosymbolic/method"
+      ],
+      "papers": 858
+    },
+    {
+      "term": "Meta Learning",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 843,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "meta-learning"
+      },
+      "top_cells": [
+        "meta-learning/algorithm",
+        "meta-learning/theory",
+        "meta-learning/architecture",
+        "meta-learning/method"
+      ],
+      "papers": 843
+    },
+    {
+      "term": "Self Supervised",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 813,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "self-supervised"
+      },
+      "top_cells": [
+        "self-supervised/algorithm",
+        "self-supervised/theory",
+        "self-supervised/architecture",
+        "self-supervised/application"
+      ],
+      "papers": 813
+    },
+    {
+      "term": "Curriculum",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 781,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "curriculum"
+      },
+      "top_cells": [
+        "curriculum/algorithm",
+        "curriculum/theory",
+        "curriculum/architecture",
+        "curriculum/method"
+      ],
+      "papers": 781
+    },
+    {
+      "term": "while maintaining",
+      "kind": "emergent",
+      "seed": false,
+      "df": 759,
+      "match": {
+        "type": "text",
+        "forms": [
+          "while maintaining"
+        ]
+      },
+      "papers": 759,
+      "top_cells": [
+        "federated/algorithm",
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "foundation models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 733,
+      "match": {
+        "type": "text",
+        "forms": [
+          "foundation models"
+        ]
+      },
+      "papers": 733,
+      "top_cells": [
+        "transfer/algorithm",
+        "supervised/algorithm",
+        "transfer/theory",
+        "transfer/architecture"
+      ]
+    },
+    {
+      "term": "Active",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 728,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "active"
+      },
+      "top_cells": [
+        "active/algorithm",
+        "active/theory",
+        "active/architecture",
+        "active/application"
+      ],
+      "papers": 728
+    },
+    {
+      "term": "multi-agent reinforcement",
+      "kind": "emergent",
+      "seed": false,
+      "df": 663,
+      "match": {
+        "type": "text",
+        "forms": [
+          "multi-agent reinforcement"
+        ]
+      },
+      "papers": 663,
+      "top_cells": [
+        "multi-agent/algorithm",
+        "reinforcement/algorithm",
+        "reinforcement/theory",
+        "multi-agent/application"
+      ]
+    },
+    {
+      "term": "generative models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 662,
+      "match": {
+        "type": "text",
+        "forms": [
+          "generative models"
+        ]
+      },
+      "papers": 662,
+      "top_cells": [
+        "diffusion/algorithm",
+        "diffusion/theory",
+        "unsupervised/algorithm",
+        "world-model/algorithm"
+      ]
+    },
+    {
+      "term": "while preserving",
+      "kind": "emergent",
+      "seed": false,
+      "df": 626,
+      "match": {
+        "type": "text",
+        "forms": [
+          "while preserving"
+        ]
+      },
+      "papers": 626,
+      "top_cells": [
+        "federated/algorithm",
+        "diffusion/algorithm",
+        "continual/algorithm",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "human feedback",
+      "kind": "emergent",
+      "seed": false,
+      "df": 585,
+      "match": {
+        "type": "text",
+        "forms": [
+          "human feedback"
+        ]
+      },
+      "papers": 585,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "rlhf-alignment/theory",
+        "reward-modeling/algorithm",
+        "reward-modeling/theory"
+      ]
+    },
+    {
+      "term": "catastrophic forgetting",
+      "kind": "emergent",
+      "seed": false,
+      "df": 583,
+      "match": {
+        "type": "text",
+        "forms": [
+          "catastrophic forgetting"
+        ]
+      },
+      "papers": 583,
+      "top_cells": [
+        "continual/algorithm",
+        "continual/theory",
+        "continual/architecture",
+        "online/algorithm"
+      ]
+    },
+    {
+      "term": "experiments demonstrate",
+      "kind": "emergent",
+      "seed": false,
+      "df": 558,
+      "match": {
+        "type": "text",
+        "forms": [
+          "experiments demonstrate"
+        ]
+      },
+      "papers": 558,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "federated/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "existing approaches",
+      "kind": "emergent",
+      "seed": false,
+      "df": 532,
+      "match": {
+        "type": "text",
+        "forms": [
+          "existing approaches"
+        ]
+      },
+      "papers": 532,
+      "top_cells": [
+        "causal/algorithm",
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "natural language",
+      "kind": "emergent",
+      "seed": false,
+      "df": 527,
+      "match": {
+        "type": "text",
+        "forms": [
+          "natural language"
+        ]
+      },
+      "papers": 527,
+      "top_cells": [
+        "neurosymbolic/algorithm",
+        "rlhf-alignment/algorithm",
+        "transfer/algorithm",
+        "reasoning/algorithm"
+      ]
+    },
+    {
+      "term": "time series",
+      "kind": "emergent",
+      "seed": false,
+      "df": 513,
+      "match": {
+        "type": "text",
+        "forms": [
+          "time series"
+        ]
+      },
+      "papers": 513,
+      "top_cells": [
+        "causal/algorithm",
+        "supervised/algorithm",
+        "unsupervised/algorithm",
+        "transfer/algorithm"
+      ]
+    },
+    {
+      "term": "during training",
+      "kind": "emergent",
+      "seed": false,
+      "df": 506,
+      "match": {
+        "type": "text",
+        "forms": [
+          "during training"
+        ]
+      },
+      "papers": 506,
+      "top_cells": [
+        "reinforcement/algorithm",
+        "supervised/algorithm",
+        "rlhf-alignment/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
+    {
+      "term": "downstream tasks",
+      "kind": "emergent",
+      "seed": false,
+      "df": 506,
+      "match": {
+        "type": "text",
+        "forms": [
+          "downstream tasks"
+        ]
+      },
+      "papers": 506,
+      "top_cells": [
+        "transfer/algorithm",
+        "supervised/algorithm",
+        "self-supervised/algorithm",
+        "supervised/theory"
+      ]
+    },
+    {
+      "term": "consistently outperforms",
+      "kind": "emergent",
+      "seed": false,
+      "df": 504,
+      "match": {
+        "type": "text",
+        "forms": [
+          "consistently outperforms"
+        ]
+      },
+      "papers": 504,
+      "top_cells": [
+        "supervised/algorithm",
+        "rlhf-alignment/algorithm",
+        "reinforcement/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "domain adaptation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 498,
+      "match": {
+        "type": "text",
+        "forms": [
+          "domain adaptation"
+        ]
+      },
+      "papers": 498,
+      "top_cells": [
+        "transfer/algorithm",
+        "transfer/theory",
+        "supervised/algorithm",
+        "transfer/robust"
+      ]
+    },
+    {
+      "term": "superior performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 496,
+      "match": {
+        "type": "text",
+        "forms": [
+          "superior performance"
+        ]
+      },
+      "papers": 496,
+      "top_cells": [
+        "supervised/algorithm",
+        "diffusion/algorithm",
+        "causal/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "latent space",
+      "kind": "emergent",
+      "seed": false,
+      "df": 482,
+      "match": {
+        "type": "text",
+        "forms": [
+          "latent space"
+        ]
+      },
+      "papers": 482,
+      "top_cells": [
+        "world-model/algorithm",
+        "diffusion/algorithm",
+        "unsupervised/algorithm",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "causal inference",
+      "kind": "emergent",
+      "seed": false,
+      "df": 479,
+      "match": {
+        "type": "text",
+        "forms": [
+          "causal inference"
+        ]
+      },
+      "papers": 479,
+      "top_cells": [
+        "causal/algorithm",
+        "causal/theory",
+        "causal/review",
+        "causal/architecture"
+      ]
+    },
+    {
+      "term": "state-of-the-art performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 471,
+      "match": {
+        "type": "text",
+        "forms": [
+          "state-of-the-art performance"
+        ]
+      },
+      "papers": 471,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "causal/algorithm",
+        "curriculum/algorithm"
+      ]
+    },
+    {
+      "term": "datasets demonstrate",
+      "kind": "emergent",
+      "seed": false,
+      "df": 468,
+      "match": {
+        "type": "text",
+        "forms": [
+          "datasets demonstrate"
+        ]
+      },
+      "papers": 468,
+      "top_cells": [
+        "supervised/algorithm",
+        "causal/algorithm",
+        "federated/algorithm",
+        "unsupervised/algorithm"
+      ]
+    },
+    {
+      "term": "Multi Agent",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 455,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "multi-agent"
+      },
+      "top_cells": [
+        "multi-agent/algorithm",
+        "multi-agent/theory",
+        "multi-agent/application",
+        "multi-agent/review"
+      ],
+      "papers": 455
+    },
+    {
+      "term": "image classification",
+      "kind": "emergent",
+      "seed": false,
+      "df": 441,
+      "match": {
+        "type": "text",
+        "forms": [
+          "image classification"
+        ]
+      },
+      "papers": 441,
+      "top_cells": [
+        "supervised/algorithm",
+        "supervised/architecture",
+        "supervised/theory",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "world models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 408,
+      "match": {
+        "type": "text",
+        "forms": [
+          "world models"
+        ]
+      },
+      "papers": 408,
+      "top_cells": [
+        "world-model/algorithm",
+        "world-model/theory",
+        "world-model/architecture",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "policy optimization",
+      "kind": "emergent",
+      "seed": false,
+      "df": 403,
+      "match": {
+        "type": "text",
+        "forms": [
+          "policy optimization"
+        ]
+      },
+      "papers": 403,
+      "top_cells": [
+        "reinforcement/algorithm",
+        "rlhf-alignment/algorithm",
+        "reinforcement/theory",
+        "curriculum/algorithm"
+      ]
+    },
+    {
+      "term": "outperforms existing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 387,
+      "match": {
+        "type": "text",
+        "forms": [
+          "outperforms existing"
+        ]
+      },
+      "papers": 387,
+      "top_cells": [
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm",
+        "supervised/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "benchmark datasets",
+      "kind": "emergent",
+      "seed": false,
+      "df": 376,
+      "match": {
+        "type": "text",
+        "forms": [
+          "benchmark datasets"
+        ]
+      },
+      "papers": 376,
+      "top_cells": [
+        "supervised/algorithm",
+        "federated/algorithm",
+        "unsupervised/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "achieves state-of-the-art",
+      "kind": "emergent",
+      "seed": false,
+      "df": 366,
+      "match": {
+        "type": "text",
+        "forms": [
+          "achieves state-of-the-art"
+        ]
+      },
+      "papers": 366,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "curriculum/algorithm",
+        "world-model/algorithm"
+      ]
+    },
+    {
+      "term": "state-of-the-art methods",
+      "kind": "emergent",
+      "seed": false,
+      "df": 363,
+      "match": {
+        "type": "text",
+        "forms": [
+          "state-of-the-art methods"
+        ]
+      },
+      "papers": 363,
+      "top_cells": [
+        "supervised/algorithm",
+        "federated/algorithm",
+        "diffusion/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "wide range",
+      "kind": "emergent",
+      "seed": false,
+      "df": 361,
+      "match": {
+        "type": "text",
+        "forms": [
+          "wide range"
+        ]
+      },
+      "papers": 361,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "causal/algorithm",
+        "unsupervised/algorithm"
+      ]
+    },
+    {
+      "term": "preference optimization",
+      "kind": "emergent",
+      "seed": false,
+      "df": 359,
+      "match": {
+        "type": "text",
+        "forms": [
+          "preference optimization"
+        ]
+      },
+      "papers": 359,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "rlhf-alignment/theory",
+        "curriculum/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
+    {
+      "term": "publicly available",
+      "kind": "emergent",
+      "seed": false,
+      "df": 357,
+      "match": {
+        "type": "text",
+        "forms": [
+          "publicly available"
+        ]
+      },
+      "papers": 357,
+      "top_cells": [
+        "supervised/algorithm",
+        "rlhf-alignment/algorithm",
+        "transfer/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "real-world datasets",
+      "kind": "emergent",
+      "seed": false,
+      "df": 345,
+      "match": {
+        "type": "text",
+        "forms": [
+          "real-world datasets"
+        ]
+      },
+      "papers": 345,
+      "top_cells": [
+        "causal/algorithm",
+        "supervised/algorithm",
+        "unsupervised/algorithm",
+        "online/algorithm"
+      ]
+    },
+    {
+      "term": "anomaly detection",
+      "kind": "emergent",
+      "seed": false,
+      "df": 342,
+      "match": {
+        "type": "text",
+        "forms": [
+          "anomaly detection"
+        ]
+      },
+      "papers": 342,
+      "top_cells": [
+        "unsupervised/algorithm",
+        "supervised/algorithm",
+        "unsupervised/theory",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "significantly outperforms",
+      "kind": "emergent",
+      "seed": false,
+      "df": 342,
+      "match": {
+        "type": "text",
+        "forms": [
+          "significantly outperforms"
+        ]
+      },
+      "papers": 342,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "rlhf-alignment/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "classification tasks",
+      "kind": "emergent",
+      "seed": false,
+      "df": 331,
+      "match": {
+        "type": "text",
+        "forms": [
+          "classification tasks"
+        ]
+      },
+      "papers": 331,
+      "top_cells": [
+        "supervised/algorithm",
+        "supervised/theory",
+        "federated/algorithm",
+        "supervised/architecture"
+      ]
+    },
+    {
+      "term": "human preferences",
+      "kind": "emergent",
+      "seed": false,
+      "df": 323,
+      "match": {
+        "type": "text",
+        "forms": [
+          "human preferences"
+        ]
+      },
+      "papers": 323,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "rlhf-alignment/theory",
+        "reward-modeling/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "outperforms state-of-the-art",
+      "kind": "emergent",
+      "seed": false,
+      "df": 322,
+      "match": {
+        "type": "text",
+        "forms": [
+          "outperforms state-of-the-art"
+        ]
+      },
+      "papers": 322,
+      "top_cells": [
+        "causal/algorithm",
+        "federated/algorithm",
+        "supervised/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
+    {
+      "term": "remains challenging",
+      "kind": "emergent",
+      "seed": false,
+      "df": 320,
+      "match": {
+        "type": "text",
+        "forms": [
+          "remains challenging"
+        ]
+      },
+      "papers": 320,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "causal/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "image generation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 315,
+      "match": {
+        "type": "text",
+        "forms": [
+          "image generation"
+        ]
+      },
+      "papers": 315,
+      "top_cells": [
+        "diffusion/algorithm",
+        "diffusion/theory",
+        "diffusion/architecture",
+        "diffusion/application"
+      ]
+    },
+    {
+      "term": "methods often",
+      "kind": "emergent",
+      "seed": false,
+      "df": 312,
+      "match": {
+        "type": "text",
+        "forms": [
+          "methods often"
+        ]
+      },
+      "papers": 312,
+      "top_cells": [
+        "causal/algorithm",
+        "supervised/algorithm",
+        "reinforcement/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
+    {
+      "term": "causal discovery",
+      "kind": "emergent",
+      "seed": false,
+      "df": 304,
+      "match": {
+        "type": "text",
+        "forms": [
+          "causal discovery"
+        ]
+      },
+      "papers": 304,
+      "top_cells": [
+        "causal/algorithm",
+        "causal/theory",
+        "causal/review",
+        "causal/architecture"
+      ]
+    },
+    {
+      "term": "real-world applications",
+      "kind": "emergent",
+      "seed": false,
+      "df": 302,
+      "match": {
+        "type": "text",
+        "forms": [
+          "real-world applications"
+        ]
+      },
+      "papers": 302,
+      "top_cells": [
+        "supervised/algorithm",
+        "causal/algorithm",
+        "federated/algorithm",
+        "world-model/algorithm"
+      ]
+    },
+    {
+      "term": "generative modeling",
+      "kind": "emergent",
+      "seed": false,
+      "df": 302,
+      "match": {
+        "type": "text",
+        "forms": [
+          "generative modeling"
+        ]
+      },
+      "papers": 302,
+      "top_cells": [
+        "diffusion/algorithm",
+        "diffusion/theory",
+        "unsupervised/algorithm",
+        "world-model/algorithm"
+      ]
+    },
+    {
+      "term": "without requiring",
+      "kind": "emergent",
+      "seed": false,
+      "df": 291,
+      "match": {
+        "type": "text",
+        "forms": [
+          "without requiring"
+        ]
+      },
+      "papers": 291,
+      "top_cells": [
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm",
+        "supervised/algorithm",
+        "unsupervised/algorithm"
+      ]
+    },
+    {
+      "term": "differential privacy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 290,
+      "match": {
+        "type": "text",
+        "forms": [
+          "differential privacy"
+        ]
+      },
+      "papers": 290,
+      "top_cells": [
+        "federated/algorithm",
+        "federated/theory",
+        "federated/robust",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "flow matching",
+      "kind": "emergent",
+      "seed": false,
+      "df": 284,
+      "match": {
+        "type": "text",
+        "forms": [
+          "flow matching"
+        ]
+      },
+      "papers": 284,
+      "top_cells": [
+        "diffusion/algorithm",
+        "diffusion/theory",
+        "world-model/algorithm",
+        "diffusion/architecture"
+      ]
+    },
+    {
+      "term": "computer vision",
+      "kind": "emergent",
+      "seed": false,
+      "df": 282,
+      "match": {
+        "type": "text",
+        "forms": [
+          "computer vision"
+        ]
+      },
+      "papers": 282,
+      "top_cells": [
+        "supervised/algorithm",
+        "transfer/algorithm",
+        "self-supervised/algorithm",
+        "supervised/architecture"
+      ]
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 278,
+      "match": {
+        "type": "text",
+        "forms": [
+          "retrieval-augmented generation"
+        ]
+      },
+      "papers": 278,
+      "top_cells": [
+        "retrieval-augmented/algorithm",
+        "retrieval-augmented/theory",
+        "retrieval-augmented/application",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "models trained",
+      "kind": "emergent",
+      "seed": false,
+      "df": 272,
+      "match": {
+        "type": "text",
+        "forms": [
+          "models trained"
+        ]
+      },
+      "papers": 272,
+      "top_cells": [
+        "supervised/algorithm",
+        "rlhf-alignment/algorithm",
+        "transfer/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
+    {
+      "term": "strong performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 271,
+      "match": {
+        "type": "text",
+        "forms": [
+          "strong performance"
+        ]
+      },
+      "papers": 271,
+      "top_cells": [
+        "supervised/algorithm",
+        "reinforcement/algorithm",
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "knowledge distillation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 265,
+      "match": {
+        "type": "text",
+        "forms": [
+          "knowledge distillation"
+        ]
+      },
+      "papers": 265,
+      "top_cells": [
+        "supervised/algorithm",
+        "federated/algorithm",
+        "supervised/theory",
+        "continual/algorithm"
+      ]
+    },
+    {
+      "term": "significant challenges",
+      "kind": "emergent",
+      "seed": false,
+      "df": 263,
+      "match": {
+        "type": "text",
+        "forms": [
+          "significant challenges"
+        ]
+      },
+      "papers": 263,
+      "top_cells": [
+        "federated/algorithm",
+        "supervised/algorithm",
+        "causal/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "offline reinforcement",
+      "kind": "emergent",
+      "seed": false,
+      "df": 258,
+      "match": {
+        "type": "text",
+        "forms": [
+          "offline reinforcement"
+        ]
+      },
+      "papers": 258,
+      "top_cells": [
+        "reinforcement/algorithm",
+        "reinforcement/theory",
+        "world-model/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "direct preference",
+      "kind": "emergent",
+      "seed": false,
+      "df": 258,
+      "match": {
+        "type": "text",
+        "forms": [
+          "direct preference"
+        ]
+      },
+      "papers": 258,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "rlhf-alignment/theory",
+        "reinforcement/algorithm",
+        "rlhf-alignment/architecture"
+      ]
+    },
+    {
+      "term": "language processing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 258,
+      "match": {
+        "type": "text",
+        "forms": [
+          "language processing"
+        ]
+      },
+      "papers": 258,
+      "top_cells": [
+        "supervised/algorithm",
+        "transfer/algorithm",
+        "neurosymbolic/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "vision-language models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 256,
+      "match": {
+        "type": "text",
+        "forms": [
+          "vision-language models"
+        ]
+      },
+      "papers": 256,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "multimodal/theory",
+        "multimodal/algorithm",
+        "neurosymbolic/algorithm"
+      ]
+    },
+    {
+      "term": "challenging due",
+      "kind": "emergent",
+      "seed": false,
+      "df": 253,
+      "match": {
+        "type": "text",
+        "forms": [
+          "challenging due"
+        ]
+      },
+      "papers": 253,
+      "top_cells": [
+        "supervised/algorithm",
+        "causal/algorithm",
+        "diffusion/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "reward models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 251,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reward models"
+        ]
+      },
+      "papers": 251,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "rlhf-alignment/theory",
+        "reward-modeling/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "computational cost",
+      "kind": "emergent",
+      "seed": false,
+      "df": 248,
+      "match": {
+        "type": "text",
+        "forms": [
+          "computational cost"
+        ]
+      },
+      "papers": 248,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "meta-learning/algorithm",
+        "continual/algorithm"
+      ]
+    },
+    {
+      "term": "competitive performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 244,
+      "match": {
+        "type": "text",
+        "forms": [
+          "competitive performance"
+        ]
+      },
+      "papers": 244,
+      "top_cells": [
+        "supervised/algorithm",
+        "diffusion/algorithm",
+        "reinforcement/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "gradient descent",
+      "kind": "emergent",
+      "seed": false,
+      "df": 242,
+      "match": {
+        "type": "text",
+        "forms": [
+          "gradient descent"
+        ]
+      },
+      "papers": 242,
+      "top_cells": [
+        "supervised/theory",
+        "supervised/algorithm",
+        "federated/algorithm",
+        "online/algorithm"
+      ]
+    },
+    {
+      "term": "supervised fine-tuning",
+      "kind": "emergent",
+      "seed": false,
+      "df": 240,
+      "match": {
+        "type": "text",
+        "forms": [
+          "supervised fine-tuning"
+        ]
+      },
+      "papers": 240,
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "curriculum/algorithm",
+        "reinforcement/algorithm",
+        "transfer/algorithm"
+      ]
+    },
+    {
+      "term": "sample efficiency",
+      "kind": "emergent",
+      "seed": false,
+      "df": 239,
+      "match": {
+        "type": "text",
+        "forms": [
+          "sample efficiency"
+        ]
+      },
+      "papers": 239,
+      "top_cells": [
+        "reinforcement/algorithm",
+        "world-model/algorithm",
+        "causal/algorithm",
+        "reinforcement/theory"
+      ]
+    },
+    {
+      "term": "significantly improves",
+      "kind": "emergent",
+      "seed": false,
+      "df": 235,
+      "match": {
+        "type": "text",
+        "forms": [
+          "significantly improves"
+        ]
+      },
+      "papers": 235,
+      "top_cells": [
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm",
+        "federated/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "computational efficiency",
+      "kind": "emergent",
+      "seed": false,
+      "df": 235,
+      "match": {
+        "type": "text",
+        "forms": [
+          "computational efficiency"
+        ]
+      },
+      "papers": 235,
+      "top_cells": [
+        "supervised/algorithm",
+        "causal/algorithm",
+        "diffusion/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "often struggle",
+      "kind": "emergent",
+      "seed": false,
+      "df": 231,
+      "match": {
+        "type": "text",
+        "forms": [
+          "often struggle"
+        ]
+      },
+      "papers": 231,
+      "top_cells": [
+        "supervised/algorithm",
+        "diffusion/algorithm",
+        "causal/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "differential equations",
+      "kind": "emergent",
+      "seed": false,
+      "df": 219,
+      "match": {
+        "type": "text",
+        "forms": [
+          "differential equations"
+        ]
+      },
+      "papers": 219,
+      "top_cells": [
+        "diffusion/algorithm",
+        "world-model/algorithm",
+        "diffusion/theory",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "language modeling",
+      "kind": "emergent",
+      "seed": false,
+      "df": 219,
+      "match": {
+        "type": "text",
+        "forms": [
+          "language modeling"
+        ]
+      },
+      "papers": 219,
+      "top_cells": [
+        "self-supervised/algorithm",
+        "diffusion/algorithm",
+        "self-supervised/architecture",
+        "transfer/architecture"
+      ]
+    },
+    {
+      "term": "through extensive",
+      "kind": "emergent",
+      "seed": false,
+      "df": 216,
+      "match": {
+        "type": "text",
+        "forms": [
+          "through extensive"
+        ]
+      },
+      "papers": 216,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "federated/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "while reducing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 213,
+      "match": {
+        "type": "text",
+        "forms": [
+          "while reducing"
+        ]
+      },
+      "papers": 213,
+      "top_cells": [
+        "supervised/algorithm",
+        "federated/algorithm",
+        "active/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
+    {
+      "term": "performance compared",
+      "kind": "emergent",
+      "seed": false,
+      "df": 212,
+      "match": {
+        "type": "text",
+        "forms": [
+          "performance compared"
+        ]
+      },
+      "papers": 212,
+      "top_cells": [
+        "federated/algorithm",
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "loss function",
+      "kind": "emergent",
+      "seed": false,
+      "df": 210,
+      "match": {
+        "type": "text",
+        "forms": [
+          "loss function"
+        ]
+      },
+      "papers": 210,
+      "top_cells": [
+        "supervised/algorithm",
+        "supervised/theory",
+        "unsupervised/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "benchmarks demonstrate",
+      "kind": "emergent",
+      "seed": false,
+      "df": 208,
+      "match": {
+        "type": "text",
+        "forms": [
+          "benchmarks demonstrate"
+        ]
+      },
+      "papers": 208,
+      "top_cells": [
+        "continual/algorithm",
+        "rlhf-alignment/algorithm",
+        "diffusion/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "real-world scenarios",
+      "kind": "emergent",
+      "seed": false,
+      "df": 207,
+      "match": {
+        "type": "text",
+        "forms": [
+          "real-world scenarios"
+        ]
+      },
+      "papers": 207,
+      "top_cells": [
+        "causal/algorithm",
+        "continual/algorithm",
+        "federated/algorithm",
+        "world-model/algorithm"
+      ]
+    },
+    {
+      "term": "distribution shifts",
+      "kind": "emergent",
+      "seed": false,
+      "df": 207,
+      "match": {
+        "type": "text",
+        "forms": [
+          "distribution shifts"
+        ]
+      },
+      "papers": 207,
+      "top_cells": [
+        "causal/algorithm",
+        "supervised/algorithm",
+        "continual/algorithm",
+        "transfer/algorithm"
+      ]
+    },
+    {
+      "term": "prior knowledge",
+      "kind": "emergent",
+      "seed": false,
+      "df": 205,
+      "match": {
+        "type": "text",
+        "forms": [
+          "prior knowledge"
+        ]
+      },
+      "papers": 205,
+      "top_cells": [
+        "continual/algorithm",
+        "causal/algorithm",
+        "online/algorithm",
+        "unsupervised/algorithm"
+      ]
+    },
+    {
+      "term": "fault diagnosis",
+      "kind": "emergent",
+      "seed": false,
+      "df": 204,
+      "match": {
+        "type": "text",
+        "forms": [
+          "fault diagnosis"
+        ]
+      },
+      "papers": 204,
+      "top_cells": [
+        "transfer/algorithm",
+        "meta-learning/algorithm",
+        "meta-learning/theory",
+        "transfer/architecture"
+      ]
+    },
+    {
+      "term": "achieves superior",
+      "kind": "emergent",
+      "seed": false,
+      "df": 203,
+      "match": {
+        "type": "text",
+        "forms": [
+          "achieves superior"
+        ]
+      },
+      "papers": 203,
+      "top_cells": [
+        "supervised/algorithm",
+        "diffusion/algorithm",
+        "federated/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "consistently improves",
+      "kind": "emergent",
+      "seed": false,
+      "df": 202,
+      "match": {
+        "type": "text",
+        "forms": [
+          "consistently improves"
+        ]
+      },
+      "papers": 202,
+      "top_cells": [
+        "supervised/algorithm",
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm",
+        "continual/algorithm"
+      ]
+    },
+    {
+      "term": "medical image",
+      "kind": "emergent",
+      "seed": false,
+      "df": 202,
+      "match": {
+        "type": "text",
+        "forms": [
+          "medical image"
+        ]
+      },
+      "papers": 202,
+      "top_cells": [
+        "supervised/algorithm",
+        "federated/algorithm",
+        "supervised/theory",
+        "curriculum/algorithm"
+      ]
+    },
+    {
+      "term": "inference time",
+      "kind": "emergent",
+      "seed": false,
+      "df": 200,
+      "match": {
+        "type": "text",
+        "forms": [
+          "inference time"
+        ]
+      },
+      "papers": 200,
+      "top_cells": [
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm",
+        "supervised/algorithm",
+        "world-model/algorithm"
+      ]
+    },
+    {
+      "term": "state-of-the-art baselines",
+      "kind": "emergent",
+      "seed": false,
+      "df": 194,
+      "match": {
+        "type": "text",
+        "forms": [
+          "state-of-the-art baselines"
+        ]
+      },
+      "papers": 194,
+      "top_cells": [
+        "causal/algorithm",
+        "federated/algorithm",
+        "world-model/algorithm",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "models often",
+      "kind": "emergent",
+      "seed": false,
+      "df": 169,
+      "match": {
+        "type": "text",
+        "forms": [
+          "models often"
+        ]
+      },
+      "papers": 169,
+      "top_cells": [
+        "supervised/algorithm",
+        "diffusion/algorithm",
+        "transfer/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "performance while",
+      "kind": "emergent",
+      "seed": false,
+      "df": 145,
+      "match": {
+        "type": "text",
+        "forms": [
+          "performance while"
+        ]
+      },
+      "papers": 145,
+      "top_cells": [
+        "supervised/algorithm",
+        "transfer/algorithm",
+        "federated/algorithm",
+        "supervised/theory"
+      ]
+    },
+    {
+      "term": "provide theoretical",
+      "kind": "emergent",
+      "seed": false,
+      "df": 103,
+      "match": {
+        "type": "text",
+        "forms": [
+          "provide theoretical"
+        ]
+      },
+      "papers": 103,
+      "top_cells": [
+        "federated/algorithm",
+        "supervised/theory",
+        "diffusion/algorithm",
+        "reinforcement/theory"
+      ]
+    },
+    {
+      "term": "convolutional networks",
+      "kind": "emergent",
+      "seed": false,
+      "df": 43,
+      "match": {
+        "type": "text",
+        "forms": [
+          "convolutional networks"
+        ]
+      },
+      "papers": 43,
+      "top_cells": [
+        "supervised/algorithm",
+        "supervised/theory",
+        "supervised/architecture",
+        "self-supervised/algorithm"
+      ]
+    },
+    {
+      "term": "code available",
+      "kind": "emergent",
+      "seed": false,
+      "df": 32,
+      "match": {
+        "type": "text",
+        "forms": [
+          "code available"
+        ]
+      },
+      "papers": 32,
+      "top_cells": [
+        "reinforcement/algorithm",
+        "diffusion/algorithm",
+        "transfer/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "address challenges",
+      "kind": "emergent",
+      "seed": false,
+      "df": 16,
+      "match": {
+        "type": "text",
+        "forms": [
+          "address challenges"
+        ]
+      },
+      "papers": 16,
+      "top_cells": [
+        "neurosymbolic/algorithm",
+        "federated/algorithm",
+        "causal/algorithm",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "introduce novel",
+      "kind": "emergent",
+      "seed": false,
+      "df": 11,
+      "match": {
+        "type": "text",
+        "forms": [
+          "introduce novel"
+        ]
+      },
+      "papers": 11,
+      "top_cells": [
+        "self-supervised/algorithm",
+        "causal/algorithm",
+        "rlhf-alignment/algorithm",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "propose novel",
+      "kind": "emergent",
+      "seed": false,
+      "df": 9,
+      "match": {
+        "type": "text",
+        "forms": [
+          "propose novel"
+        ]
+      },
+      "papers": 9,
+      "top_cells": [
+        "supervised/algorithm",
+        "reinforcement/algorithm",
+        "self-supervised/algorithm",
+        "multi-agent/algorithm"
+      ]
+    },
+    {
+      "term": "graph networks",
+      "kind": "emergent",
+      "seed": false,
+      "df": 7,
+      "match": {
+        "type": "text",
+        "forms": [
+          "graph networks"
+        ]
+      },
+      "papers": 7,
+      "top_cells": [
+        "supervised/theory",
+        "self-supervised/algorithm",
+        "online/algorithm",
+        "neurosymbolic/algorithm"
+      ]
+    },
+    {
+      "term": "address issues",
+      "kind": "emergent",
+      "seed": false,
+      "df": 5,
+      "match": {
+        "type": "text",
+        "forms": [
+          "address issues"
+        ]
+      },
+      "papers": 5,
+      "top_cells": [
+        "federated/algorithm",
+        "meta-learning/algorithm",
+        "world-model/architecture",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "models human",
+      "kind": "emergent",
+      "seed": false,
+      "df": 3,
+      "match": {
+        "type": "text",
+        "forms": [
+          "models human"
+        ]
+      },
+      "papers": 3,
+      "top_cells": [
+        "active/theory",
+        "rlhf-alignment/algorithm",
+        "transfer/architecture"
+      ]
+    },
+    {
+      "term": "available https",
+      "kind": "emergent",
+      "seed": false,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "available https"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "transfer/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
+    {
+      "term": "demonstrate effectiveness",
+      "kind": "emergent",
+      "seed": false,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "demonstrate effectiveness"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "self-supervised/algorithm",
+        "meta-learning/algorithm"
+      ]
+    },
+    {
+      "term": "feedback rlhf",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "feedback rlhf"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "Survey",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 0,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "survey"
+      },
+      "top_cells": [],
+      "papers": 0
+    },
+    {
+      "term": "Method",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 0,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "method"
+      },
+      "top_cells": [],
+      "papers": 0
+    }
+  ]
+}
