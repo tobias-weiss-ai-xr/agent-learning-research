@@ -4,17 +4,17 @@
 
 ## Top hubs (by PageRank)
 
-- **Diffusion** — PR 0.0000, degree 0, df 1906
+- **Diffusion** — PR 0.0000, degree 0, df 1916
 - **Causal** — PR 0.0000, degree 0, df 1545
 - **Federated** — PR 0.0000, degree 0, df 1382
+- **Rlhf Alignment** — PR 0.0000, degree 0, df 1290
 - **World Model** — PR 0.0000, degree 0, df 1254
-- **Rlhf Alignment** — PR 0.0000, degree 0, df 1248
 - **Transfer** — PR 0.0000, degree 0, df 1223
 - **Continual** — PR 0.0000, degree 0, df 880
 - **Neurosymbolic** — PR 0.0000, degree 0, df 858
 - **Meta Learning** — PR 0.0000, degree 0, df 843
 - **Self Supervised** — PR 0.0000, degree 0, df 813
-- **Curriculum** — PR 0.0000, degree 0, df 781
+- **Curriculum** — PR 0.0000, degree 0, df 785
 - **Active** — PR 0.0000, degree 0, df 728
 
 ## Bridge nodes (high betweenness — connect clusters)

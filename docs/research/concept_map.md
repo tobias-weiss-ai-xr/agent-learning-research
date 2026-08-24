@@ -1,22 +1,22 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 15 concepts, 0 relationships from 21623 papers. Edges = co-occurrence (shared papers).
+**Generated:** 15 concepts, 0 relationships from 21679 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| Diffusion | taxonomy | 1906 |
+| Diffusion | taxonomy | 1916 |
 | Causal | taxonomy | 1545 |
 | Federated | taxonomy | 1382 |
+| Rlhf Alignment | taxonomy | 1290 |
 | World Model | taxonomy | 1254 |
-| Rlhf Alignment | taxonomy | 1248 |
 | Transfer | taxonomy | 1223 |
 | Continual | taxonomy | 880 |
 | Neurosymbolic | taxonomy | 858 |
 | Meta Learning | taxonomy | 843 |
 | Self Supervised | taxonomy | 813 |
-| Curriculum | taxonomy | 781 |
+| Curriculum | taxonomy | 785 |
 | Active | taxonomy | 728 |
 | Multi Agent | taxonomy | 455 |
 | Survey | taxonomy | 0 |

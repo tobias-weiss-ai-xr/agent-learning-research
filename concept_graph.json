@@ -4,7 +4,7 @@
       "id": 0,
       "term": "Diffusion",
       "kind": "taxonomy",
-      "df": 1906
+      "df": 1916
     },
     {
       "id": 1,
@@ -20,15 +20,15 @@
     },
     {
       "id": 3,
-      "term": "World Model",
+      "term": "Rlhf Alignment",
       "kind": "taxonomy",
-      "df": 1254
+      "df": 1290
     },
     {
       "id": 4,
-      "term": "Rlhf Alignment",
+      "term": "World Model",
       "kind": "taxonomy",
-      "df": 1248
+      "df": 1254
     },
     {
       "id": 5,
@@ -64,7 +64,7 @@
       "id": 10,
       "term": "Curriculum",
       "kind": "taxonomy",
-      "df": 781
+      "df": 785
     },
     {
       "id": 11,
@@ -95,6 +95,6 @@
   "stats": {
     "concepts": 15,
     "edges": 0,
-    "papers": 21623
+    "papers": 21679
   }
 }

@@ -5,7 +5,7 @@
       "term": "Diffusion",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1906,
+      "df": 1916,
       "match": {
         "type": "field",
         "field": "category",
@@ -17,7 +17,7 @@
         "diffusion/architecture",
         "diffusion/application"
       ],
-      "papers": 1906
+      "papers": 1916
     },
     {
       "term": "Causal",
@@ -56,6 +56,24 @@
       "papers": 1382
     },
     {
+      "term": "Rlhf Alignment",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1290,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "rlhf-alignment"
+      },
+      "top_cells": [
+        "rlhf-alignment/algorithm",
+        "rlhf-alignment/theory",
+        "rlhf-alignment/method",
+        "rlhf-alignment/architecture"
+      ],
+      "papers": 1290
+    },
+    {
       "term": "World Model",
       "kind": "taxonomy",
       "seed": true,
@@ -72,24 +90,6 @@
         "world-model/method"
       ],
       "papers": 1254
-    },
-    {
-      "term": "Rlhf Alignment",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 1248,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "rlhf-alignment"
-      },
-      "top_cells": [
-        "rlhf-alignment/algorithm",
-        "rlhf-alignment/theory",
-        "rlhf-alignment/architecture",
-        "rlhf-alignment/robust"
-      ],
-      "papers": 1248
     },
     {
       "term": "Transfer",
@@ -185,7 +185,7 @@
       "term": "Curriculum",
       "kind": "taxonomy",
       "seed": true,
-      "df": 781,
+      "df": 785,
       "match": {
         "type": "field",
         "field": "category",
@@ -197,7 +197,7 @@
         "curriculum/architecture",
         "curriculum/method"
       ],
-      "papers": 781
+      "papers": 785
     },
     {
       "term": "Active",
