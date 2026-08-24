@@ -104,7 +104,7 @@
   {
    "id": "curriculum",
    "name": "Curriculum",
-   "count": 781,
+   "count": 785,
    "trajectory": {
     "2019": 1,
     "2020": 4,
@@ -113,24 +113,24 @@
     "2023": 58,
     "2024": 136,
     "2025": 277,
-    "2026": 214
+    "2026": 218
    },
    "momentum": {
     "id": "curriculum",
     "name": "Curriculum",
-    "total": 781,
-    "recent": 331,
+    "total": 785,
+    "recent": 335,
     "prior": 258,
-    "growth_pct": 28.3,
-    "recent_share": 0.424,
-    "papers_per_month": 27.6,
-    "score": 70.7
+    "growth_pct": 29.8,
+    "recent_share": 0.427,
+    "papers_per_month": 27.9,
+    "score": 72.5
    }
   },
   {
    "id": "diffusion",
    "name": "Diffusion",
-   "count": 1906,
+   "count": 1916,
    "trajectory": {
     "1991": 1,
     "2005": 1,
@@ -141,18 +141,18 @@
     "2023": 54,
     "2024": 428,
     "2025": 806,
-    "2026": 586
+    "2026": 596
    },
    "momentum": {
     "id": "diffusion",
     "name": "Diffusion",
-    "total": 1906,
-    "recent": 916,
+    "total": 1916,
+    "recent": 926,
     "prior": 827,
-    "growth_pct": 10.8,
-    "recent_share": 0.481,
-    "papers_per_month": 76.3,
-    "score": 58.9
+    "growth_pct": 12.0,
+    "recent_share": 0.483,
+    "papers_per_month": 77.2,
+    "score": 60.3
    }
   },
   {
@@ -183,7 +183,7 @@
   },
   {
    "id": "imitation",
-   "name": "Imitation",
+   "name": "imitation",
    "count": 276,
    "trajectory": {
     "2021": 11,
@@ -258,7 +258,7 @@
   },
   {
    "id": "multimodal",
-   "name": "Multimodal",
+   "name": "multimodal",
    "count": 351,
    "trajectory": {
     "2021": 6,
@@ -309,7 +309,7 @@
   },
   {
    "id": "online",
-   "name": "Online",
+   "name": "online",
    "count": 807,
    "trajectory": {
     "2021": 42,
@@ -333,7 +333,7 @@
   },
   {
    "id": "reasoning",
-   "name": "Reasoning",
+   "name": "reasoning",
    "count": 633,
    "trajectory": {
     "2021": 1,
@@ -357,7 +357,7 @@
   },
   {
    "id": "reinforcement",
-   "name": "Reinforcement",
+   "name": "reinforcement",
    "count": 1467,
    "trajectory": {
     "2021": 21,
@@ -381,7 +381,7 @@
   },
   {
    "id": "retrieval-augmented",
-   "name": "Retrieval Augmented",
+   "name": "retrieval-augmented",
    "count": 267,
    "trajectory": {
     "2022": 3,
@@ -404,7 +404,7 @@
   },
   {
    "id": "reward-modeling",
-   "name": "Reward Modeling",
+   "name": "reward-modeling",
    "count": 149,
    "trajectory": {
     "2023": 35,
@@ -427,7 +427,7 @@
   {
    "id": "rlhf-alignment",
    "name": "Rlhf Alignment",
-   "count": 1248,
+   "count": 1290,
    "trajectory": {
     "2020": 2,
     "2021": 1,
@@ -435,18 +435,18 @@
     "2023": 48,
     "2024": 292,
     "2025": 522,
-    "2026": 373
+    "2026": 415
    },
    "momentum": {
     "id": "rlhf-alignment",
     "name": "Rlhf Alignment",
-    "total": 1248,
-    "recent": 553,
+    "total": 1290,
+    "recent": 595,
     "prior": 553,
-    "growth_pct": 0.0,
-    "recent_share": 0.443,
-    "papers_per_month": 46.1,
-    "score": 44.3
+    "growth_pct": 7.6,
+    "recent_share": 0.461,
+    "papers_per_month": 49.6,
+    "score": 53.7
    }
   },
   {
@@ -475,7 +475,7 @@
   },
   {
    "id": "supervised",
-   "name": "Supervised",
+   "name": "supervised",
    "count": 2618,
    "trajectory": {
     "2021": 34,
@@ -525,7 +525,7 @@
   },
   {
    "id": "unsupervised",
-   "name": "Unsupervised",
+   "name": "unsupervised",
    "count": 1025,
    "trajectory": {
     "2021": 13,
@@ -582,7 +582,7 @@
   },
   {
    "id": "algorithm",
-   "name": "Algorithm",
+   "name": "algorithm",
    "count": 13193
   },
   {
@@ -592,42 +592,42 @@
   },
   {
    "id": "architecture",
-   "name": "Architecture",
+   "name": "architecture",
    "count": 1375
   },
   {
    "id": "efficient",
-   "name": "Efficient",
+   "name": "efficient",
    "count": 265
   },
   {
    "id": "mechanism",
-   "name": "Mechanism",
+   "name": "mechanism",
    "count": 19
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 135
+   "count": 191
   },
   {
    "id": "optimization",
-   "name": "Optimization",
+   "name": "optimization",
    "count": 178
   },
   {
    "id": "review",
-   "name": "Review",
+   "name": "review",
    "count": 164
   },
   {
    "id": "robust",
-   "name": "Robust",
+   "name": "robust",
    "count": 388
   },
   {
    "id": "scaling",
-   "name": "Scaling",
+   "name": "scaling",
    "count": 250
   },
   {
@@ -80260,6 +80260,16 @@
   [
    "2026-02",
    "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rlhf-alignment",
    "robust"
   ],
   [
@@ -82905,6 +82915,11 @@
   [
    "2026-03",
    "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
    "scaling"
   ],
   [
@@ -83376,6 +83391,11 @@
    "2026-03",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
   ],
   [
    "2026-03",
@@ -86230,6 +86250,56 @@
   [
    "2026-03",
    "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
    "optimization"
   ],
   [
@@ -89070,6 +89140,11 @@
   [
    "2026-04",
    "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
    "robust"
   ],
   [
@@ -89406,6 +89481,11 @@
    "2026-04",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
   ],
   [
    "2026-04",
@@ -91390,6 +91470,66 @@
   [
    "2026-04",
    "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
    "optimization"
   ],
   [
@@ -94556,6 +94696,16 @@
    "2026-05",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
   ],
   [
    "2026-05",
@@ -96895,6 +97045,46 @@
   [
    "2026-05",
    "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
    "optimization"
   ],
   [
@@ -100396,6 +100586,11 @@
    "2026-06",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
   ],
   [
    "2026-06",
@@ -102300,6 +102495,36 @@
   [
    "2026-06",
    "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
    "robust"
   ],
   [
@@ -104771,6 +104996,16 @@
    "2026-07",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
   ],
   [
    "2026-07",
@@ -106020,6 +106255,11 @@
   [
    "2026-07",
    "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
    "optimization"
   ],
   [
@@ -107855,12 +108095,37 @@
   [
    "2026-08",
    "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
    "optimization"
   ],
   [
    "2026-08",
    "curriculum",
    "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
   ],
   [
    "2026-08",
@@ -108246,6 +108511,21 @@
    "2026-08",
    "rlhf-alignment",
    "algorithm"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
   ],
   [
    "2026-08",
@@ -108627,109 +108907,109 @@
  ],
  "keyword_bursts": [
   {
-   "keyword": "opponent",
-   "recent": 22,
-   "total": 27,
-   "burst_score": 1.73,
-   "recent_share": 0.0022
-  },
-  {
-   "keyword": "agentic",
-   "recent": 123,
-   "total": 156,
-   "burst_score": 1.68,
-   "recent_share": 0.0121
+   "keyword": "rlhf alignment",
+   "recent": 3,
+   "total": 3,
+   "burst_score": 2.12,
+   "recent_share": 0.0003
   },
   {
    "keyword": "world model",
    "recent": 394,
    "total": 587,
-   "burst_score": 1.43,
-   "recent_share": 0.0387
+   "burst_score": 1.42,
+   "recent_share": 0.0385
   },
   {
-   "keyword": "scalable",
-   "recent": 671,
-   "total": 1063,
-   "burst_score": 1.34,
-   "recent_share": 0.066
-  },
-  {
-   "keyword": "uncertainty",
-   "recent": 523,
-   "total": 831,
-   "burst_score": 1.34,
-   "recent_share": 0.0514
-  },
-  {
-   "keyword": "benchmark",
-   "recent": 2152,
-   "total": 3506,
-   "burst_score": 1.31,
-   "recent_share": 0.2116
-  },
-  {
-   "keyword": "teaming",
-   "recent": 16,
-   "total": 26,
-   "burst_score": 1.31,
-   "recent_share": 0.0016
-  },
-  {
-   "keyword": "hierarchical",
-   "recent": 389,
-   "total": 634,
-   "burst_score": 1.3,
-   "recent_share": 0.0382
-  },
-  {
-   "keyword": "policy",
-   "recent": 1160,
-   "total": 1907,
+   "keyword": "neurosymbolic",
+   "recent": 143,
+   "total": 235,
    "burst_score": 1.29,
-   "recent_share": 0.1141
+   "recent_share": 0.014
   },
   {
-   "keyword": "memory",
-   "recent": 512,
-   "total": 852,
-   "burst_score": 1.28,
-   "recent_share": 0.0503
+   "keyword": "reasoning",
+   "recent": 1129,
+   "total": 1914,
+   "burst_score": 1.25,
+   "recent_share": 0.1104
   },
   {
-   "keyword": "simulation",
-   "recent": 629,
-   "total": 1065,
-   "burst_score": 1.26,
-   "recent_share": 0.0618
+   "keyword": "inference",
+   "recent": 1319,
+   "total": 2268,
+   "burst_score": 1.23,
+   "recent_share": 0.129
   },
   {
-   "keyword": "decision",
-   "recent": 903,
-   "total": 1586,
+   "keyword": "discovery",
+   "recent": 442,
+   "total": 767,
+   "burst_score": 1.22,
+   "recent_share": 0.0432
+  },
+  {
+   "keyword": "alignment",
+   "recent": 937,
+   "total": 1638,
    "burst_score": 1.21,
-   "recent_share": 0.0888
+   "recent_share": 0.0916
   },
   {
-   "keyword": "planning",
-   "recent": 390,
-   "total": 685,
+   "keyword": "multi agent",
+   "recent": 8,
+   "total": 14,
    "burst_score": 1.21,
-   "recent_share": 0.0383
+   "recent_share": 0.0008
   },
   {
-   "keyword": "offline",
-   "recent": 364,
-   "total": 640,
-   "burst_score": 1.21,
-   "recent_share": 0.0358
+   "keyword": "self supervised",
+   "recent": 11,
+   "total": 20,
+   "burst_score": 1.17,
+   "recent_share": 0.0011
   },
   {
-   "keyword": "bayesian",
-   "recent": 275,
-   "total": 483,
-   "burst_score": 1.21,
-   "recent_share": 0.027
+   "keyword": "from",
+   "recent": 5068,
+   "total": 9286,
+   "burst_score": 1.16,
+   "recent_share": 0.4956
+  },
+  {
+   "keyword": "transfer",
+   "recent": 975,
+   "total": 1794,
+   "burst_score": 1.15,
+   "recent_share": 0.0953
+  },
+  {
+   "keyword": "causal",
+   "recent": 925,
+   "total": 1699,
+   "burst_score": 1.15,
+   "recent_share": 0.0905
+  },
+  {
+   "keyword": "lifelong",
+   "recent": 101,
+   "total": 187,
+   "burst_score": 1.15,
+   "recent_share": 0.0099
+  },
+  {
+   "keyword": "world",
+   "recent": 1781,
+   "total": 3299,
+   "burst_score": 1.14,
+   "recent_share": 0.1742
+  },
+  {
+   "keyword": "symbolic",
+   "recent": 456,
+   "total": 853,
+   "burst_score": 1.13,
+   "recent_share": 0.0446
   }
  ]
 }
