@@ -1,6 +1,44 @@
 {
-  "count": 15,
+  "count": 35,
   "concepts": [
+    {
+      "term": "framework",
+      "kind": "curated",
+      "seed": true,
+      "df": 6851,
+      "match": {
+        "type": "text",
+        "forms": [
+          "framework"
+        ]
+      },
+      "papers": 6851,
+      "top_cells": [
+        "diffusion/algorithm",
+        "supervised/algorithm",
+        "causal/algorithm",
+        "federated/algorithm"
+      ]
+    },
+    {
+      "term": "dataset",
+      "kind": "curated",
+      "seed": true,
+      "df": 2040,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dataset"
+        ]
+      },
+      "papers": 2040,
+      "top_cells": [
+        "supervised/algorithm",
+        "causal/algorithm",
+        "rlhf-alignment/algorithm",
+        "diffusion/algorithm"
+      ]
+    },
     {
       "term": "Diffusion",
       "kind": "taxonomy",
@@ -18,6 +56,25 @@
         "diffusion/application"
       ],
       "papers": 1916
+    },
+    {
+      "term": "benchmark",
+      "kind": "curated",
+      "seed": true,
+      "df": 1632,
+      "match": {
+        "type": "text",
+        "forms": [
+          "benchmark"
+        ]
+      },
+      "papers": 1632,
+      "top_cells": [
+        "supervised/algorithm",
+        "causal/algorithm",
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
     },
     {
       "term": "Causal",
@@ -218,6 +275,25 @@
       "papers": 728
     },
     {
+      "term": "survey",
+      "kind": "curated",
+      "seed": true,
+      "df": 599,
+      "match": {
+        "type": "text",
+        "forms": [
+          "survey"
+        ]
+      },
+      "papers": 599,
+      "top_cells": [
+        "federated/theory",
+        "supervised/theory",
+        "transfer/review",
+        "reasoning/theory"
+      ]
+    },
+    {
       "term": "Multi Agent",
       "kind": "taxonomy",
       "seed": true,
@@ -234,6 +310,283 @@
         "multi-agent/review"
       ],
       "papers": 455
+    },
+    {
+      "term": "quantitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 206,
+      "match": {
+        "type": "text",
+        "forms": [
+          "quantitative"
+        ]
+      },
+      "papers": 206,
+      "top_cells": [
+        "diffusion/algorithm",
+        "causal/algorithm",
+        "supervised/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "experiment",
+      "kind": "curated",
+      "seed": true,
+      "df": 175,
+      "match": {
+        "type": "text",
+        "forms": [
+          "experiment"
+        ]
+      },
+      "papers": 175,
+      "top_cells": [
+        "causal/algorithm",
+        "supervised/algorithm",
+        "federated/algorithm",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "case study",
+      "kind": "curated",
+      "seed": true,
+      "df": 173,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case study"
+        ]
+      },
+      "papers": 173,
+      "top_cells": [
+        "causal/algorithm",
+        "supervised/algorithm",
+        "reinforcement/algorithm",
+        "neurosymbolic/algorithm"
+      ]
+    },
+    {
+      "term": "qualitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 137,
+      "match": {
+        "type": "text",
+        "forms": [
+          "qualitative"
+        ]
+      },
+      "papers": 137,
+      "top_cells": [
+        "diffusion/algorithm",
+        "rlhf-alignment/algorithm",
+        "supervised/theory",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "taxonomy",
+      "kind": "curated",
+      "seed": true,
+      "df": 126,
+      "match": {
+        "type": "text",
+        "forms": [
+          "taxonomy"
+        ]
+      },
+      "papers": 126,
+      "top_cells": [
+        "federated/algorithm",
+        "neurosymbolic/algorithm",
+        "federated/theory",
+        "rlhf-alignment/algorithm"
+      ]
+    },
+    {
+      "term": "reproducibility",
+      "kind": "curated",
+      "seed": true,
+      "df": 87,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reproducibility"
+        ]
+      },
+      "papers": 87,
+      "top_cells": [
+        "causal/algorithm",
+        "transfer/algorithm",
+        "world-model/algorithm",
+        "supervised/theory"
+      ]
+    },
+    {
+      "term": "systematic review",
+      "kind": "curated",
+      "seed": true,
+      "df": 74,
+      "match": {
+        "type": "text",
+        "forms": [
+          "systematic review"
+        ]
+      },
+      "papers": 74,
+      "top_cells": [
+        "online/theory",
+        "federated/algorithm",
+        "neurosymbolic/algorithm",
+        "causal/algorithm"
+      ]
+    },
+    {
+      "term": "literature review",
+      "kind": "curated",
+      "seed": true,
+      "df": 38,
+      "match": {
+        "type": "text",
+        "forms": [
+          "literature review"
+        ]
+      },
+      "papers": 38,
+      "top_cells": [
+        "online/theory",
+        "supervised/algorithm",
+        "online/algorithm",
+        "retrieval-augmented/theory"
+      ]
+    },
+    {
+      "term": "research gap",
+      "kind": "curated",
+      "seed": true,
+      "df": 15,
+      "match": {
+        "type": "text",
+        "forms": [
+          "research gap"
+        ]
+      },
+      "papers": 15,
+      "top_cells": [
+        "supervised/algorithm",
+        "supervised/architecture",
+        "unsupervised/algorithm",
+        "reinforcement/algorithm"
+      ]
+    },
+    {
+      "term": "interview",
+      "kind": "curated",
+      "seed": true,
+      "df": 4,
+      "match": {
+        "type": "text",
+        "forms": [
+          "interview"
+        ]
+      },
+      "papers": 4,
+      "top_cells": [
+        "self-supervised/architecture",
+        "supervised/architecture",
+        "active/theory",
+        "curriculum/theory"
+      ]
+    },
+    {
+      "term": "peer review",
+      "kind": "curated",
+      "seed": true,
+      "df": 4,
+      "match": {
+        "type": "text",
+        "forms": [
+          "peer review"
+        ]
+      },
+      "papers": 4,
+      "top_cells": [
+        "active/algorithm",
+        "curriculum/algorithm",
+        "online/theory",
+        "rlhf-alignment/method"
+      ]
+    },
+    {
+      "term": "open access",
+      "kind": "curated",
+      "seed": true,
+      "df": 3,
+      "match": {
+        "type": "text",
+        "forms": [
+          "open access"
+        ]
+      },
+      "papers": 3,
+      "top_cells": [
+        "active/scaling",
+        "causal/algorithm",
+        "world-model/scaling"
+      ]
+    },
+    {
+      "term": "mixed methods",
+      "kind": "curated",
+      "seed": true,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "mixed methods"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "reasoning/theory",
+        "curriculum/algorithm"
+      ]
+    },
+    {
+      "term": "triangulation",
+      "kind": "curated",
+      "seed": true,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "triangulation"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "causal/algorithm",
+        "supervised/algorithm"
+      ]
+    },
+    {
+      "term": "grounded theory",
+      "kind": "curated",
+      "seed": true,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "grounded theory"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "active/algorithm"
+      ]
     },
     {
       "term": "Survey",
@@ -260,6 +613,20 @@
       },
       "top_cells": [],
       "papers": 0
+    },
+    {
+      "term": "meta analysis",
+      "kind": "curated",
+      "seed": true,
+      "df": 0,
+      "match": {
+        "type": "text",
+        "forms": [
+          "meta analysis"
+        ]
+      },
+      "papers": 0,
+      "top_cells": []
     }
   ]
 }
