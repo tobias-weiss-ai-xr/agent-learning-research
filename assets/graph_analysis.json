@@ -22,7 +22,7 @@
   {
    "id": "active",
    "name": "Active",
-   "count": 728,
+   "count": 1004,
    "trajectory": {
     "2004": 1,
     "2009": 1,
@@ -35,48 +35,48 @@
     "2023": 49,
     "2024": 140,
     "2025": 237,
-    "2026": 190
+    "2026": 466
    },
    "momentum": {
     "id": "active",
     "name": "Active",
-    "total": 728,
-    "recent": 288,
+    "total": 1004,
+    "recent": 564,
     "prior": 240,
-    "growth_pct": 20.0,
-    "recent_share": 0.396,
-    "papers_per_month": 24.0,
-    "score": 59.6
+    "growth_pct": 135.0,
+    "recent_share": 0.562,
+    "papers_per_month": 47.0,
+    "score": 191.2
    }
   },
   {
    "id": "causal",
    "name": "Causal",
-   "count": 1545,
+   "count": 1645,
    "trajectory": {
     "2021": 8,
     "2022": 42,
     "2023": 38,
     "2024": 276,
     "2025": 661,
-    "2026": 519
+    "2026": 619
    },
    "momentum": {
     "id": "causal",
     "name": "Causal",
-    "total": 1545,
-    "recent": 809,
+    "total": 1645,
+    "recent": 909,
     "prior": 586,
-    "growth_pct": 38.1,
-    "recent_share": 0.524,
-    "papers_per_month": 67.4,
-    "score": 90.5
+    "growth_pct": 55.1,
+    "recent_share": 0.553,
+    "papers_per_month": 75.8,
+    "score": 110.4
    }
   },
   {
    "id": "continual",
    "name": "Continual",
-   "count": 880,
+   "count": 1038,
    "trajectory": {
     "1995": 1,
     "2017": 1,
@@ -87,24 +87,24 @@
     "2023": 47,
     "2024": 149,
     "2025": 311,
-    "2026": 296
+    "2026": 454
    },
    "momentum": {
     "id": "continual",
     "name": "Continual",
-    "total": 880,
-    "recent": 419,
+    "total": 1038,
+    "recent": 577,
     "prior": 303,
-    "growth_pct": 38.3,
-    "recent_share": 0.476,
-    "papers_per_month": 34.9,
-    "score": 85.9
+    "growth_pct": 90.4,
+    "recent_share": 0.556,
+    "papers_per_month": 48.1,
+    "score": 146.0
    }
   },
   {
    "id": "curriculum",
    "name": "Curriculum",
-   "count": 785,
+   "count": 1108,
    "trajectory": {
     "2019": 1,
     "2020": 4,
@@ -113,24 +113,24 @@
     "2023": 58,
     "2024": 136,
     "2025": 277,
-    "2026": 218
+    "2026": 541
    },
    "momentum": {
     "id": "curriculum",
     "name": "Curriculum",
-    "total": 785,
-    "recent": 335,
+    "total": 1108,
+    "recent": 658,
     "prior": 258,
-    "growth_pct": 29.8,
-    "recent_share": 0.427,
-    "papers_per_month": 27.9,
-    "score": 72.5
+    "growth_pct": 155.0,
+    "recent_share": 0.594,
+    "papers_per_month": 54.8,
+    "score": 214.4
    }
   },
   {
    "id": "diffusion",
    "name": "Diffusion",
-   "count": 1916,
+   "count": 2261,
    "trajectory": {
     "1991": 1,
     "2005": 1,
@@ -141,24 +141,24 @@
     "2023": 54,
     "2024": 428,
     "2025": 806,
-    "2026": 596
+    "2026": 941
    },
    "momentum": {
     "id": "diffusion",
     "name": "Diffusion",
-    "total": 1916,
-    "recent": 926,
+    "total": 2261,
+    "recent": 1271,
     "prior": 827,
-    "growth_pct": 12.0,
-    "recent_share": 0.483,
-    "papers_per_month": 77.2,
-    "score": 60.3
+    "growth_pct": 53.7,
+    "recent_share": 0.562,
+    "papers_per_month": 105.9,
+    "score": 109.9
    }
   },
   {
    "id": "federated",
    "name": "Federated",
-   "count": 1382,
+   "count": 1627,
    "trajectory": {
     "2019": 1,
     "2020": 5,
@@ -167,18 +167,18 @@
     "2023": 47,
     "2024": 294,
     "2025": 557,
-    "2026": 352
+    "2026": 597
    },
    "momentum": {
     "id": "federated",
     "name": "Federated",
-    "total": 1382,
-    "recent": 577,
+    "total": 1627,
+    "recent": 822,
     "prior": 565,
-    "growth_pct": 2.1,
-    "recent_share": 0.418,
-    "papers_per_month": 48.1,
-    "score": 43.9
+    "growth_pct": 45.5,
+    "recent_share": 0.505,
+    "papers_per_month": 68.5,
+    "score": 96.0
    }
   },
   {
@@ -208,7 +208,7 @@
   {
    "id": "meta-learning",
    "name": "Meta Learning",
-   "count": 843,
+   "count": 1050,
    "trajectory": {
     "2020": 1,
     "2021": 18,
@@ -216,24 +216,24 @@
     "2023": 59,
     "2024": 207,
     "2025": 287,
-    "2026": 209
+    "2026": 416
    },
    "momentum": {
     "id": "meta-learning",
     "name": "Meta Learning",
-    "total": 843,
-    "recent": 315,
+    "total": 1050,
+    "recent": 522,
     "prior": 336,
-    "growth_pct": -6.2,
-    "recent_share": 0.374,
-    "papers_per_month": 26.2,
-    "score": 31.2
+    "growth_pct": 55.4,
+    "recent_share": 0.497,
+    "papers_per_month": 43.5,
+    "score": 105.1
    }
   },
   {
    "id": "multi-agent",
    "name": "Multi Agent",
-   "count": 455,
+   "count": 611,
    "trajectory": {
     "1991": 1,
     "2019": 1,
@@ -242,18 +242,18 @@
     "2023": 50,
     "2024": 92,
     "2025": 174,
-    "2026": 76
+    "2026": 232
    },
    "momentum": {
     "id": "multi-agent",
     "name": "Multi Agent",
-    "total": 455,
-    "recent": 150,
+    "total": 611,
+    "recent": 306,
     "prior": 160,
-    "growth_pct": -6.2,
-    "recent_share": 0.33,
-    "papers_per_month": 12.5,
-    "score": 26.8
+    "growth_pct": 91.2,
+    "recent_share": 0.501,
+    "papers_per_month": 25.5,
+    "score": 141.3
    }
   },
   {
@@ -283,7 +283,7 @@
   {
    "id": "neurosymbolic",
    "name": "Neurosymbolic",
-   "count": 858,
+   "count": 961,
    "trajectory": {
     "2007": 1,
     "2019": 1,
@@ -293,18 +293,18 @@
     "2023": 38,
     "2024": 149,
     "2025": 346,
-    "2026": 273
+    "2026": 376
    },
    "momentum": {
     "id": "neurosymbolic",
     "name": "Neurosymbolic",
-    "total": 858,
-    "recent": 423,
+    "total": 961,
+    "recent": 526,
     "prior": 294,
-    "growth_pct": 43.9,
-    "recent_share": 0.493,
-    "papers_per_month": 35.2,
-    "score": 93.2
+    "growth_pct": 78.9,
+    "recent_share": 0.547,
+    "papers_per_month": 43.8,
+    "score": 133.6
    }
   },
   {
@@ -427,7 +427,7 @@
   {
    "id": "rlhf-alignment",
    "name": "Rlhf Alignment",
-   "count": 1290,
+   "count": 1495,
    "trajectory": {
     "2020": 2,
     "2021": 1,
@@ -435,42 +435,42 @@
     "2023": 48,
     "2024": 292,
     "2025": 522,
-    "2026": 415
+    "2026": 620
    },
    "momentum": {
     "id": "rlhf-alignment",
     "name": "Rlhf Alignment",
-    "total": 1290,
-    "recent": 595,
+    "total": 1495,
+    "recent": 800,
     "prior": 553,
-    "growth_pct": 7.6,
-    "recent_share": 0.461,
-    "papers_per_month": 49.6,
-    "score": 53.7
+    "growth_pct": 44.7,
+    "recent_share": 0.535,
+    "papers_per_month": 66.7,
+    "score": 98.2
    }
   },
   {
    "id": "self-supervised",
    "name": "Self Supervised",
-   "count": 813,
+   "count": 913,
    "trajectory": {
     "2021": 15,
     "2022": 72,
     "2023": 48,
     "2024": 198,
     "2025": 288,
-    "2026": 192
+    "2026": 292
    },
    "momentum": {
     "id": "self-supervised",
     "name": "Self Supervised",
-    "total": 813,
-    "recent": 286,
+    "total": 913,
+    "recent": 386,
     "prior": 351,
-    "growth_pct": -18.5,
-    "recent_share": 0.352,
-    "papers_per_month": 23.8,
-    "score": 16.7
+    "growth_pct": 10.0,
+    "recent_share": 0.423,
+    "papers_per_month": 32.2,
+    "score": 52.3
    }
   },
   {
@@ -500,7 +500,7 @@
   {
    "id": "transfer",
    "name": "Transfer",
-   "count": 1223,
+   "count": 1466,
    "trajectory": {
     "2012": 1,
     "2017": 2,
@@ -509,18 +509,18 @@
     "2023": 44,
     "2024": 224,
     "2025": 424,
-    "2026": 424
+    "2026": 667
    },
    "momentum": {
     "id": "transfer",
     "name": "Transfer",
-    "total": 1223,
-    "recent": 602,
+    "total": 1466,
+    "recent": 845,
     "prior": 420,
-    "growth_pct": 43.3,
-    "recent_share": 0.492,
-    "papers_per_month": 50.2,
-    "score": 92.5
+    "growth_pct": 101.2,
+    "recent_share": 0.576,
+    "papers_per_month": 70.4,
+    "score": 158.8
    }
   },
   {
@@ -550,7 +550,7 @@
   {
    "id": "world-model",
    "name": "World Model",
-   "count": 1254,
+   "count": 1427,
    "trajectory": {
     "2017": 1,
     "2020": 2,
@@ -559,18 +559,18 @@
     "2023": 64,
     "2024": 229,
     "2025": 422,
-    "2026": 468
+    "2026": 641
    },
    "momentum": {
     "id": "world-model",
     "name": "World Model",
-    "total": 1254,
-    "recent": 659,
+    "total": 1427,
+    "recent": 832,
     "prior": 422,
-    "growth_pct": 56.2,
-    "recent_share": 0.526,
-    "papers_per_month": 54.9,
-    "score": 108.8
+    "growth_pct": 97.2,
+    "recent_share": 0.583,
+    "papers_per_month": 69.3,
+    "score": 155.5
    }
   }
  ],
@@ -588,7 +588,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 464
+   "count": 557
   },
   {
    "id": "architecture",
@@ -596,9 +596,24 @@
    "count": 1375
   },
   {
+   "id": "development",
+   "name": "Development",
+   "count": 22
+  },
+  {
    "id": "efficient",
    "name": "efficient",
    "count": 265
+  },
+  {
+   "id": "evaluation",
+   "name": "evaluation",
+   "count": 49
+  },
+  {
+   "id": "experiment",
+   "name": "Experiment",
+   "count": 7
   },
   {
    "id": "mechanism",
@@ -608,7 +623,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 191
+   "count": 1635
   },
   {
    "id": "optimization",
@@ -631,9 +646,19 @@
    "count": 250
   },
   {
+   "id": "survey",
+   "name": "Survey",
+   "count": 109
+  },
+  {
+   "id": "systems",
+   "name": "Systems",
+   "count": 70
+  },
+  {
    "id": "theory",
    "name": "Theory",
-   "count": 5078
+   "count": 5918
   }
  ],
  "timeline": [
@@ -77460,7 +77485,27 @@
   [
    "2026-02",
    "active",
+   "application"
+  ],
+  [
+   "2026-02",
+   "active",
+   "method"
+  ],
+  [
+   "2026-02",
+   "active",
+   "method"
+  ],
+  [
+   "2026-02",
+   "active",
    "optimization"
+  ],
+  [
+   "2026-02",
+   "active",
+   "theory"
   ],
   [
    "2026-02",
@@ -78069,8 +78114,8 @@
   ],
   [
    "2026-02",
-   "curriculum",
-   "algorithm"
+   "continual",
+   "theory"
   ],
   [
    "2026-02",
@@ -78166,6 +78211,16 @@
    "2026-02",
    "curriculum",
    "algorithm"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "algorithm"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "application"
   ],
   [
    "2026-02",
@@ -78175,7 +78230,52 @@
   [
    "2026-02",
    "curriculum",
-   "theory"
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-02",
+   "curriculum",
+   "systems"
   ],
   [
    "2026-02",
@@ -78204,8 +78304,8 @@
   ],
   [
    "2026-02",
-   "diffusion",
-   "algorithm"
+   "curriculum",
+   "theory"
   ],
   [
    "2026-02",
@@ -78441,6 +78541,16 @@
    "2026-02",
    "diffusion",
    "algorithm"
+  ],
+  [
+   "2026-02",
+   "diffusion",
+   "algorithm"
+  ],
+  [
+   "2026-02",
+   "diffusion",
+   "application"
   ],
   [
    "2026-02",
@@ -78476,6 +78586,21 @@
    "2026-02",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-02",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "diffusion",
+   "method"
   ],
   [
    "2026-02",
@@ -78491,6 +78616,11 @@
    "2026-02",
    "diffusion",
    "robust"
+  ],
+  [
+   "2026-02",
+   "diffusion",
+   "theory"
   ],
   [
    "2026-02",
@@ -78780,6 +78910,21 @@
   [
    "2026-02",
    "federated",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated",
    "optimization"
   ],
   [
@@ -78806,6 +78951,16 @@
    "2026-02",
    "federated",
    "robust"
+  ],
+  [
+   "2026-02",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "federated",
+   "theory"
   ],
   [
    "2026-02",
@@ -79116,6 +79271,16 @@
    "2026-02",
    "multi-agent",
    "architecture"
+  ],
+  [
+   "2026-02",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "multi-agent",
+   "theory"
   ],
   [
    "2026-02",
@@ -80270,6 +80435,11 @@
   [
    "2026-02",
    "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rlhf-alignment",
    "robust"
   ],
   [
@@ -80309,6 +80479,11 @@
   ],
   [
    "2026-02",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-02",
    "self-supervised",
    "algorithm"
   ],
@@ -80386,6 +80561,21 @@
    "2026-02",
    "self-supervised",
    "efficient"
+  ],
+  [
+   "2026-02",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-02",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-02",
+   "self-supervised",
+   "theory"
   ],
   [
    "2026-02",
@@ -81125,6 +81315,11 @@
   [
    "2026-02",
    "transfer",
+   "application"
+  ],
+  [
+   "2026-02",
+   "transfer",
    "architecture"
   ],
   [
@@ -81190,7 +81385,27 @@
   [
    "2026-02",
    "transfer",
+   "evaluation"
+  ],
+  [
+   "2026-02",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-02",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-02",
+   "transfer",
    "robust"
+  ],
+  [
+   "2026-02",
+   "transfer",
+   "theory"
   ],
   [
    "2026-02",
@@ -81701,6 +81916,11 @@
    "2026-02",
    "world-model",
    "architecture"
+  ],
+  [
+   "2026-02",
+   "world-model",
+   "method"
   ],
   [
    "2026-02",
@@ -81900,7 +82120,32 @@
   [
    "2026-03",
    "active",
+   "application"
+  ],
+  [
+   "2026-03",
+   "active",
+   "application"
+  ],
+  [
+   "2026-03",
+   "active",
+   "application"
+  ],
+  [
+   "2026-03",
+   "active",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "active",
+   "development"
+  ],
+  [
+   "2026-03",
+   "active",
+   "development"
   ],
   [
    "2026-03",
@@ -81910,6 +82155,211 @@
   [
    "2026-03",
    "active",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
+   "method"
+  ],
+  [
+   "2026-03",
+   "active",
    "optimization"
   ],
   [
@@ -81936,6 +82386,141 @@
    "2026-03",
    "active",
    "scaling"
+  ],
+  [
+   "2026-03",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "active",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "active",
+   "theory"
   ],
   [
    "2026-03",
@@ -82355,6 +82940,66 @@
   [
    "2026-03",
    "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-03",
+   "causal",
    "robust"
   ],
   [
@@ -82375,6 +83020,36 @@
   [
    "2026-03",
    "causal",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "causal",
    "theory"
   ],
   [
@@ -82681,6 +83356,96 @@
    "2026-03",
    "continual",
    "efficient"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "method"
   ],
   [
    "2026-03",
@@ -82705,7 +83470,12 @@
   [
    "2026-03",
    "continual",
-   "theory"
+   "survey"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "systems"
   ],
   [
    "2026-03",
@@ -82769,8 +83539,43 @@
   ],
   [
    "2026-03",
-   "curriculum",
-   "algorithm"
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "continual",
+   "theory"
   ],
   [
    "2026-03",
@@ -82901,6 +83706,21 @@
    "2026-03",
    "curriculum",
    "algorithm"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "algorithm"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "application"
   ],
   [
    "2026-03",
@@ -82911,6 +83731,191 @@
    "2026-03",
    "curriculum",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "experiment"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "method"
   ],
   [
    "2026-03",
@@ -82925,6 +83930,156 @@
   [
    "2026-03",
    "curriculum",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "curriculum",
    "theory"
   ],
   [
@@ -83350,7 +84505,7 @@
   [
    "2026-03",
    "diffusion",
-   "architecture"
+   "application"
   ],
   [
    "2026-03",
@@ -83386,11 +84541,276 @@
    "2026-03",
    "diffusion",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "architecture"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "development"
   ],
   [
    "2026-03",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "method"
   ],
   [
    "2026-03",
@@ -83410,7 +84830,27 @@
   [
    "2026-03",
    "diffusion",
-   "theory"
+   "survey"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "systems"
   ],
   [
    "2026-03",
@@ -83619,8 +85059,178 @@
   ],
   [
    "2026-03",
-   "federated",
-   "algorithm"
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "diffusion",
+   "theory"
   ],
   [
    "2026-03",
@@ -83851,6 +85461,26 @@
    "2026-03",
    "federated",
    "algorithm"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "algorithm"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "application"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "application"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "application"
   ],
   [
    "2026-03",
@@ -83866,6 +85496,256 @@
    "2026-03",
    "federated",
    "efficient"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "method"
   ],
   [
    "2026-03",
@@ -83896,6 +85776,106 @@
    "2026-03",
    "federated",
    "robust"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "federated",
+   "theory"
   ],
   [
    "2026-03",
@@ -84245,7 +86225,12 @@
   [
    "2026-03",
    "meta-learning",
-   "architecture"
+   "application"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "application"
   ],
   [
    "2026-03",
@@ -84256,6 +86241,96 @@
    "2026-03",
    "meta-learning",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "experiment"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "method"
   ],
   [
    "2026-03",
@@ -84265,6 +86340,101 @@
   [
    "2026-03",
    "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "meta-learning",
    "theory"
   ],
   [
@@ -84346,6 +86516,141 @@
    "2026-03",
    "multi-agent",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent",
+   "theory"
   ],
   [
    "2026-03",
@@ -84641,6 +86946,61 @@
    "2026-03",
    "neurosymbolic",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "method"
   ],
   [
    "2026-03",
@@ -84675,6 +87035,41 @@
   [
    "2026-03",
    "neurosymbolic",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "neurosymbolic",
    "theory"
   ],
   [
@@ -86240,12 +88635,112 @@
   [
    "2026-03",
    "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
    "architecture"
   ],
   [
    "2026-03",
    "rlhf-alignment",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "method"
   ],
   [
    "2026-03",
@@ -86316,6 +88811,101 @@
    "2026-03",
    "rlhf-alignment",
    "scaling"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rlhf-alignment",
+   "theory"
   ],
   [
    "2026-03",
@@ -86495,12 +89085,87 @@
   [
    "2026-03",
    "self-supervised",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
    "scaling"
   ],
   [
    "2026-03",
    "self-supervised",
    "scaling"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "self-supervised",
+   "theory"
   ],
   [
    "2026-03",
@@ -87555,6 +90220,11 @@
   [
    "2026-03",
    "transfer",
+   "application"
+  ],
+  [
+   "2026-03",
+   "transfer",
    "architecture"
   ],
   [
@@ -87611,6 +90281,186 @@
    "2026-03",
    "transfer",
    "efficient"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "method"
   ],
   [
    "2026-03",
@@ -87631,6 +90481,91 @@
    "2026-03",
    "transfer",
    "scaling"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "transfer",
+   "theory"
   ],
   [
    "2026-03",
@@ -88285,7 +91220,7 @@
   [
    "2026-03",
    "world-model",
-   "architecture"
+   "application"
   ],
   [
    "2026-03",
@@ -88311,6 +91246,16 @@
    "2026-03",
    "world-model",
    "architecture"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "architecture"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "development"
   ],
   [
    "2026-03",
@@ -88321,11 +91266,191 @@
    "2026-03",
    "world-model",
    "efficient"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "method"
   ],
   [
    "2026-03",
    "world-model",
    "robust"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "world-model",
+   "theory"
   ],
   [
    "2026-03",
@@ -88540,6 +91665,11 @@
   [
    "2026-04",
    "active",
+   "application"
+  ],
+  [
+   "2026-04",
+   "active",
    "architecture"
   ],
   [
@@ -88560,12 +91690,297 @@
   [
    "2026-04",
    "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
+   "method"
+  ],
+  [
+   "2026-04",
+   "active",
    "optimization"
   ],
   [
    "2026-04",
    "active",
    "optimization"
+  ],
+  [
+   "2026-04",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "active",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "active",
+   "theory"
   ],
   [
    "2026-04",
@@ -88770,7 +92185,52 @@
   [
    "2026-04",
    "causal",
-   "robust"
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "method"
   ],
   [
    "2026-04",
@@ -88780,7 +92240,12 @@
   [
    "2026-04",
    "causal",
-   "theory"
+   "robust"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "systems"
   ],
   [
    "2026-04",
@@ -88864,8 +92329,38 @@
   ],
   [
    "2026-04",
-   "continual",
-   "algorithm"
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "causal",
+   "theory"
   ],
   [
    "2026-04",
@@ -88996,6 +92491,21 @@
    "2026-04",
    "continual",
    "algorithm"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "application"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "development"
   ],
   [
    "2026-04",
@@ -89010,11 +92520,111 @@
   [
    "2026-04",
    "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-04",
+   "continual",
    "robust"
   ],
   [
    "2026-04",
    "continual",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "continual",
    "theory"
   ],
   [
@@ -89044,8 +92654,8 @@
   ],
   [
    "2026-04",
-   "curriculum",
-   "algorithm"
+   "continual",
+   "theory"
   ],
   [
    "2026-04",
@@ -89131,11 +92741,276 @@
    "2026-04",
    "curriculum",
    "algorithm"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "algorithm"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "application"
   ],
   [
    "2026-04",
    "curriculum",
    "efficient"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "experiment"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "method"
   ],
   [
    "2026-04",
@@ -89155,6 +93030,86 @@
   [
    "2026-04",
    "curriculum",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
    "theory"
   ],
   [
@@ -89209,8 +93164,33 @@
   ],
   [
    "2026-04",
-   "diffusion",
-   "algorithm"
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "curriculum",
+   "theory"
   ],
   [
    "2026-04",
@@ -89441,6 +93421,21 @@
    "2026-04",
    "diffusion",
    "algorithm"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "algorithm"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "application"
   ],
   [
    "2026-04",
@@ -89476,11 +93471,196 @@
    "2026-04",
    "diffusion",
    "architecture"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "development"
   ],
   [
    "2026-04",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "method"
   ],
   [
    "2026-04",
@@ -89495,6 +93675,76 @@
   [
    "2026-04",
    "diffusion",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
    "theory"
   ],
   [
@@ -89559,8 +93809,93 @@
   ],
   [
    "2026-04",
-   "federated",
-   "algorithm"
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "diffusion",
+   "theory"
   ],
   [
    "2026-04",
@@ -89691,6 +94026,26 @@
    "2026-04",
    "federated",
    "algorithm"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "algorithm"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "application"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "application"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "application"
   ],
   [
    "2026-04",
@@ -89721,11 +94076,301 @@
    "2026-04",
    "federated",
    "efficient"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "method"
   ],
   [
    "2026-04",
    "federated",
    "robust"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated",
+   "theory"
   ],
   [
    "2026-04",
@@ -89890,7 +94535,7 @@
   [
    "2026-04",
    "meta-learning",
-   "architecture"
+   "application"
   ],
   [
    "2026-04",
@@ -89900,7 +94545,7 @@
   [
    "2026-04",
    "meta-learning",
-   "efficient"
+   "architecture"
   ],
   [
    "2026-04",
@@ -89911,6 +94556,96 @@
    "2026-04",
    "meta-learning",
    "efficient"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "efficient"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "method"
   ],
   [
    "2026-04",
@@ -89925,6 +94660,101 @@
   [
    "2026-04",
    "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "meta-learning",
    "theory"
   ],
   [
@@ -89981,11 +94811,161 @@
    "2026-04",
    "multi-agent",
    "application"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "application"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "application"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "method"
   ],
   [
    "2026-04",
    "multi-agent",
    "robust"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent",
+   "theory"
   ],
   [
    "2026-04",
@@ -90261,6 +95241,71 @@
    "2026-04",
    "neurosymbolic",
    "architecture"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "development"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "method"
   ],
   [
    "2026-04",
@@ -90309,6 +95354,31 @@
   ],
   [
    "2026-04",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-04",
    "online",
    "algorithm"
   ],
@@ -91455,7 +96525,17 @@
   [
    "2026-04",
    "rlhf-alignment",
-   "architecture"
+   "application"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "application"
   ],
   [
    "2026-04",
@@ -91466,6 +96546,86 @@
    "2026-04",
    "rlhf-alignment",
    "architecture"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "architecture"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "method"
   ],
   [
    "2026-04",
@@ -91550,7 +96710,17 @@
   [
    "2026-04",
    "rlhf-alignment",
-   "theory"
+   "survey"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "systems"
   ],
   [
    "2026-04",
@@ -91604,8 +96774,38 @@
   ],
   [
    "2026-04",
-   "self-supervised",
-   "algorithm"
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rlhf-alignment",
+   "theory"
   ],
   [
    "2026-04",
@@ -91666,6 +96866,16 @@
    "2026-04",
    "self-supervised",
    "algorithm"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "algorithm"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "application"
   ],
   [
    "2026-04",
@@ -91681,6 +96891,66 @@
    "2026-04",
    "self-supervised",
    "architecture"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "method"
   ],
   [
    "2026-04",
@@ -91696,6 +96966,41 @@
    "2026-04",
    "self-supervised",
    "scaling"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "self-supervised",
+   "theory"
   ],
   [
    "2026-04",
@@ -92435,6 +97740,21 @@
   [
    "2026-04",
    "transfer",
+   "application"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "application"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "application"
+  ],
+  [
+   "2026-04",
+   "transfer",
    "architecture"
   ],
   [
@@ -92470,6 +97790,131 @@
   [
    "2026-04",
    "transfer",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-04",
+   "transfer",
    "robust"
   ],
   [
@@ -92511,6 +97956,96 @@
    "2026-04",
    "transfer",
    "scaling"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "transfer",
+   "theory"
   ],
   [
    "2026-04",
@@ -92965,6 +98500,16 @@
   [
    "2026-04",
    "world-model",
+   "application"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "application"
+  ],
+  [
+   "2026-04",
+   "world-model",
    "architecture"
   ],
   [
@@ -92985,7 +98530,142 @@
   [
    "2026-04",
    "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-04",
+   "world-model",
    "robust"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "world-model",
+   "theory"
   ],
   [
    "2026-04",
@@ -93180,7 +98860,182 @@
   [
    "2026-05",
    "active",
+   "application"
+  ],
+  [
+   "2026-05",
+   "active",
+   "application"
+  ],
+  [
+   "2026-05",
+   "active",
    "architecture"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
+  ],
+  [
+   "2026-05",
+   "active",
+   "method"
   ],
   [
    "2026-05",
@@ -93200,6 +99055,136 @@
   [
    "2026-05",
    "active",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "active",
    "theory"
   ],
   [
@@ -93605,6 +99590,11 @@
   [
    "2026-05",
    "causal",
+   "application"
+  ],
+  [
+   "2026-05",
+   "causal",
    "architecture"
   ],
   [
@@ -93641,6 +99631,36 @@
    "2026-05",
    "causal",
    "efficient"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "method"
   ],
   [
    "2026-05",
@@ -93660,6 +99680,51 @@
   [
    "2026-05",
    "causal",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "causal",
    "theory"
   ],
   [
@@ -93915,6 +99980,11 @@
   [
    "2026-05",
    "continual",
+   "application"
+  ],
+  [
+   "2026-05",
+   "continual",
    "architecture"
   ],
   [
@@ -93936,6 +100006,46 @@
    "2026-05",
    "continual",
    "efficient"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "method"
   ],
   [
    "2026-05",
@@ -93945,7 +100055,7 @@
   [
    "2026-05",
    "continual",
-   "theory"
+   "survey"
   ],
   [
    "2026-05",
@@ -94019,8 +100129,53 @@
   ],
   [
    "2026-05",
-   "curriculum",
-   "algorithm"
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "continual",
+   "theory"
   ],
   [
    "2026-05",
@@ -94146,11 +100301,161 @@
    "2026-05",
    "curriculum",
    "algorithm"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "algorithm"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "application"
   ],
   [
    "2026-05",
    "curriculum",
    "architecture"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "method"
   ],
   [
    "2026-05",
@@ -94171,6 +100476,81 @@
    "2026-05",
    "curriculum",
    "robust"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "curriculum",
+   "theory"
   ],
   [
    "2026-05",
@@ -94620,6 +101000,16 @@
   [
    "2026-05",
    "diffusion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "diffusion",
    "architecture"
   ],
   [
@@ -94696,6 +101086,16 @@
    "2026-05",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "experiment"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "experiment"
   ],
   [
    "2026-05",
@@ -94710,7 +101110,287 @@
   [
    "2026-05",
    "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "diffusion",
    "robust"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "diffusion",
+   "theory"
   ],
   [
    "2026-05",
@@ -95040,7 +101720,142 @@
   [
    "2026-05",
    "federated",
-   "robust"
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "method"
   ],
   [
    "2026-05",
@@ -95051,6 +101866,71 @@
    "2026-05",
    "federated",
    "robust"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "robust"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated",
+   "theory"
   ],
   [
    "2026-05",
@@ -95251,6 +102131,61 @@
    "2026-05",
    "meta-learning",
    "efficient"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "method"
   ],
   [
    "2026-05",
@@ -95270,6 +102205,51 @@
   [
    "2026-05",
    "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "meta-learning",
    "theory"
   ],
   [
@@ -95366,6 +102346,76 @@
    "2026-05",
    "multi-agent",
    "application"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "method"
   ],
   [
    "2026-05",
@@ -95380,6 +102430,81 @@
   [
    "2026-05",
    "multi-agent",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent",
    "theory"
   ],
   [
@@ -95660,7 +102785,7 @@
   [
    "2026-05",
    "neurosymbolic",
-   "architecture"
+   "application"
   ],
   [
    "2026-05",
@@ -95671,11 +102796,91 @@
    "2026-05",
    "neurosymbolic",
    "architecture"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "architecture"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "method"
   ],
   [
    "2026-05",
    "neurosymbolic",
    "robust"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "neurosymbolic",
+   "theory"
   ],
   [
    "2026-05",
@@ -97025,6 +104230,21 @@
   [
    "2026-05",
    "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
    "architecture"
   ],
   [
@@ -97045,6 +104265,126 @@
   [
    "2026-05",
    "rlhf-alignment",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
    "method"
   ],
   [
@@ -97116,6 +104456,56 @@
    "2026-05",
    "rlhf-alignment",
    "robust"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rlhf-alignment",
+   "theory"
   ],
   [
    "2026-05",
@@ -97270,6 +104660,11 @@
   [
    "2026-05",
    "self-supervised",
+   "application"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
    "architecture"
   ],
   [
@@ -97281,6 +104676,66 @@
    "2026-05",
    "self-supervised",
    "efficient"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "method"
   ],
   [
    "2026-05",
@@ -97334,6 +104789,36 @@
   ],
   [
    "2026-05",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-05",
    "supervised",
    "algorithm"
   ],
@@ -98420,6 +105905,21 @@
   [
    "2026-05",
    "transfer",
+   "application"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "application"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "application"
+  ],
+  [
+   "2026-05",
+   "transfer",
    "architecture"
   ],
   [
@@ -98471,6 +105971,126 @@
    "2026-05",
    "transfer",
    "efficient"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "method"
   ],
   [
    "2026-05",
@@ -98510,6 +106130,96 @@
   [
    "2026-05",
    "transfer",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "transfer",
    "theory"
   ],
   [
@@ -99265,6 +106975,71 @@
   [
    "2026-05",
    "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-05",
+   "world-model",
    "optimization"
   ],
   [
@@ -99281,6 +107056,71 @@
    "2026-05",
    "world-model",
    "robust"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "world-model",
+   "theory"
   ],
   [
    "2026-05",
@@ -99515,6 +107355,136 @@
   [
    "2026-06",
    "active",
+   "development"
+  ],
+  [
+   "2026-06",
+   "active",
+   "development"
+  ],
+  [
+   "2026-06",
+   "active",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "method"
+  ],
+  [
+   "2026-06",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
    "theory"
   ],
   [
@@ -99549,6 +107519,61 @@
   ],
   [
    "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-06",
    "causal",
    "algorithm"
   ],
@@ -99841,6 +107866,61 @@
    "2026-06",
    "causal",
    "architecture"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "method"
   ],
   [
    "2026-06",
@@ -99919,8 +107999,38 @@
   ],
   [
    "2026-06",
-   "continual",
-   "algorithm"
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "causal",
+   "theory"
   ],
   [
    "2026-06",
@@ -100071,6 +108181,26 @@
    "2026-06",
    "continual",
    "algorithm"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "algorithm"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "application"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "application"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "application"
   ],
   [
    "2026-06",
@@ -100096,6 +108226,86 @@
    "2026-06",
    "continual",
    "efficient"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "method"
   ],
   [
    "2026-06",
@@ -100110,7 +108320,7 @@
   [
    "2026-06",
    "continual",
-   "theory"
+   "systems"
   ],
   [
    "2026-06",
@@ -100169,8 +108379,43 @@
   ],
   [
    "2026-06",
-   "curriculum",
-   "algorithm"
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "continual",
+   "theory"
   ],
   [
    "2026-06",
@@ -100251,6 +108496,16 @@
    "2026-06",
    "curriculum",
    "algorithm"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "algorithm"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "application"
   ],
   [
    "2026-06",
@@ -100275,6 +108530,206 @@
   [
    "2026-06",
    "curriculum",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
    "theory"
   ],
   [
@@ -100294,8 +108749,73 @@
   ],
   [
    "2026-06",
-   "diffusion",
-   "algorithm"
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "curriculum",
+   "theory"
   ],
   [
    "2026-06",
@@ -100526,6 +109046,21 @@
    "2026-06",
    "diffusion",
    "algorithm"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "algorithm"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "application"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "application"
   ],
   [
    "2026-06",
@@ -100586,6 +109121,141 @@
    "2026-06",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "experiment"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "method"
   ],
   [
    "2026-06",
@@ -100605,6 +109275,126 @@
   [
    "2026-06",
    "diffusion",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "diffusion",
    "theory"
   ],
   [
@@ -100746,6 +109536,21 @@
    "2026-06",
    "federated",
    "algorithm"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "application"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "application"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "application"
   ],
   [
    "2026-06",
@@ -100780,7 +109585,82 @@
   [
    "2026-06",
    "federated",
-   "robust"
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "method"
   ],
   [
    "2026-06",
@@ -100806,6 +109686,71 @@
    "2026-06",
    "federated",
    "robust"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "robust"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "federated",
+   "theory"
   ],
   [
    "2026-06",
@@ -101040,6 +109985,211 @@
   [
    "2026-06",
    "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
    "optimization"
   ],
   [
@@ -101055,6 +110205,86 @@
   [
    "2026-06",
    "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "meta-learning",
    "theory"
   ],
   [
@@ -101140,6 +110370,111 @@
   [
    "2026-06",
    "multi-agent",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent",
    "theory"
   ],
   [
@@ -101370,12 +110705,107 @@
   [
    "2026-06",
    "neurosymbolic",
+   "application"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
    "architecture"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "development"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "method"
   ],
   [
    "2026-06",
    "neurosymbolic",
    "robust"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "neurosymbolic",
+   "theory"
   ],
   [
    "2026-06",
@@ -102465,6 +111895,16 @@
   [
    "2026-06",
    "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
    "architecture"
   ],
   [
@@ -102491,6 +111931,161 @@
    "2026-06",
    "rlhf-alignment",
    "efficient"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "method"
   ],
   [
    "2026-06",
@@ -102536,6 +112131,61 @@
    "2026-06",
    "rlhf-alignment",
    "robust"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rlhf-alignment",
+   "theory"
   ],
   [
    "2026-06",
@@ -102675,6 +112325,76 @@
   [
    "2026-06",
    "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "self-supervised",
    "theory"
   ],
   [
@@ -102689,6 +112409,11 @@
   ],
   [
    "2026-06",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-06",
    "supervised",
    "algorithm"
   ],
@@ -103501,6 +113226,126 @@
    "2026-06",
    "transfer",
    "efficient"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "method"
   ],
   [
    "2026-06",
@@ -103555,6 +113400,66 @@
   [
    "2026-06",
    "transfer",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "transfer",
    "theory"
   ],
   [
@@ -104025,6 +113930,11 @@
   [
    "2026-06",
    "world-model",
+   "application"
+  ],
+  [
+   "2026-06",
+   "world-model",
    "architecture"
   ],
   [
@@ -104090,7 +114000,132 @@
   [
    "2026-06",
    "world-model",
-   "scaling"
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "method"
   ],
   [
    "2026-06",
@@ -104105,6 +114140,61 @@
   [
    "2026-06",
    "world-model",
+   "scaling"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "world-model",
    "theory"
   ],
   [
@@ -104286,6 +114376,76 @@
    "2026-07",
    "active",
    "algorithm"
+  ],
+  [
+   "2026-07",
+   "active",
+   "application"
+  ],
+  [
+   "2026-07",
+   "active",
+   "development"
+  ],
+  [
+   "2026-07",
+   "active",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
+  ],
+  [
+   "2026-07",
+   "active",
+   "method"
   ],
   [
    "2026-07",
@@ -104296,6 +114456,96 @@
    "2026-07",
    "active",
    "optimization"
+  ],
+  [
+   "2026-07",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "active",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "active",
+   "theory"
   ],
   [
    "2026-07",
@@ -104475,7 +114725,7 @@
   [
    "2026-07",
    "causal",
-   "architecture"
+   "application"
   ],
   [
    "2026-07",
@@ -104486,6 +114736,51 @@
    "2026-07",
    "causal",
    "architecture"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "architecture"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "method"
   ],
   [
    "2026-07",
@@ -104510,6 +114805,51 @@
   [
    "2026-07",
    "causal",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "causal",
    "theory"
   ],
   [
@@ -104671,11 +115011,71 @@
    "2026-07",
    "continual",
    "algorithm"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "application"
   ],
   [
    "2026-07",
    "continual",
    "architecture"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "method"
   ],
   [
    "2026-07",
@@ -104685,6 +115085,141 @@
   [
    "2026-07",
    "continual",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "continual",
    "theory"
   ],
   [
@@ -104771,6 +115306,161 @@
    "2026-07",
    "curriculum",
    "efficient"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "experiment"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "method"
   ],
   [
    "2026-07",
@@ -104780,6 +115470,31 @@
   [
    "2026-07",
    "curriculum",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "curriculum",
    "theory"
   ],
   [
@@ -104799,8 +115514,28 @@
   ],
   [
    "2026-07",
-   "diffusion",
-   "algorithm"
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "curriculum",
+   "theory"
   ],
   [
    "2026-07",
@@ -104956,6 +115691,26 @@
    "2026-07",
    "diffusion",
    "algorithm"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "algorithm"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "application"
   ],
   [
    "2026-07",
@@ -104996,6 +115751,81 @@
    "2026-07",
    "diffusion",
    "efficient"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "method"
   ],
   [
    "2026-07",
@@ -105020,6 +115850,61 @@
   [
    "2026-07",
    "diffusion",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
    "theory"
   ],
   [
@@ -105069,8 +115954,28 @@
   ],
   [
    "2026-07",
-   "federated",
-   "algorithm"
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "diffusion",
+   "theory"
   ],
   [
    "2026-07",
@@ -105156,6 +116061,16 @@
    "2026-07",
    "federated",
    "algorithm"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "algorithm"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "application"
   ],
   [
    "2026-07",
@@ -105166,11 +116081,56 @@
    "2026-07",
    "federated",
    "architecture"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "development"
   ],
   [
    "2026-07",
    "federated",
    "efficient"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "method"
   ],
   [
    "2026-07",
@@ -105190,6 +116150,61 @@
   [
    "2026-07",
    "federated",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "federated",
    "theory"
   ],
   [
@@ -105346,6 +116361,171 @@
    "2026-07",
    "meta-learning",
    "efficient"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "meta-learning",
+   "theory"
   ],
   [
    "2026-07",
@@ -105385,7 +116565,167 @@
   [
    "2026-07",
    "multi-agent",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
    "robust"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent",
+   "theory"
   ],
   [
    "2026-07",
@@ -105541,6 +116881,106 @@
    "2026-07",
    "neurosymbolic",
    "efficient"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "neurosymbolic",
+   "theory"
   ],
   [
    "2026-07",
@@ -106245,12 +117685,107 @@
   [
    "2026-07",
    "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
    "architecture"
   ],
   [
    "2026-07",
    "rlhf-alignment",
    "architecture"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "method"
   ],
   [
    "2026-07",
@@ -106275,6 +117810,76 @@
   [
    "2026-07",
    "rlhf-alignment",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rlhf-alignment",
    "theory"
   ],
   [
@@ -106400,7 +118005,7 @@
   [
    "2026-07",
    "self-supervised",
-   "architecture"
+   "application"
   ],
   [
    "2026-07",
@@ -106421,6 +118026,91 @@
    "2026-07",
    "self-supervised",
    "architecture"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "architecture"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "self-supervised",
+   "theory"
   ],
   [
    "2026-07",
@@ -107020,6 +118710,21 @@
   [
    "2026-07",
    "transfer",
+   "application"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "application"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "application"
+  ],
+  [
+   "2026-07",
+   "transfer",
    "architecture"
   ],
   [
@@ -107066,6 +118771,136 @@
    "2026-07",
    "transfer",
    "efficient"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "method"
   ],
   [
    "2026-07",
@@ -107080,6 +118915,56 @@
   [
    "2026-07",
    "transfer",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "transfer",
    "theory"
   ],
   [
@@ -107405,6 +119290,11 @@
   [
    "2026-07",
    "world-model",
+   "application"
+  ],
+  [
+   "2026-07",
+   "world-model",
    "architecture"
   ],
   [
@@ -107455,7 +119345,87 @@
   [
    "2026-07",
    "world-model",
-   "scaling"
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "method"
   ],
   [
    "2026-07",
@@ -107471,6 +119441,56 @@
    "2026-07",
    "world-model",
    "scaling"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "scaling"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "world-model",
+   "theory"
   ],
   [
    "2026-07",
@@ -107966,6 +119986,61 @@
    "2026-08",
    "active",
    "architecture"
+  ],
+  [
+   "2026-08",
+   "active",
+   "method"
+  ],
+  [
+   "2026-08",
+   "active",
+   "method"
+  ],
+  [
+   "2026-08",
+   "active",
+   "method"
+  ],
+  [
+   "2026-08",
+   "active",
+   "method"
+  ],
+  [
+   "2026-08",
+   "active",
+   "method"
+  ],
+  [
+   "2026-08",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "active",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "active",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "active",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "active",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "active",
+   "theory"
   ],
   [
    "2026-08",
@@ -107996,6 +120071,41 @@
    "2026-08",
    "causal",
    "application"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "application"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "method"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "method"
   ],
   [
    "2026-08",
@@ -108005,6 +120115,36 @@
   [
    "2026-08",
    "causal",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "causal",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "causal",
    "theory"
   ],
   [
@@ -108050,7 +120190,7 @@
   [
    "2026-08",
    "continual",
-   "architecture"
+   "application"
   ],
   [
    "2026-08",
@@ -108061,6 +120201,116 @@
    "2026-08",
    "continual",
    "architecture"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "architecture"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "method"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "continual",
+   "theory"
   ],
   [
    "2026-08",
@@ -108091,6 +120341,101 @@
    "2026-08",
    "curriculum",
    "application"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "application"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "development"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "method"
   ],
   [
    "2026-08",
@@ -108110,7 +120455,152 @@
   [
    "2026-08",
    "curriculum",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "curriculum",
    "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "curriculum",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "method"
   ],
   [
    "2026-08",
@@ -108131,6 +120621,61 @@
    "2026-08",
    "diffusion",
    "optimization"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "diffusion",
+   "theory"
   ],
   [
    "2026-08",
@@ -108149,8 +120694,73 @@
   ],
   [
    "2026-08",
-   "imitation",
-   "algorithm"
+   "federated",
+   "application"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "federated",
+   "theory"
   ],
   [
    "2026-08",
@@ -108159,6 +120769,16 @@
   ],
   [
    "2026-08",
+   "imitation",
+   "algorithm"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "architecture"
+  ],
+  [
+   "2026-08",
    "meta-learning",
    "architecture"
   ],
@@ -108170,7 +120790,82 @@
   [
    "2026-08",
    "meta-learning",
-   "architecture"
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "systems"
   ],
   [
    "2026-08",
@@ -108180,6 +120875,111 @@
   [
    "2026-08",
    "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "meta-learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
    "theory"
   ],
   [
@@ -108221,6 +121021,26 @@
    "2026-08",
    "neurosymbolic",
    "algorithm"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "method"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "method"
   ],
   [
    "2026-08",
@@ -108231,6 +121051,46 @@
    "2026-08",
    "neurosymbolic",
    "scaling"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "neurosymbolic",
+   "theory"
   ],
   [
    "2026-08",
@@ -108515,6 +121375,86 @@
   [
    "2026-08",
    "rlhf-alignment",
+   "application"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
    "method"
   ],
   [
@@ -108535,11 +121475,101 @@
   [
    "2026-08",
    "rlhf-alignment",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
    "theory"
   ],
   [
    "2026-08",
    "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "rlhf-alignment",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "method"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "self-supervised",
    "theory"
   ],
   [
@@ -108730,7 +121760,97 @@
   [
    "2026-08",
    "transfer",
+   "development"
+  ],
+  [
+   "2026-08",
+   "transfer",
    "efficient"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "method"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "transfer",
+   "theory"
   ],
   [
    "2026-08",
@@ -108841,68 +121961,143 @@
    "2026-08",
    "world-model",
    "architecture"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "method"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "world-model",
+   "theory"
   ]
  ],
  "venues": [
   {
    "name": "arXiv (Cornell University)",
-   "papers": 511
-  },
-  {
-   "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
-   "papers": 180
-  },
-  {
-   "name": "Lecture notes in computer science",
-   "papers": 107
+   "papers": 724
   },
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 98
+   "papers": 330
+  },
+  {
+   "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "papers": 221
+  },
+  {
+   "name": "Lecture notes in computer science",
+   "papers": 118
+  },
+  {
+   "name": "Scientific Reports",
+   "papers": 95
   },
   {
    "name": "Expert Systems with Applications",
-   "papers": 84
+   "papers": 95
   },
   {
    "name": "Knowledge-Based Systems",
-   "papers": 82
+   "papers": 92
+  },
+  {
+   "name": "Neurocomputing",
+   "papers": 87
   },
   {
    "name": "IEEE Transactions on Neural Networks and Learning Systems",
    "papers": 74
   },
   {
-   "name": "Scientific Reports",
-   "papers": 71
-  },
-  {
-   "name": "Neurocomputing",
-   "papers": 69
-  },
-  {
    "name": "IEEE Access",
-   "papers": 65
-  },
-  {
-   "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-   "papers": 60
+   "papers": 66
   },
   {
    "name": "Applied Energy",
-   "papers": 60
+   "papers": 65
   },
   {
    "name": "Engineering Applications of Artificial Intelligence",
-   "papers": 59
+   "papers": 64
   },
   {
-   "name": "CoRR",
-   "papers": 58
+   "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+   "papers": 62
   },
   {
    "name": "Pattern Recognition",
-   "papers": 55
+   "papers": 60
+  },
+  {
+   "name": "Applied Sciences",
+   "papers": 60
   }
  ],
  "keyword_bursts": [
@@ -108910,106 +122105,106 @@
    "keyword": "rlhf alignment",
    "recent": 3,
    "total": 3,
-   "burst_score": 2.12,
-   "recent_share": 0.0003
+   "burst_score": 1.89,
+   "recent_share": 0.0002
   },
   {
-   "keyword": "world model",
-   "recent": 394,
-   "total": 587,
-   "burst_score": 1.42,
-   "recent_share": 0.0385
+   "keyword": "self-paced",
+   "recent": 124,
+   "total": 147,
+   "burst_score": 1.59,
+   "recent_share": 0.0096
   },
   {
-   "keyword": "neurosymbolic",
-   "recent": 143,
-   "total": 235,
-   "burst_score": 1.29,
-   "recent_share": 0.014
+   "keyword": "survey",
+   "recent": 1748,
+   "total": 2184,
+   "burst_score": 1.51,
+   "recent_share": 0.1359
   },
   {
-   "keyword": "reasoning",
-   "recent": 1129,
-   "total": 1914,
-   "burst_score": 1.25,
-   "recent_share": 0.1104
-  },
-  {
-   "keyword": "inference",
-   "recent": 1319,
-   "total": 2268,
-   "burst_score": 1.23,
-   "recent_share": 0.129
-  },
-  {
-   "keyword": "discovery",
-   "recent": 442,
-   "total": 767,
-   "burst_score": 1.22,
-   "recent_share": 0.0432
-  },
-  {
-   "keyword": "alignment",
-   "recent": 937,
-   "total": 1638,
-   "burst_score": 1.21,
-   "recent_share": 0.0916
+   "keyword": "cooperation",
+   "recent": 158,
+   "total": 214,
+   "burst_score": 1.4,
+   "recent_share": 0.0123
   },
   {
    "keyword": "multi agent",
-   "recent": 8,
-   "total": 14,
-   "burst_score": 1.21,
-   "recent_share": 0.0008
+   "recent": 15,
+   "total": 21,
+   "burst_score": 1.35,
+   "recent_share": 0.0012
   },
   {
-   "keyword": "self supervised",
-   "recent": 11,
-   "total": 20,
-   "burst_score": 1.17,
-   "recent_share": 0.0011
-  },
-  {
-   "keyword": "from",
-   "recent": 5068,
-   "total": 9286,
-   "burst_score": 1.16,
-   "recent_share": 0.4956
-  },
-  {
-   "keyword": "transfer",
-   "recent": 975,
-   "total": 1794,
-   "burst_score": 1.15,
-   "recent_share": 0.0953
-  },
-  {
-   "keyword": "causal",
-   "recent": 925,
-   "total": 1699,
-   "burst_score": 1.15,
-   "recent_share": 0.0905
+   "keyword": "world model",
+   "recent": 429,
+   "total": 622,
+   "burst_score": 1.3,
+   "recent_share": 0.0334
   },
   {
    "keyword": "lifelong",
-   "recent": 101,
-   "total": 187,
+   "recent": 189,
+   "total": 275,
+   "burst_score": 1.3,
+   "recent_share": 0.0147
+  },
+  {
+   "keyword": "reasoning",
+   "recent": 1390,
+   "total": 2175,
+   "burst_score": 1.21,
+   "recent_share": 0.1081
+  },
+  {
+   "keyword": "neurosymbolic",
+   "recent": 165,
+   "total": 257,
+   "burst_score": 1.21,
+   "recent_share": 0.0128
+  },
+  {
+   "keyword": "alignment",
+   "recent": 1202,
+   "total": 1903,
+   "burst_score": 1.19,
+   "recent_share": 0.0935
+  },
+  {
+   "keyword": "discovery",
+   "recent": 547,
+   "total": 872,
+   "burst_score": 1.19,
+   "recent_share": 0.0425
+  },
+  {
+   "keyword": "inference",
+   "recent": 1532,
+   "total": 2481,
+   "burst_score": 1.17,
+   "recent_share": 0.1191
+  },
+  {
+   "keyword": "transfer",
+   "recent": 1268,
+   "total": 2087,
    "burst_score": 1.15,
-   "recent_share": 0.0099
+   "recent_share": 0.0986
   },
   {
-   "keyword": "world",
-   "recent": 1781,
-   "total": 3299,
-   "burst_score": 1.14,
-   "recent_share": 0.1742
+   "keyword": "active",
+   "recent": 1160,
+   "total": 1907,
+   "burst_score": 1.15,
+   "recent_share": 0.0902
   },
   {
-   "keyword": "symbolic",
-   "recent": 456,
-   "total": 853,
-   "burst_score": 1.13,
-   "recent_share": 0.0446
+   "keyword": "self supervised",
+   "recent": 14,
+   "total": 23,
+   "burst_score": 1.15,
+   "recent_share": 0.0011
   }
  ]
 }
