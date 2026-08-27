@@ -35,6 +35,33 @@ taxonomy:
     display: Survey
   - id: method
     display: Method
+  - id: supervised
+    display: Supervised Learning
+    description: Classification, regression, supervised training
+  - id: unsupervised
+    display: Unsupervised Learning
+    description: Clustering, representation learning, density estimation
+  - id: reinforcement
+    display: Reinforcement Learning
+    description: RL, policy optimization, rewards
+  - id: online
+    display: Online Learning
+    description: Streaming, incremental, adaptive learning
+  - id: reasoning
+    display: Reasoning
+    description: Logical, symbolic, chain-of-thought reasoning
+  - id: multimodal
+    display: Multimodal Learning
+    description: Vision-language, cross-modal fusion
+  - id: imitation
+    display: Imitation Learning
+    description: Behavior cloning, demonstration learning
+  - id: retrieval-augmented
+    display: Retrieval-Augmented
+    description: RAG, external knowledge grounding
+  - id: reward-modeling
+    display: Reward Modeling
+    description: Preference learning, RLHF rewards
   subcategories:
   - id: method
     display: Method
@@ -313,13 +340,6 @@ subcategory_keywords:
   - real-world
   - case study
   - empirical
-- id: evaluation
-  keywords:
-  - benchmark
-  - evaluation
-  - comparison
-  - baseline
-  - empirical study
 - id: development
   keywords:
   - implementation
