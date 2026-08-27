@@ -1,12 +1,13 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 35 concepts, 268 relationships from 24313 papers. Edges = co-occurrence (shared papers).
+**Generated:** 44 concepts, 348 relationships from 24313 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
 | framework | curated | 7693 |
+| Supervised Learning | taxonomy | 2618 |
 | dataset | curated | 2277 |
 | Diffusion | taxonomy | 2261 |
 | survey | curated | 1850 |
@@ -14,57 +15,72 @@
 | Causal | taxonomy | 1645 |
 | Federated | taxonomy | 1627 |
 | Rlhf Alignment | taxonomy | 1495 |
+| Reinforcement Learning | taxonomy | 1467 |
 | Transfer | taxonomy | 1466 |
 | World Model | taxonomy | 1427 |
 | Curriculum | taxonomy | 1108 |
 | Meta Learning | taxonomy | 1050 |
 | Continual | taxonomy | 1038 |
+| Unsupervised Learning | taxonomy | 1025 |
 | Active | taxonomy | 1004 |
 | Neurosymbolic | taxonomy | 961 |
 | Self Supervised | taxonomy | 913 |
+| Online Learning | taxonomy | 807 |
+| Reasoning | taxonomy | 633 |
 | Multi Agent | taxonomy | 611 |
 | quantitative | curated | 427 |
+| Multimodal Learning | taxonomy | 351 |
 | qualitative | curated | 317 |
 | taxonomy | curated | 307 |
+| Imitation Learning | taxonomy | 276 |
+| Retrieval-Augmented | taxonomy | 267 |
 | case study | curated | 216 |
 | experiment | curated | 210 |
 | systematic review | curated | 158 |
+| Reward Modeling | taxonomy | 149 |
 | reproducibility | curated | 137 |
+| Method | taxonomy | 114 |
 | literature review | curated | 85 |
 | interview | curated | 26 |
 | research gap | curated | 23 |
 | mixed methods | curated | 21 |
 | triangulation | curated | 13 |
 | peer review | curated | 13 |
-| open access | curated | 7 |
-| grounded theory | curated | 5 |
-| Survey | taxonomy | 0 |
-| Method | taxonomy | 0 |
-| meta analysis | curated | 0 |
 
 ## Relationships (top concepts → related concepts)
 
 ### framework
 
 - dataset — 900 shared paper(s)
+- Supervised Learning — 839 shared paper(s)
 - Diffusion — 803 shared paper(s)
 - benchmark — 754 shared paper(s)
 - Federated — 650 shared paper(s)
 - Causal — 644 shared paper(s)
+- Reinforcement Learning — 537 shared paper(s)
 - Rlhf Alignment — 535 shared paper(s)
-- World Model — 465 shared paper(s)
-- Transfer — 375 shared paper(s)
+
+### Supervised Learning
+
+- framework — 839 shared paper(s)
+- dataset — 377 shared paper(s)
+- benchmark — 238 shared paper(s)
+- survey — 42 shared paper(s)
+- quantitative — 33 shared paper(s)
+- experiment — 26 shared paper(s)
+- qualitative — 22 shared paper(s)
+- case study — 20 shared paper(s)
 
 ### dataset
 
 - framework — 900 shared paper(s)
+- Supervised Learning — 377 shared paper(s)
 - benchmark — 335 shared paper(s)
 - Transfer — 217 shared paper(s)
 - Diffusion — 213 shared paper(s)
 - Causal — 176 shared paper(s)
 - Rlhf Alignment — 176 shared paper(s)
 - Federated — 168 shared paper(s)
-- Meta Learning — 117 shared paper(s)
 
 ### Diffusion
 
@@ -92,12 +108,12 @@
 
 - framework — 754 shared paper(s)
 - dataset — 335 shared paper(s)
+- Supervised Learning — 238 shared paper(s)
 - Causal — 156 shared paper(s)
 - Diffusion — 140 shared paper(s)
 - Transfer — 125 shared paper(s)
 - Federated — 120 shared paper(s)
 - Rlhf Alignment — 119 shared paper(s)
-- World Model — 115 shared paper(s)
 
 ### Causal
 
@@ -131,6 +147,17 @@
 - quantitative — 24 shared paper(s)
 - qualitative — 21 shared paper(s)
 - experiment — 18 shared paper(s)
+
+### Reinforcement Learning
+
+- framework — 537 shared paper(s)
+- benchmark — 97 shared paper(s)
+- dataset — 79 shared paper(s)
+- survey — 21 shared paper(s)
+- case study — 13 shared paper(s)
+- quantitative — 11 shared paper(s)
+- experiment — 10 shared paper(s)
+- qualitative — 9 shared paper(s)
 
 ### Transfer
 
@@ -187,6 +214,17 @@
 - qualitative — 13 shared paper(s)
 - case study — 9 shared paper(s)
 
+### Unsupervised Learning
+
+- framework — 351 shared paper(s)
+- dataset — 98 shared paper(s)
+- benchmark — 83 shared paper(s)
+- survey — 16 shared paper(s)
+- quantitative — 12 shared paper(s)
+- case study — 11 shared paper(s)
+- taxonomy — 9 shared paper(s)
+- experiment — 9 shared paper(s)
+
 ### Active
 
 - framework — 274 shared paper(s)
@@ -220,6 +258,28 @@
 - taxonomy — 10 shared paper(s)
 - reproducibility — 9 shared paper(s)
 
+### Online Learning
+
+- framework — 210 shared paper(s)
+- benchmark — 38 shared paper(s)
+- dataset — 28 shared paper(s)
+- systematic review — 17 shared paper(s)
+- literature review — 10 shared paper(s)
+- survey — 5 shared paper(s)
+- qualitative — 4 shared paper(s)
+- reproducibility — 3 shared paper(s)
+
+### Reasoning
+
+- framework — 141 shared paper(s)
+- dataset — 44 shared paper(s)
+- benchmark — 39 shared paper(s)
+- survey — 24 shared paper(s)
+- quantitative — 7 shared paper(s)
+- experiment — 4 shared paper(s)
+- case study — 4 shared paper(s)
+- qualitative — 3 shared paper(s)
+
 ### Multi Agent
 
 - framework — 198 shared paper(s)
@@ -240,7 +300,18 @@
 - Diffusion — 58 shared paper(s)
 - Active — 49 shared paper(s)
 - dataset — 43 shared paper(s)
-- benchmark — 32 shared paper(s)
+- Supervised Learning — 33 shared paper(s)
+
+### Multimodal Learning
+
+- framework — 51 shared paper(s)
+- survey — 21 shared paper(s)
+- dataset — 13 shared paper(s)
+- benchmark — 12 shared paper(s)
+- taxonomy — 4 shared paper(s)
+- quantitative — 3 shared paper(s)
+- experiment — 3 shared paper(s)
+- systematic review — 2 shared paper(s)
 
 ### qualitative
 
@@ -251,73 +322,7 @@
 - Active — 43 shared paper(s)
 - Diffusion — 38 shared paper(s)
 - dataset — 29 shared paper(s)
-- Rlhf Alignment — 21 shared paper(s)
-
-### taxonomy
-
-- survey — 212 shared paper(s)
-- framework — 84 shared paper(s)
-- Federated — 54 shared paper(s)
-- benchmark — 40 shared paper(s)
-- Rlhf Alignment — 36 shared paper(s)
-- systematic review — 31 shared paper(s)
-- Diffusion — 31 shared paper(s)
-- World Model — 29 shared paper(s)
-
-### case study
-
-- framework — 88 shared paper(s)
-- survey — 27 shared paper(s)
-- Causal — 26 shared paper(s)
-- dataset — 21 shared paper(s)
-- Transfer — 18 shared paper(s)
-- Active — 18 shared paper(s)
-- Neurosymbolic — 17 shared paper(s)
-- benchmark — 16 shared paper(s)
-
-### experiment
-
-- framework — 68 shared paper(s)
-- dataset — 36 shared paper(s)
-- Causal — 32 shared paper(s)
-- Rlhf Alignment — 18 shared paper(s)
-- benchmark — 17 shared paper(s)
-- Meta Learning — 16 shared paper(s)
-- Federated — 16 shared paper(s)
-- survey — 15 shared paper(s)
-
-### systematic review
-
-- survey — 61 shared paper(s)
-- taxonomy — 31 shared paper(s)
-- framework — 28 shared paper(s)
-- Meta Learning — 23 shared paper(s)
-- Federated — 20 shared paper(s)
-- dataset — 17 shared paper(s)
-- Transfer — 13 shared paper(s)
-- Neurosymbolic — 12 shared paper(s)
-
-### reproducibility
-
-- framework — 59 shared paper(s)
-- dataset — 40 shared paper(s)
-- survey — 31 shared paper(s)
-- benchmark — 28 shared paper(s)
-- Causal — 19 shared paper(s)
-- World Model — 12 shared paper(s)
-- taxonomy — 12 shared paper(s)
-- Meta Learning — 11 shared paper(s)
-
-### literature review
-
-- survey — 31 shared paper(s)
-- framework — 26 shared paper(s)
-- systematic review — 10 shared paper(s)
-- Federated — 9 shared paper(s)
-- Meta Learning — 8 shared paper(s)
-- Continual — 8 shared paper(s)
-- Active — 7 shared paper(s)
-- Curriculum — 7 shared paper(s)
+- Supervised Learning — 22 shared paper(s)
 
 
 Generated by `tools/relate_concepts.py` — do not edit by hand.
