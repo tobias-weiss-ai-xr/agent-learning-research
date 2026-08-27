@@ -19,3 +19,4 @@ paper/*.out
 paper/*.bbl
 paper/*.pdf
 paper/figures/*.png
+verify-sources-report.json
