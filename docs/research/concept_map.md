@@ -1,15 +1,15 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 44 concepts, 348 relationships from 24313 papers. Edges = co-occurrence (shared papers).
+**Generated:** 44 concepts, 348 relationships from 24314 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| framework | curated | 7693 |
+| framework | curated | 7694 |
 | Supervised Learning | taxonomy | 2618 |
 | dataset | curated | 2277 |
-| Diffusion | taxonomy | 2261 |
+| Diffusion | taxonomy | 2262 |
 | survey | curated | 1850 |
 | benchmark | curated | 1804 |
 | Causal | taxonomy | 1645 |
@@ -53,7 +53,7 @@
 
 - dataset — 900 shared paper(s)
 - Supervised Learning — 839 shared paper(s)
-- Diffusion — 803 shared paper(s)
+- Diffusion — 804 shared paper(s)
 - benchmark — 754 shared paper(s)
 - Federated — 650 shared paper(s)
 - Causal — 644 shared paper(s)
@@ -84,7 +84,7 @@
 
 ### Diffusion
 
-- framework — 803 shared paper(s)
+- framework — 804 shared paper(s)
 - dataset — 213 shared paper(s)
 - survey — 151 shared paper(s)
 - benchmark — 140 shared paper(s)

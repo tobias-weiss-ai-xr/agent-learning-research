@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 7693,
+      "df": 7694,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 7693,
+      "papers": 7694,
       "top_cells": [
         "diffusion/method",
         "supervised/method",
@@ -60,7 +60,7 @@
       "term": "Diffusion",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2261,
+      "df": 2262,
       "match": {
         "type": "field",
         "field": "category",
@@ -72,7 +72,7 @@
         "diffusion/application",
         "diffusion/survey"
       ],
-      "papers": 2261
+      "papers": 2262
     },
     {
       "term": "survey",

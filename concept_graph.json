@@ -4,7 +4,7 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 7693
+      "df": 7694
     },
     {
       "id": 1,
@@ -22,7 +22,7 @@
       "id": 3,
       "term": "Diffusion",
       "kind": "taxonomy",
-      "df": 2261
+      "df": 2262
     },
     {
       "id": 4,
@@ -1189,7 +1189,7 @@
     {
       "source": 0,
       "target": 3,
-      "weight": 803
+      "weight": 804
     },
     {
       "source": 2,
@@ -2010,6 +2010,6 @@
   "stats": {
     "concepts": 44,
     "edges": 348,
-    "papers": 24313
+    "papers": 24314
   }
 }
