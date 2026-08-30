@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 44 nodes, 365 edges, 1 components, 1 communities (modularity -3548.751). Edges = co-occurrence.
+**Generated:** 44 nodes, 381 edges, 1 components, 1 communities (modularity -4148.472). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.2130, degree 41, df 8508
-- **survey** — PR 0.0991, degree 39, df 3302
-- **dataset** — PR 0.0787, degree 37, df 2613
-- **benchmark** — PR 0.0614, degree 33, df 1950
-- **Diffusion** — PR 0.0417, degree 15, df 3326
-- **Federated** — PR 0.0394, degree 14, df 2543
-- **Rlhf Alignment** — PR 0.0317, degree 14, df 2101
-- **Causal** — PR 0.0303, degree 17, df 1928
-- **Supervised Learning** — PR 0.0293, degree 13, df 2618
-- **World Model** — PR 0.0271, degree 14, df 2033
-- **quantitative** — PR 0.0270, degree 35, df 545
-- **taxonomy** — PR 0.0226, degree 31, df 489
+- **framework** — PR 0.2015, degree 41, df 8917
+- **survey** — PR 0.1085, degree 40, df 4020
+- **dataset** — PR 0.0744, degree 37, df 2767
+- **benchmark** — PR 0.0573, degree 33, df 2032
+- **Diffusion** — PR 0.0378, degree 15, df 3409
+- **Federated** — PR 0.0350, degree 14, df 2551
+- **quantitative** — PR 0.0313, degree 36, df 717
+- **Curriculum** — PR 0.0305, degree 19, df 1815
+- **Rlhf Alignment** — PR 0.0285, degree 14, df 2134
+- **Meta Learning** — PR 0.0274, degree 18, df 1809
+- **Causal** — PR 0.0270, degree 17, df 1932
+- **qualitative** — PR 0.0266, degree 34, df 535
 
 ## Bridge nodes (high betweenness — connect clusters)
 
@@ -26,26 +26,26 @@
 - case study
 - benchmark
 - qualitative
-- experiment
-- taxonomy
 - systematic review
+- taxonomy
+- experiment
 
 ## Bridge edges (high edge-betweenness)
 
-- framework ↔ Reward Modeling (weight 10, EB 22.5)
-- dataset ↔ Reward Modeling (weight 5, EB 18.5)
-- framework ↔ open access (weight 2, EB 17.1667)
-- survey ↔ open access (weight 4, EB 15.1667)
+- survey ↔ meta analysis (weight 2, EB 32.0)
+- framework ↔ Reward Modeling (weight 10, EB 23.0)
+- dataset ↔ Reward Modeling (weight 5, EB 19.0)
+- framework ↔ open access (weight 4, EB 15.6167)
+- survey ↔ Imitation Learning (weight 8, EB 14.6667)
 - framework ↔ Imitation Learning (weight 26, EB 14.6667)
-- survey ↔ Imitation Learning (weight 8, EB 13.6667)
-- framework ↔ Method (weight 50, EB 13.0833)
+- survey ↔ open access (weight 6, EB 14.1167)
+- framework ↔ Method (weight 50, EB 13.25)
 - dataset ↔ Imitation Learning (weight 3, EB 12.6667)
-- framework ↔ peer review (weight 8, EB 10.5512)
-- dataset ↔ Method (weight 13, EB 10.0833)
+- dataset ↔ Method (weight 13, EB 10.25)
 
 ## Communities (clusters of related concepts)
 
-### Cluster 1 (42 concepts)
+### Cluster 1 (43 concepts)
 
 Active, Causal, Continual, Curriculum, Diffusion, Federated, Imitation Learning, Meta Learning, Method, Multi Agent, Multimodal Learning, Neurosymbolic
 
