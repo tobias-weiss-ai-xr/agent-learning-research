@@ -591,14 +591,9 @@
    "count": 28
   },
   {
-   "id": "mechanism",
-   "name": "mechanism",
-   "count": 2
-  },
-  {
    "id": "method",
    "name": "Method",
-   "count": 20855
+   "count": 20857
   },
   {
    "id": "survey",
@@ -68940,7 +68935,7 @@
   [
    "2025-05",
    "federated",
-   "mechanism"
+   "method"
   ],
   [
    "2025-05",
@@ -97170,7 +97165,7 @@
   [
    "2025-12",
    "federated",
-   "mechanism"
+   "method"
   ],
   [
    "2025-12",

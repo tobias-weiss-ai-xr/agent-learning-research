@@ -4,11 +4,11 @@
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 23,
-      "subcategories": 8,
-      "total_cells": 184,
-      "filled_cells": 110,
-      "saturation": 59.8,
-      "empty_cells": 74
+      "subcategories": 7,
+      "total_cells": 161,
+      "filled_cells": 109,
+      "saturation": 67.7,
+      "empty_cells": 52
     },
     "analysis_window": {
       "last_12m_start": "2025-08"
@@ -43,8 +43,7 @@
     "application": 751,
     "development": 60,
     "experiment": 28,
-    "mechanism": 2,
-    "method": 20855,
+    "method": 20857,
     "survey": 309,
     "systems": 205,
     "theory": 7545
@@ -74,7 +73,7 @@
   "by_cell": {
     "diffusion/method": 2331,
     "supervised/method": 1908,
-    "federated/method": 1802,
+    "federated/method": 1804,
     "rlhf-alignment/method": 1600,
     "world-model/method": 1552,
     "causal/method": 1386,
@@ -175,7 +174,6 @@
     "continual/development": 2,
     "neurosymbolic/development": 2,
     "rlhf-alignment/experiment": 2,
-    "federated/mechanism": 2,
     "continual/experiment": 2,
     "federated/development": 1,
     "transfer/development": 1,
@@ -896,12 +894,12 @@
         "papers": 2
       },
       {
-        "cell": "federated/mechanism",
+        "cell": "continual/experiment",
         "papers": 2
       },
       {
-        "cell": "continual/experiment",
-        "papers": 2
+        "cell": "reward-modeling/application",
+        "papers": 3
       }
     ],
     "white_space": [
