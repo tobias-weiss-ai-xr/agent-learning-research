@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 8917,
+      "df": 8915,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 8917,
+      "papers": 8915,
       "top_cells": [
         "diffusion/method",
         "federated/method",
@@ -24,14 +24,14 @@
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 4020,
+      "df": 4011,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 4020,
+      "papers": 4011,
       "top_cells": [
         "federated/method",
         "curriculum/method",
@@ -43,7 +43,7 @@
       "term": "Diffusion",
       "kind": "taxonomy",
       "seed": true,
-      "df": 3409,
+      "df": 3408,
       "match": {
         "type": "field",
         "field": "category",
@@ -55,20 +55,20 @@
         "diffusion/application",
         "diffusion/survey"
       ],
-      "papers": 3409
+      "papers": 3408
     },
     {
       "term": "dataset",
       "kind": "curated",
       "seed": true,
-      "df": 2767,
+      "df": 2766,
       "match": {
         "type": "text",
         "forms": [
           "dataset"
         ]
       },
-      "papers": 2767,
+      "papers": 2766,
       "top_cells": [
         "supervised/method",
         "diffusion/method",
@@ -97,7 +97,7 @@
       "term": "Federated",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2551,
+      "df": 2549,
       "match": {
         "type": "field",
         "field": "category",
@@ -109,13 +109,13 @@
         "federated/application",
         "federated/survey"
       ],
-      "papers": 2551
+      "papers": 2549
     },
     {
       "term": "World Model",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2154,
+      "df": 2153,
       "match": {
         "type": "field",
         "field": "category",
@@ -127,7 +127,7 @@
         "world-model/application",
         "world-model/survey"
       ],
-      "papers": 2154
+      "papers": 2153
     },
     {
       "term": "Rlhf Alignment",
@@ -170,7 +170,7 @@
       "term": "Causal",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1932,
+      "df": 1929,
       "match": {
         "type": "field",
         "field": "category",
@@ -182,13 +182,13 @@
         "causal/application",
         "causal/survey"
       ],
-      "papers": 1932
+      "papers": 1929
     },
     {
       "term": "Curriculum",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1815,
+      "df": 1814,
       "match": {
         "type": "field",
         "field": "category",
@@ -200,7 +200,7 @@
         "curriculum/application",
         "curriculum/survey"
       ],
-      "papers": 1815
+      "papers": 1814
     },
     {
       "term": "Meta Learning",
@@ -241,7 +241,7 @@
       "term": "Transfer",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1466,
+      "df": 1465,
       "match": {
         "type": "field",
         "field": "category",
@@ -253,13 +253,13 @@
         "transfer/application",
         "transfer/survey"
       ],
-      "papers": 1466
+      "papers": 1465
     },
     {
       "term": "Continual",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1303,
+      "df": 1302,
       "match": {
         "type": "field",
         "field": "category",
@@ -271,7 +271,7 @@
         "continual/application",
         "continual/survey"
       ],
-      "papers": 1303
+      "papers": 1302
     },
     {
       "term": "Unsupervised Learning",
@@ -294,7 +294,7 @@
       "term": "Active",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1004,
+      "df": 1000,
       "match": {
         "type": "field",
         "field": "category",
@@ -306,7 +306,7 @@
         "active/application",
         "active/survey"
       ],
-      "papers": 1004
+      "papers": 1000
     },
     {
       "term": "Neurosymbolic",
@@ -348,7 +348,7 @@
       "term": "Online Learning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 807,
+      "df": 806,
       "match": {
         "type": "field",
         "field": "category",
@@ -359,7 +359,7 @@
         "online/theory",
         "online/application"
       ],
-      "papers": 807
+      "papers": 806
     },
     {
       "term": "quantitative",
@@ -384,7 +384,7 @@
       "term": "Reasoning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 633,
+      "df": 632,
       "match": {
         "type": "field",
         "field": "category",
@@ -395,7 +395,7 @@
         "reasoning/theory",
         "reasoning/application"
       ],
-      "papers": 633
+      "papers": 632
     },
     {
       "term": "Multi Agent",
@@ -419,14 +419,14 @@
       "term": "taxonomy",
       "kind": "curated",
       "seed": true,
-      "df": 536,
+      "df": 535,
       "match": {
         "type": "text",
         "forms": [
           "taxonomy"
         ]
       },
-      "papers": 536,
+      "papers": 535,
       "top_cells": [
         "federated/method",
         "world-model/method",
@@ -438,14 +438,14 @@
       "term": "qualitative",
       "kind": "curated",
       "seed": true,
-      "df": 535,
+      "df": 532,
       "match": {
         "type": "text",
         "forms": [
           "qualitative"
         ]
       },
-      "papers": 535,
+      "papers": 532,
       "top_cells": [
         "curriculum/method",
         "diffusion/method",
@@ -474,14 +474,14 @@
       "term": "case study",
       "kind": "curated",
       "seed": true,
-      "df": 326,
+      "df": 325,
       "match": {
         "type": "text",
         "forms": [
           "case study"
         ]
       },
-      "papers": 326,
+      "papers": 325,
       "top_cells": [
         "curriculum/method",
         "rlhf-alignment/method",
@@ -493,14 +493,14 @@
       "term": "systematic review",
       "kind": "curated",
       "seed": true,
-      "df": 296,
+      "df": 295,
       "match": {
         "type": "text",
         "forms": [
           "systematic review"
         ]
       },
-      "papers": 296,
+      "papers": 295,
       "top_cells": [
         "meta-learning/method",
         "federated/method",
@@ -512,14 +512,14 @@
       "term": "experiment",
       "kind": "curated",
       "seed": true,
-      "df": 287,
+      "df": 286,
       "match": {
         "type": "text",
         "forms": [
           "experiment"
         ]
       },
-      "papers": 287,
+      "papers": 286,
       "top_cells": [
         "rlhf-alignment/method",
         "causal/method",
@@ -548,7 +548,7 @@
       "term": "Retrieval-Augmented",
       "kind": "taxonomy",
       "seed": true,
-      "df": 267,
+      "df": 266,
       "match": {
         "type": "field",
         "field": "category",
@@ -559,7 +559,7 @@
         "retrieval-augmented/theory",
         "retrieval-augmented/application"
       ],
-      "papers": 267
+      "papers": 266
     },
     {
       "term": "literature review",

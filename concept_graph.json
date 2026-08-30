@@ -4,25 +4,25 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 8917
+      "df": 8915
     },
     {
       "id": 1,
       "term": "survey",
       "kind": "curated",
-      "df": 4020
+      "df": 4011
     },
     {
       "id": 2,
       "term": "Diffusion",
       "kind": "taxonomy",
-      "df": 3409
+      "df": 3408
     },
     {
       "id": 3,
       "term": "dataset",
       "kind": "curated",
-      "df": 2767
+      "df": 2766
     },
     {
       "id": 4,
@@ -34,13 +34,13 @@
       "id": 5,
       "term": "Federated",
       "kind": "taxonomy",
-      "df": 2551
+      "df": 2549
     },
     {
       "id": 6,
       "term": "World Model",
       "kind": "taxonomy",
-      "df": 2154
+      "df": 2153
     },
     {
       "id": 7,
@@ -58,13 +58,13 @@
       "id": 9,
       "term": "Causal",
       "kind": "taxonomy",
-      "df": 1932
+      "df": 1929
     },
     {
       "id": 10,
       "term": "Curriculum",
       "kind": "taxonomy",
-      "df": 1815
+      "df": 1814
     },
     {
       "id": 11,
@@ -82,13 +82,13 @@
       "id": 13,
       "term": "Transfer",
       "kind": "taxonomy",
-      "df": 1466
+      "df": 1465
     },
     {
       "id": 14,
       "term": "Continual",
       "kind": "taxonomy",
-      "df": 1303
+      "df": 1302
     },
     {
       "id": 15,
@@ -100,7 +100,7 @@
       "id": 16,
       "term": "Active",
       "kind": "taxonomy",
-      "df": 1004
+      "df": 1000
     },
     {
       "id": 17,
@@ -118,7 +118,7 @@
       "id": 19,
       "term": "Online Learning",
       "kind": "taxonomy",
-      "df": 807
+      "df": 806
     },
     {
       "id": 20,
@@ -130,7 +130,7 @@
       "id": 21,
       "term": "Reasoning",
       "kind": "taxonomy",
-      "df": 633
+      "df": 632
     },
     {
       "id": 22,
@@ -142,13 +142,13 @@
       "id": 23,
       "term": "taxonomy",
       "kind": "curated",
-      "df": 536
+      "df": 535
     },
     {
       "id": 24,
       "term": "qualitative",
       "kind": "curated",
-      "df": 535
+      "df": 532
     },
     {
       "id": 25,
@@ -160,19 +160,19 @@
       "id": 26,
       "term": "case study",
       "kind": "curated",
-      "df": 326
+      "df": 325
     },
     {
       "id": 27,
       "term": "systematic review",
       "kind": "curated",
-      "df": 296
+      "df": 295
     },
     {
       "id": 28,
       "term": "experiment",
       "kind": "curated",
-      "df": 287
+      "df": 286
     },
     {
       "id": 29,
@@ -184,7 +184,7 @@
       "id": 30,
       "term": "Retrieval-Augmented",
       "kind": "taxonomy",
-      "df": 267
+      "df": 266
     },
     {
       "id": 31,
@@ -349,7 +349,7 @@
     {
       "source": 0,
       "target": 24,
-      "weight": 190
+      "weight": 189
     },
     {
       "source": 4,
@@ -374,7 +374,7 @@
     {
       "source": 0,
       "target": 1,
-      "weight": 752
+      "weight": 751
     },
     {
       "source": 1,
@@ -444,7 +444,7 @@
     {
       "source": 3,
       "target": 28,
-      "weight": 51
+      "weight": 50
     },
     {
       "source": 0,
@@ -489,7 +489,7 @@
     {
       "source": 1,
       "target": 23,
-      "weight": 411
+      "weight": 410
     },
     {
       "source": 12,
@@ -679,12 +679,12 @@
     {
       "source": 1,
       "target": 27,
-      "weight": 148
+      "weight": 147
     },
     {
       "source": 23,
       "target": 27,
-      "weight": 49
+      "weight": 48
     },
     {
       "source": 13,
@@ -714,7 +714,7 @@
     {
       "source": 1,
       "target": 13,
-      "weight": 235
+      "weight": 234
     },
     {
       "source": 0,
@@ -764,7 +764,7 @@
     {
       "source": 0,
       "target": 16,
-      "weight": 274
+      "weight": 272
     },
     {
       "source": 8,
@@ -789,7 +789,7 @@
     {
       "source": 1,
       "target": 16,
-      "weight": 129
+      "weight": 128
     },
     {
       "source": 3,
@@ -824,7 +824,7 @@
     {
       "source": 16,
       "target": 24,
-      "weight": 43
+      "weight": 42
     },
     {
       "source": 24,
@@ -889,22 +889,22 @@
     {
       "source": 3,
       "target": 5,
-      "weight": 252
+      "weight": 251
     },
     {
       "source": 5,
       "target": 28,
-      "weight": 27
+      "weight": 26
     },
     {
       "source": 1,
       "target": 5,
-      "weight": 605
+      "weight": 603
     },
     {
       "source": 5,
       "target": 26,
-      "weight": 18
+      "weight": 17
     },
     {
       "source": 5,
@@ -1114,12 +1114,12 @@
     {
       "source": 1,
       "target": 9,
-      "weight": 280
+      "weight": 278
     },
     {
       "source": 1,
       "target": 28,
-      "weight": 41
+      "weight": 40
     },
     {
       "source": 9,
@@ -1134,7 +1134,7 @@
     {
       "source": 1,
       "target": 3,
-      "weight": 215
+      "weight": 214
     },
     {
       "source": 3,
@@ -1224,12 +1224,12 @@
     {
       "source": 1,
       "target": 2,
-      "weight": 539
+      "weight": 538
     },
     {
       "source": 2,
       "target": 23,
-      "weight": 62
+      "weight": 61
     },
     {
       "source": 2,
@@ -1264,7 +1264,7 @@
     {
       "source": 1,
       "target": 6,
-      "weight": 428
+      "weight": 427
     },
     {
       "source": 6,
@@ -1299,7 +1299,7 @@
     {
       "source": 1,
       "target": 10,
-      "weight": 508
+      "weight": 507
     },
     {
       "source": 0,
@@ -1329,7 +1329,7 @@
     {
       "source": 1,
       "target": 26,
-      "weight": 68
+      "weight": 67
     },
     {
       "source": 4,
@@ -1429,7 +1429,7 @@
     {
       "source": 19,
       "target": 24,
-      "weight": 4
+      "weight": 3
     },
     {
       "source": 1,
@@ -1469,7 +1469,7 @@
     {
       "source": 2,
       "target": 27,
-      "weight": 22
+      "weight": 21
     },
     {
       "source": 1,
@@ -1479,7 +1479,7 @@
     {
       "source": 1,
       "target": 24,
-      "weight": 203
+      "weight": 202
     },
     {
       "source": 3,
@@ -1972,9 +1972,9 @@
       "weight": 2
     },
     {
-      "source": 1,
-      "target": 29,
-      "weight": 8
+      "source": 7,
+      "target": 31,
+      "weight": 5
     },
     {
       "source": 11,
@@ -1987,13 +1987,13 @@
       "weight": 4
     },
     {
-      "source": 7,
-      "target": 31,
-      "weight": 5
-    },
-    {
       "source": 6,
       "target": 35,
+      "weight": 2
+    },
+    {
+      "source": 20,
+      "target": 37,
       "weight": 2
     },
     {
@@ -2002,9 +2002,9 @@
       "weight": 5
     },
     {
-      "source": 20,
-      "target": 37,
-      "weight": 2
+      "source": 1,
+      "target": 29,
+      "weight": 8
     },
     {
       "source": 11,
@@ -2139,7 +2139,7 @@
     {
       "source": 21,
       "target": 24,
-      "weight": 3
+      "weight": 2
     },
     {
       "source": 21,
@@ -2175,6 +2175,6 @@
   "stats": {
     "concepts": 44,
     "edges": 381,
-    "papers": 29772
+    "papers": 29755
   }
 }
