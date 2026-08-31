@@ -27,17 +27,25 @@ concurrency:
 
 jobs:
   verify:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, ci-host]
     steps:
       - uses: actions/checkout@v4
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-verify-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install pyyaml requests
+      - name: Install dependencies (cached)
+        run: pip install pyyaml requests --quiet
 
       - name: Verify paper links (fail on definitively-dead links)
         run: python scripts/verify_sources.py verify-sources.yaml --fail --no-fail-early
