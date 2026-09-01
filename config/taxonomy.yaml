@@ -2,7 +2,7 @@ topic:
   name: Agent Learning
   short: agent-learning
   description: '- GitHub: https://github.com/tobias-weiss-ai-xr/agent-learning-research'
-  openalex_mailto: research@tobias-weiss-ai-xr.de
+  openalex_mailto: tobias@tobias-weiss.org
 taxonomy:
   categories:
   - id: diffusion
